@@ -1,0 +1,101 @@
+#include "armazem.hpp"
+
+/*Construtor*/
+Armazem::Armazem(int id, int vizinhos){
+    this->id_armazem = id;
+    this->n_vizinhos = vizinhos;
+
+    //Cria a pilha para todos os armazéns
+    this->secoes = new Pilha*[n_vizinhos];
+    for(int i = 0;i < n_vizinhos; i++){
+        this->secoes[i] = new Pilha();
+    }
+    
+    /*Para o armazém atual(dono) define a capacidade de elementos
+    na pilha de sua seção*/
+    this->secoes[id]->ConstroiPilha(n_vizinhos);
+}
+
+/*secaorutor*/
+Armazem::~Armazem(){
+
+    //Libera Memória das Seções
+    for (int i = 0; i < n_vizinhos; ++i) {
+        this->secoes[i]->deletePilha();
+        delete this->secoes[i];
+    }
+
+    delete[] this->secoes;
+}
+
+/* Adiciona Pacotes na seção do armazém*/
+void Armazem::AdicionaPacote(Pacote* pct){
+    this->secoes[id_armazem]->push(pct);
+}
+
+/* Retorna id do armazém*/
+int Armazem::getId(){
+    return this->id_armazem;
+}
+
+/* Retorna booleano se a função estover definida ou não*/
+bool Armazem::SecaoDefinida(int secao){
+
+    /*Se o parâmetro não esta no intervalo esperado ou a seção
+    não tem chave definida(seu respectivo armazém não é vizinho do atual)
+    a seção não é definida*/
+    if(secao < 0 || secao >= this->n_vizinhos){
+        return false;
+    }
+    
+    if(this->secoes[secao]->k_secao == -1){
+        return false;
+    }
+
+    return true;
+}
+
+/* Retorna seção, se seu respectivo armazém for vizinho do armazém atual */
+Pilha* Armazem::getSecao(int secao){
+    if(SecaoDefinida(secao)){
+        return this->secoes[secao];
+    }
+
+    return nullptr;
+}
+
+/* A partir da chave(indice) define a capacidade*/
+/*  Somente se o armazém da respectiva seção for 
+    vizinho do armazém atual a seção terá chave e capcidade definida */
+void Armazem::DefineSecoes(int chave, int capacidade){
+    this->secoes[chave]->defineSecao(chave);
+    this->secoes[chave]->ConstroiPilha(capacidade);
+}
+
+/* Retorna o booleano se a seção esta vazia ou nao*/
+bool Armazem::SecaoVazia(int secao){
+    //Se a secão não esta definida a pilha está vazia
+    if(!SecaoDefinida(secao)){
+        return false;
+    }
+
+    //Verifica se a seção definida está vazia
+    return this->secoes[secao]->vazia();
+}
+
+/* Adiciona pacote na seção, se a seção estiver definida*/
+void Armazem::AdicionaPacoteSecao(int secao, Pacote* pct){
+    if(SecaoDefinida(secao)){
+        this->secoes[secao]->push(pct);
+    }
+}
+
+
+/* Retira pacote da seção, se a seção estiver definida*/
+Pacote* Armazem::RetiraPacoteSecao(int secao){
+    if(!SecaoDefinida(secao)){
+        return nullptr;
+    }
+
+    return this->secoes[secao]->pop();
+}

@@ -1,0 +1,6668 @@
+municipio;uf;bioma
+GOVERNADOR CELSO RAMOS;SC;Área Marinha
+BONITO DE MINAS;MG;Cerrado
+CÔNEGO MARINHO;MG;Cerrado
+ITACARAMBI;MG;Cerrado
+JANUÁRIA;MG;Cerrado
+ÁGUAS LINDAS DE GOIÁS;GO;Cerrado
+BRASÍLIA;DF;Cerrado
+PADRE BERNARDO;GO;Cerrado
+ARARUAMA;RJ;Mata Atlântica
+CABO FRIO;RJ;Mata Atlântica
+CACHOEIRAS DE MACACU;RJ;Mata Atlântica
+CASIMIRO DE ABREU;RJ;Mata Atlântica
+RIO BONITO;RJ;Mata Atlântica
+RIO DAS OSTRAS;RJ;Mata Atlântica
+SILVA JARDIM;RJ;Mata Atlântica
+FLORIANÓPOLIS;SC;Área Marinha
+GAROPABA;SC;Área Marinha
+IÇARA;SC;Área Marinha
+IMBITUBA;SC;Área Marinha
+JAGUARUNA;SC;Área Marinha
+LAGUNA;SC;Área Marinha
+PALHOÇA;SC;Área Marinha
+PAULO LOPES;SC;Área Marinha
+TUBARÃO;SC;Área Marinha
+BAÍA DA TRAIÇÃO;PB;Mata Atlântica
+LUCENA;PB;Mata Atlântica
+MARCAÇÃO;PB;Mata Atlântica
+RIO TINTO;PB;Mata Atlântica
+ABAIARA;CE;Caatinga
+ALEGRETE DO PIAUÍ;PI;Caatinga
+ALTANEIRA;CE;Caatinga
+ARARIPE;CE;Caatinga
+ARARIPINA;PE;Caatinga
+ASSARÉ;CE;Caatinga
+BARBALHA;CE;Caatinga
+BODOCÓ;PE;Caatinga
+BREJO SANTO;CE;Caatinga
+CALDEIRÃO GRANDE DO PIAUÍ;PI;Caatinga
+CAMPOS SALES;CE;Caatinga
+CARIDADE DO PIAUÍ;PI;Caatinga
+CEDRO;PE;Caatinga
+CRATO;CE;Caatinga
+CURRAL NOVO DO PIAUÍ;PI;Caatinga
+EXU;PE;Caatinga
+FARIAS BRITO;CE;Caatinga
+FRANCISCO MACEDO;PI;Caatinga
+FRONTEIRAS;PI;Caatinga
+IPUBI;PE;Caatinga
+JARDIM;CE;Caatinga
+JATI;CE;Caatinga
+MARCOLÂNDIA;PI;Caatinga
+MISSÃO VELHA;CE;Caatinga
+MOREILÂNDIA;PE;Caatinga
+NOVA OLINDA;CE;Caatinga
+PADRE MARCOS;PI;Caatinga
+PENAFORTE;CE;Caatinga
+PORTEIRAS;CE;Caatinga
+POTENGI;CE;Caatinga
+SALITRE;CE;Caatinga
+SANTANA DO CARIRI;CE;Caatinga
+SÃO JULIÃO;PI;Caatinga
+SERRITA;PE;Caatinga
+SIMÕES;PI;Caatinga
+TRINDADE;PE;Caatinga
+BARRA DE SANTO ANTÔNIO;AL;Área Marinha
+BARREIROS;PE;Área Marinha
+JAPARATINGA;AL;Área Marinha
+MACEIÓ;AL;Área Marinha
+MARAGOGI;AL;Área Marinha
+PARIPUEIRA;AL;Área Marinha
+PASSO DE CAMARAGIBE;AL;Área Marinha
+PORTO CALVO;AL;Área Marinha
+PORTO DE PEDRAS;AL;Área Marinha
+SÃO JOSÉ DA COROA GRANDE;PE;Área Marinha
+SÃO MIGUEL DOS MILAGRES;AL;Área Marinha
+TAMANDARÉ;PE;Área Marinha
+DUQUE DE CAXIAS;RJ;Mata Atlântica
+GUAPIMIRIM;RJ;Mata Atlântica
+MAGÉ;RJ;Mata Atlântica
+PETRÓPOLIS;RJ;Mata Atlântica
+AIURUOCA;MG;Mata Atlântica
+ALAGOA;MG;Mata Atlântica
+BAEPENDI;MG;Mata Atlântica
+BOCAINA DE MINAS;MG;Mata Atlântica
+CAMPOS DO JORDÃO;SP;Mata Atlântica
+CRUZEIRO;SP;Mata Atlântica
+DELFIM MOREIRA;MG;Mata Atlântica
+GUARATINGUETÁ;SP;Mata Atlântica
+ITAMONTE;MG;Mata Atlântica
+ITANHANDU;MG;Mata Atlântica
+ITATIAIA;RJ;Mata Atlântica
+LAVRINHAS;SP;Mata Atlântica
+LIBERDADE;MG;Mata Atlântica
+LORENA;SP;Mata Atlântica
+MARMELÓPOLIS;MG;Mata Atlântica
+PASSA QUATRO;MG;Mata Atlântica
+PASSA VINTE;MG;Mata Atlântica
+PINDAMONHANGABA;SP;Mata Atlântica
+PIQUETE;SP;Mata Atlântica
+PIRANGUÇU;MG;Mata Atlântica
+POUSO ALTO;MG;Mata Atlântica
+QUELUZ;SP;Mata Atlântica
+RESENDE;RJ;Mata Atlântica
+SANTO ANTÔNIO DO PINHAL;SP;Mata Atlântica
+SÃO BENTO DO SAPUCAÍ;SP;Mata Atlântica
+VIRGÍNIA;MG;Mata Atlântica
+WENCESLAU BRAZ;MG;Mata Atlântica
+ALTO PARNAÍBA;MA;Cerrado
+BARREIRAS DO PIAUÍ;PI;Cerrado
+FORMOSA DO RIO PRETO;BA;Cerrado
+MATEIROS;TO;Cerrado
+PARATY;RJ;Mata Atlântica
+CANANÉIA;SP;Mata Atlântica
+IGUAPE;SP;Mata Atlântica
+ILHA COMPRIDA;SP;Mata Atlântica
+ITARIRI;SP;Mata Atlântica
+MIRACATU;SP;Mata Atlântica
+PERUÍBE;SP;Mata Atlântica
+FERNANDO DE NORONHA;PE;Área Marinha
+ITABORAÍ;RJ;Mata Atlântica
+SÃO GONÇALO;RJ;Mata Atlântica
+ANTONINA;PR;Mata Atlântica
+CAMPINA GRANDE DO SUL;PR;Mata Atlântica
+GUARAQUEÇABA;PR;Mata Atlântica
+PARANAGUÁ;PR;Mata Atlântica
+FELIZ DESERTO;AL;Mata Atlântica
+PIAÇABUÇU;AL;Mata Atlântica
+ÁGUA DOCE DO MARANHÃO;MA;Cerrado
+ARAIOSES;MA;Cerrado
+BARROQUINHA;CE;Cerrado
+CAJUEIRO DA PRAIA;PI;Cerrado
+CHAVAL;CE;Cerrado
+ILHA GRANDE;PI;Cerrado
+LUÍS CORREIA;PI;Cerrado
+PARNAÍBA;PI;Cerrado
+PAULINO NEVES;MA;Cerrado
+TUTÓIA;MA;Cerrado
+CONFINS;MG;Cerrado
+FUNILÂNDIA;MG;Cerrado
+LAGOA SANTA;MG;Cerrado
+MATOZINHOS;MG;Cerrado
+PEDRO LEOPOLDO;MG;Cerrado
+ALEGRETE;RS;Pampa
+QUARAÍ;RS;Pampa
+ROSÁRIO DO SUL;RS;Pampa
+SANT'ANA DO LIVRAMENTO;RS;Pampa
+PARAUAPEBAS;PA;Amazônia
+PLANALTINA;GO;Cerrado
+COCALINHO;MT;Cerrado
+FORMOSO DO ARAGUAIA;TO;Cerrado
+NOVA CRIXÁS;GO;Cerrado
+SANDOLÂNDIA;TO;Cerrado
+SÃO MIGUEL DO ARAGUAIA;GO;Cerrado
+ALTÔNIA;PR;Mata Atlântica
+ALTO PARAÍSO;PR;Mata Atlântica
+BATAYPORÃ;MS;Mata Atlântica
+DIAMANTE DO NORTE;PR;Mata Atlântica
+ELDORADO;MS;Mata Atlântica
+GUAÍRA;PR;Mata Atlântica
+ICARAÍMA;PR;Mata Atlântica
+IGUATEMI;MS;Mata Atlântica
+ITAQUIRAÍ;MS;Mata Atlântica
+IVATÉ;PR;Mata Atlântica
+IVINHEMA;MS;Mata Atlântica
+JAPORÃ;MS;Mata Atlântica
+JATEÍ;MS;Mata Atlântica
+MARILENA;PR;Mata Atlântica
+MUNDO NOVO;MS;Mata Atlântica
+NAVIRAÍ;MS;Mata Atlântica
+NOVA ANDRADINA;MS;Mata Atlântica
+NOVA LONDRINA;PR;Mata Atlântica
+NOVO HORIZONTE DO SUL;MS;Mata Atlântica
+PORTO RICO;PR;Mata Atlântica
+QUERÊNCIA DO NORTE;PR;Mata Atlântica
+ROSANA;SP;Mata Atlântica
+SANTA CRUZ DE MONTE CASTELO;PR;Mata Atlântica
+SÃO JORGE DO PATROCÍNIO;PR;Mata Atlântica
+SÃO PEDRO DO PARANÁ;PR;Mata Atlântica
+TAQUARUSSU;MS;Mata Atlântica
+TERRA ROXA;PR;Mata Atlântica
+CONCEIÇÃO DO MATO DENTRO;MG;Cerrado
+ITABIRA;MG;Cerrado
+ITAMBÉ DO MATO DENTRO;MG;Cerrado
+JABOTICATUBAS;MG;Cerrado
+MORRO DO PILAR;MG;Cerrado
+NOVA UNIÃO;MG;Cerrado
+SANTANA DO RIACHO;MG;Cerrado
+TAQUARAÇU DE MINAS;MG;Cerrado
+BURITINÓPOLIS;GO;Cerrado
+DAMIANÓPOLIS;GO;Cerrado
+JABORANDI;BA;Cerrado
+MAMBAÍ;GO;Cerrado
+POSSE;GO;Cerrado
+BOM PRINCÍPIO DO PIAUÍ;PI;Caatinga
+BRASILEIRA;PI;Caatinga
+BURITI DOS LOPES;PI;Caatinga
+CHAVAL;CE;Caatinga
+COCAL;PI;Caatinga
+CONCEIÇÃO DO CANINDÉ;PI;Caatinga
+DOMINGOS MOURÃO;PI;Caatinga
+GRANJA;CE;Caatinga
+LAGOA DE SÃO FRANCISCO;PI;Caatinga
+MORAÚJO;CE;Caatinga
+PEDRO II;PI;Caatinga
+PIRACURUCA;PI;Caatinga
+PIRIPIRI;PI;Caatinga
+TIANGUÁ;CE;Caatinga
+VIÇOSA DO CEARÁ;CE;Caatinga
+SANTA RITA DO PASSA QUATRO;SP;Cerrado
+NITERÓI;RJ;Mata Atlântica
+BARRA MANSA;RJ;Mata Atlântica
+VOLTA REDONDA;RJ;Mata Atlântica
+SANTO ANTÔNIO DO IÇÁ;AM;Amazônia
+CAMPINAS;SP;Mata Atlântica
+PAULÍNIA;SP;Mata Atlântica
+ARTUR NOGUEIRA;SP;Mata Atlântica
+COSMÓPOLIS;SP;Mata Atlântica
+MANAUS;AM;Amazônia
+RIO PRETO DA EVA;AM;Amazônia
+EPITACIOLÂNDIA;AC;Amazônia
+XAPURI;AC;Amazônia
+VITOR MEIRELES;SC;Mata Atlântica
+ALTAMIRA;PA;Amazônia
+SÃO FÉLIX DO XINGU;PA;Amazônia
+AIUABA;CE;Caatinga
+NOVO AIRÃO;AM;Amazônia
+MUITOS CAPÕES;RS;Mata Atlântica
+FLORIANÓPOLIS;SC;Mata Atlântica
+CANUTAMA;AM;Amazônia
+HUMAITÁ;AM;Amazônia
+PORTO VELHO;RO;Amazônia
+AMATURÁ;AM;Amazônia
+JUTAÍ;AM;Amazônia
+TONANTINS;AM;Amazônia
+ALTO ALEGRE;RR;Amazônia
+AMAJARI;RR;Amazônia
+AMAPÁ;AP;Amazônia
+FLEXEIRAS;AL;Mata Atlântica
+MESSIAS;AL;Mata Atlântica
+MURICI;AL;Mata Atlântica
+CARACARAÍ;RR;Amazônia
+MORADA NOVA DE MINAS;MG;Cerrado
+CÁCERES;MT;Pantanal
+POCONÉ;MT;Pantanal
+ANGRA DOS REIS;RJ;Área Marinha
+PARATY;RJ;Área Marinha
+SÃO SEBASTIÃO;SP;Área Marinha
+UBATUBA;SP;Área Marinha
+BAIXA GRANDE DO RIBEIRO;PI;Cerrado
+ALTO SANTO;CE;Caatinga
+IRACEMA;CE;Caatinga
+JAGUARIBARA;CE;Caatinga
+ALMEIRIM;PA;Amazônia
+LARANJAL DO JARI;AP;Amazônia
+MAZAGÃO;AP;Amazônia
+ASSIS BRASIL;AC;Amazônia
+SENA MADUREIRA;AC;Amazônia
+SERRA NEGRA DO NORTE;RN;Caatinga
+RIO GRANDE;RS;Pampa
+SANTA VITÓRIA DO PALMAR;RS;Pampa
+CANANÉIA;SP;Área Marinha
+ITANHAÉM;SP;Área Marinha
+PERUÍBE;SP;Área Marinha
+JAPURÁ;AM;Amazônia
+EUCLIDES DA CUNHA PAULISTA;SP;Mata Atlântica
+MARABÁ PAULISTA;SP;Mata Atlântica
+PRESIDENTE EPITÁCIO;SP;Mata Atlântica
+TEODORO SAMPAIO;SP;Mata Atlântica
+JEREMOABO;BA;Caatinga
+PAULO AFONSO;BA;Caatinga
+RODELAS;BA;Caatinga
+CÁCERES;MT;Cerrado
+PORTO ESTRELA;MT;Cerrado
+ALMAS;TO;Cerrado
+PONTE ALTA DO TOCANTINS;TO;Cerrado
+RIO DA CONCEIÇÃO;TO;Cerrado
+CAMPO LARGO;PR;Mata Atlântica
+CAÇADOR;SC;Mata Atlântica
+BURI;SP;Cerrado
+CAPÃO BONITO;SP;Cerrado
+CHAPECÓ;SC;Mata Atlântica
+GUATAMBÚ;SC;Mata Atlântica
+CONTENDAS DO SINCORÁ;BA;Caatinga
+TANHAÇU;BA;Caatinga
+AÇU;RN;Caatinga
+ITAITUBA;PA;Amazônia
+TRAIRÃO;PA;Amazônia
+RORAINÓPOLIS;RR;Amazônia
+TAPAUÁ;AM;Amazônia
+CANELA;RS;Mata Atlântica
+ÁGUA AZUL DO NORTE;PA;Amazônia
+CANAÃ DOS CARAJÁS;PA;Amazônia
+GURUPÁ;PA;Amazônia
+MELGAÇO;PA;Amazônia
+PORTEL;PA;Amazônia
+PORTO DE MOZ;PA;Amazônia
+BAIANÓPOLIS;BA;Cerrado
+LINHARES;ES;Mata Atlântica
+APIÚNA;SC;Mata Atlântica
+ASCURRA;SC;Mata Atlântica
+IBIRAMA;SC;Mata Atlântica
+ARAÇOIABA DA SERRA;SP;Mata Atlântica
+CAPELA DO ALTO;SP;Mata Atlântica
+IPERÓ;SP;Mata Atlântica
+CANDEIAS DO JAMARI;RO;Amazônia
+ALENQUER;PA;Amazônia
+MONTE ALEGRE;PA;Amazônia
+NÍSIA FLORESTA;RN;Mata Atlântica
+CACHOEIRO DE ITAPEMIRIM;ES;Mata Atlântica
+ALTOS;PI;Cerrado
+TERESINA;PI;Cerrado
+PARAOPEBA;MG;Cerrado
+BORBA;AM;Amazônia
+MAUÉS;AM;Amazônia
+NOVA OLINDA DO NORTE;AM;Amazônia
+CORONEL XAVIER CHAVES;MG;Mata Atlântica
+RITÁPOLIS;MG;Mata Atlântica
+SÃO JOÃO DEL REI;MG;Mata Atlântica
+MUCAJAÍ;RR;Amazônia
+FEIJÓ;AC;Amazônia
+SANTA ROSA DO PURUS;AC;Amazônia
+FARO;PA;Amazônia
+ORIXIMINÁ;PA;Amazônia
+TERRA SANTA;PA;Amazônia
+SILVÂNIA;GO;Cerrado
+SOBRAL;CE;Caatinga
+ALVARÃES;AM;Amazônia
+CARAUARI;AM;Amazônia
+JURUÁ;AM;Amazônia
+TEFÉ;AM;Amazônia
+UARINI;AM;Amazônia
+FERREIRA GOMES;AP;Amazônia
+PRACUÚBA;AP;Amazônia
+BARCELOS;AM;Amazônia
+SANTA ISABEL DO RIO NEGRO;AM;Amazônia
+MARABÁ;PA;Amazônia
+CUJUBIM;RO;Amazônia
+ITAPUÃ DO OESTE;RO;Amazônia
+APUÍ;AM;Amazônia
+BOCA DO ACRE;AM;Amazônia
+PAUINI;AM;Amazônia
+CONCEIÇÃO DA BARRA;ES;Mata Atlântica
+AVEIRO;PA;Amazônia
+BELTERRA;PA;Amazônia
+PLACAS;PA;Amazônia
+RURÓPOLIS;PA;Amazônia
+FERNANDES PINHEIRO;PR;Mata Atlântica
+IMBITUVA;PR;Mata Atlântica
+TEIXEIRA SOARES;PR;Mata Atlântica
+SEROPÉDICA;RJ;Mata Atlântica
+SÃO DOMINGOS;GO;Cerrado
+MATO CASTELHANO;RS;Mata Atlântica
+PIRAÍ DO SUL;PR;Mata Atlântica
+CABEDELO;PB;Mata Atlântica
+JOÃO PESSOA;PB;Mata Atlântica
+SÃO FRANCISCO DE PAULA;RS;Mata Atlântica
+TRÊS BARRAS;SC;Mata Atlântica
+ITACARAMBI;MG;Caatinga
+SÃO JOÃO DAS MISSÕES;MG;Caatinga
+ANDARAÍ;BA;Caatinga
+IBICOARA;BA;Caatinga
+ITAETÉ;BA;Caatinga
+LENÇÓIS;BA;Caatinga
+MUCUGÊ;BA;Caatinga
+PALMEIRAS;BA;Caatinga
+CHAPADA DOS GUIMARÃES;MT;Cerrado
+CUIABÁ;MT;Cerrado
+ALTO PARAÍSO DE GOIÁS;GO;Cerrado
+CAVALCANTE;GO;Cerrado
+NOVA ROMA;GO;Cerrado
+SÃO JOÃO D'ALIANÇA;GO;Cerrado
+TERESINA DE GOIÁS;GO;Cerrado
+MOSTARDAS;RS;Pampa
+TAVARES;RS;Pampa
+CARAPEBUS;RJ;Mata Atlântica
+MACAÉ;RJ;Mata Atlântica
+QUISSAMÃ;RJ;Mata Atlântica
+ANGRA DOS REIS;RJ;Mata Atlântica
+AREIAS;SP;Mata Atlântica
+CUNHA;SP;Mata Atlântica
+SÃO JOSÉ DO BARREIRO;SP;Mata Atlântica
+UBATUBA;SP;Mata Atlântica
+BODOQUENA;MS;Cerrado
+BONITO;MS;Cerrado
+JARDIM;MS;Cerrado
+PORTO MURTINHO;MS;Cerrado
+CAPITÓLIO;MG;Cerrado
+DELFINÓPOLIS;MG;Cerrado
+SACRAMENTO;MG;Cerrado
+SÃO JOÃO BATISTA DO GLÓRIA;MG;Cerrado
+SÃO ROQUE DE MINAS;MG;Cerrado
+VARGEM BONITA;MG;Cerrado
+BREJO DO PIAUÍ;PI;Caatinga
+CORONEL JOSÉ DIAS;PI;Caatinga
+JOÃO COSTA;PI;Caatinga
+SÃO RAIMUNDO NONATO;PI;Caatinga
+ALVORADA DO GURGUÉIA;PI;Caatinga
+BOM JESUS;PI;Caatinga
+CANTO DO BURITI;PI;Caatinga
+CARACOL;PI;Caatinga
+CRISTINO CASTRO;PI;Caatinga
+CURIMATÁ;PI;Caatinga
+GUARIBAS;PI;Caatinga
+JUREMA;PI;Caatinga
+REDENÇÃO DO GURGUÉIA;PI;Caatinga
+SANTA LUZ;PI;Caatinga
+TAMBORIL DO PIAUÍ;PI;Caatinga
+AREIA BRANCA;SE;Mata Atlântica
+CAMPO DO BRITO;SE;Mata Atlântica
+ITABAIANA;SE;Mata Atlântica
+ITAPORANGA D'AJUDA;SE;Mata Atlântica
+LARANJEIRAS;SE;Mata Atlântica
+MALHADOR;SE;Mata Atlântica
+CRUZEIRO DO SUL;AC;Amazônia
+MÂNCIO LIMA;AC;Amazônia
+MARECHAL THAUMATURGO;AC;Amazônia
+PORTO WALTER;AC;Amazônia
+RODRIGUES ALVES;AC;Amazônia
+BLUMENAU;SC;Mata Atlântica
+BOTUVERÁ;SC;Mata Atlântica
+GASPAR;SC;Mata Atlântica
+GUABIRUBA;SC;Mata Atlântica
+INDAIAL;SC;Mata Atlântica
+PRESIDENTE NEREU;SC;Mata Atlântica
+VIDAL RAMOS;SC;Mata Atlântica
+TERESÓPOLIS;RJ;Mata Atlântica
+CAMBARÁ DO SUL;RS;Mata Atlântica
+JACINTO MACHADO;SC;Mata Atlântica
+PRAIA GRANDE;SC;Mata Atlântica
+RIO DE JANEIRO;RJ;Mata Atlântica
+CHAPADÃO DO CÉU;GO;Cerrado
+MINEIROS;GO;Cerrado
+CORRENTE;PI;Cerrado
+GILBUÉS;PI;Cerrado
+LIZARDA;TO;Cerrado
+SÃO FÉLIX DO TOCANTINS;TO;Cerrado
+SÃO GONÇALO DO GURGUÉIA;PI;Cerrado
+BOCAIÚVA;MG;Cerrado
+BUENÓPOLIS;MG;Cerrado
+DIAMANTINA;MG;Cerrado
+OLHOS-D'ÁGUA;MG;Cerrado
+ALTO CAPARAÓ;MG;Mata Atlântica
+ALTO JEQUITIBÁ;MG;Mata Atlântica
+CAPARAÓ;MG;Mata Atlântica
+DIVINO DE SÃO LOURENÇO;ES;Mata Atlântica
+DORES DO RIO PRETO;ES;Mata Atlântica
+ESPERA FELIZ;MG;Mata Atlântica
+IBITIRAMA;ES;Mata Atlântica
+IRUPI;ES;Mata Atlântica
+IÚNA;ES;Mata Atlântica
+CRUZ;CE;Caatinga
+JIJOCA DE JERICOACOARA;CE;Caatinga
+ALVORADA D'OESTE;RO;Amazônia
+CAMPO NOVO DE RONDÔNIA;RO;Amazônia
+GOVERNADOR JORGE TEIXEIRA;RO;Amazônia
+GUAJARÁ-MIRIM;RO;Amazônia
+MIRANTE DA SERRA;RO;Amazônia
+NOVA MAMORÉ;RO;Amazônia
+SÃO MIGUEL DO GUAPORÉ;RO;Amazônia
+GUARATUBA;PR;Mata Atlântica
+MATINHOS;PR;Mata Atlântica
+MORRETES;PR;Mata Atlântica
+BOM JARDIM DA SERRA;SC;Mata Atlântica
+GRÃO PARÁ;SC;Mata Atlântica
+ORLEANS;SC;Mata Atlântica
+URUBICI;SC;Mata Atlântica
+BRASILEIRA;PI;Cerrado
+PIRACURUCA;PI;Cerrado
+FRECHEIRINHA;CE;Caatinga
+UBAJARA;CE;Caatinga
+LAGOA DA CONFUSÃO;TO;Cerrado
+PIUM;TO;Cerrado
+CALÇOENE;AP;Amazônia
+OIAPOQUE;AP;Amazônia
+BUÍQUE;PE;Caatinga
+IBIMIRIM;PE;Caatinga
+SERTÂNIA;PE;Caatinga
+TUPANATINGA;PE;Caatinga
+PRADO;BA;Mata Atlântica
+CÉU AZUL;PR;Mata Atlântica
+FOZ DO IGUAÇU;PR;Mata Atlântica
+MATELÂNDIA;PR;Mata Atlântica
+MEDIANEIRA;PR;Mata Atlântica
+SÃO MIGUEL DO IGUAÇU;PR;Mata Atlântica
+UIRAMUTÃ;RR;Amazônia
+PORTO SEGURO;BA;Mata Atlântica
+SÃO GABRIEL DA CACHOEIRA;AM;Amazônia
+BARREIRINHAS;MA;Cerrado
+PRIMEIRA CRUZ;MA;Cerrado
+SANTO AMARO DO MARANHÃO;MA;Cerrado
+ÁGUIA BRANCA;ES;Mata Atlântica
+PANCAS;ES;Mata Atlântica
+ARINOS;MG;Cerrado
+CHAPADA GAÚCHA;MG;Cerrado
+COCOS;BA;Cerrado
+FORMOSO;MG;Cerrado
+ALCOBAÇA;BA;Área Marinha
+CARAVELAS;BA;Área Marinha
+PEDRA BRANCA DO AMAPARI;AP;Amazônia
+SERRA DO NAVIO;AP;Amazônia
+COSTA MARQUES;RO;Amazônia
+PORTO ALEGRE;RS;Área Marinha
+SANTA TERESA;ES;Mata Atlântica
+ALMENARA;MG;Mata Atlântica
+JEQUITINHONHA;MG;Mata Atlântica
+ARACRUZ;ES;Mata Atlântica
+MAMANGUAPE;PB;Mata Atlântica
+CORRENTES;PE;Mata Atlântica
+LAGOA DO OURO;PE;Mata Atlântica
+QUEBRANGULO;AL;Mata Atlântica
+RIO FORMOSO;PE;Mata Atlântica
+TAMANDARÉ;PE;Mata Atlântica
+PACATUBA;SE;Mata Atlântica
+PIRAMBU;SE;Mata Atlântica
+FLORESTA;PE;Caatinga
+INAJÁ;PE;Caatinga
+TACARATU;PE;Caatinga
+JAGUARÉ;ES;Mata Atlântica
+SOORETAMA;ES;Mata Atlântica
+VILA VALÉRIO;ES;Mata Atlântica
+UNA;BA;Mata Atlântica
+NATAL;RN;Área Marinha
+PINHEIROS;ES;Mata Atlântica
+MUCURI;BA;Mata Atlântica
+ALTA FLORESTA D'OESTE;RO;Amazônia
+SÃO FRANCISCO DO GUAPORÉ;RO;Amazônia
+BOM JARDIM;MA;Amazônia
+CENTRO NOVO DO MARANHÃO;MA;Amazônia
+SÃO JOÃO DO CARÚ;MA;Amazônia
+JI-PARANÁ;RO;Amazônia
+MACHADINHO D'OESTE;RO;Amazônia
+VALE DO ANARI;RO;Amazônia
+TARTARUGALZINHO;AP;Amazônia
+MIGUEL PEREIRA;RJ;Mata Atlântica
+NOVA IGUAÇU;RJ;Mata Atlântica
+PRESIDENTE FIGUEIREDO;AM;Amazônia
+SÃO SEBASTIÃO DO UATUMÃ;AM;Amazônia
+URUCARÁ;AM;Amazônia
+BOMBINHAS;SC;Área Marinha
+NOVO PROGRESSO;PA;Amazônia
+FONTE BOA;AM;Amazônia
+MARAÃ;AM;Amazônia
+BRASILÉIA;AC;Amazônia
+CAPIXABA;AC;Amazônia
+RIO BRANCO;AC;Amazônia
+SANTARÉM NOVO;PA;Amazônia
+SÃO JOÃO DE PIRABAS;PA;Amazônia
+DAVINÓPOLIS;MA;Cerrado
+SENADOR LA ROCQUE;MA;Cerrado
+MARACANÃ;PA;Amazônia
+SÃO JOÃO DA PONTA;PA;Amazônia
+AQUIRAZ;CE;Caatinga
+MANOEL URBANO;AC;Amazônia
+BURITI DO TOCANTINS;TO;Amazônia
+CARRASCO BONITO;TO;Amazônia
+SAMPAIO;TO;Amazônia
+BAIÃO;PA;Amazônia
+MANICORÉ;AM;Amazônia
+CURUÇÁ;PA;Amazônia
+CACHOEIRA;BA;Mata Atlântica
+MARAGOGIPE;BA;Mata Atlântica
+SÃO FÉLIX;BA;Mata Atlântica
+JEQUIÁ DA PRAIA;AL;Área Marinha
+AUGUSTO CORRÊA;PA;Amazônia
+VISEU;PA;Amazônia
+BRAGANÇA;PA;Amazônia
+TRACUATEUA;PA;Amazônia
+ARARUAMA;RJ;Área Marinha
+ARRAIAL DO CABO;RJ;Área Marinha
+CABO FRIO;RJ;Área Marinha
+PORTO SEGURO;BA;Área Marinha
+PRADO;BA;Área Marinha
+BELMONTE;BA;Área Marinha
+CANAVIEIRAS;BA;Área Marinha
+UNA;BA;Área Marinha
+SOURE;PA;Amazônia
+CURITIBA;PR;Amazônia
+IPIXUNA;AM;Amazônia
+TARAUACÁ;AC;Amazônia
+SANTARÉM;PA;Amazônia
+ABELARDO LUZ;SC;Mata Atlântica
+CLEVELÂNDIA;PR;Mata Atlântica
+PALMAS;PR;Mata Atlântica
+PASSOS MAIA;SC;Mata Atlântica
+PONTE SERRADA;SC;Mata Atlântica
+JACAREACANGA;PA;Amazônia
+NOSSA SENHORA DO SOCORRO;SE;Mata Atlântica
+CAROLINA;MA;Cerrado
+ESTREITO;MA;Cerrado
+RIACHÃO;MA;Cerrado
+OEIRAS DO PARÁ;PA;Amazônia
+JORDÃO;AC;Amazônia
+CIANORTE;PR;Mata Atlântica
+TUNEIRAS DO OESTE;PR;Mata Atlântica
+IPIRANGA;PR;Mata Atlântica
+CARAMBEÍ;PR;Mata Atlântica
+CASTRO;PR;Mata Atlântica
+PONTA GROSSA;PR;Mata Atlântica
+GENERAL CARNEIRO;PR;Mata Atlântica
+APICUM-AÇU;MA;Área Marinha
+BACURI;MA;Área Marinha
+CURURUPU;MA;Área Marinha
+SERRANO DO MARANHÃO;MA;Área Marinha
+APIACÁS;MT;Amazônia
+COTRIGUAÇU;MT;Amazônia
+NOVA BANDEIRANTES;MT;Amazônia
+CURRALINHO;PA;Amazônia
+SÃO SEBASTIÃO DA BOA VISTA;PA;Amazônia
+COLNIZA;MT;Amazônia
+NOVO ARIPUANÃ;AM;Amazônia
+GUARANI DE GOIÁS;GO;Cerrado
+ARUANÃ;GO;Cerrado
+PALMAS;TO;Cerrado
+ABREULÂNDIA;TO;Cerrado
+ITÁPOLIS;SP;Cerrado
+CARAGUATATUBA;SP;Mata Atlântica
+MONTEIRO LOBATO;SP;Mata Atlântica
+SÃO PAULO;SP;Mata Atlântica
+MAIRIPORÃ;SP;Mata Atlântica
+IBIÚNA;SP;Mata Atlântica
+JAÚ;SP;Mata Atlântica
+MOGI MIRIM;SP;Mata Atlântica
+ARAÇARIGUAMA;SP;Mata Atlântica
+TAPIRAÍ;SP;Mata Atlântica
+SÃO JOSÉ DOS CAMPOS;SP;Mata Atlântica
+CAFELÂNDIA;SP;Mata Atlântica
+GUAPIARA;SP;Mata Atlântica
+JAGUARIÚNA;SP;Mata Atlântica
+SÃO SEBASTIÃO;SP;Mata Atlântica
+BRAGANÇA PAULISTA;SP;Cerrado
+SERRA AZUL;SP;Cerrado
+ITAPEVI;SP;Mata Atlântica
+JOANÓPOLIS;SP;Mata Atlântica
+SANTANA DE PARNAÍBA;SP;Mata Atlântica
+PIRAPORA DO BOM JESUS;SP;Mata Atlântica
+BRAGANÇA PAULISTA;SP;Mata Atlântica
+ATIBAIA;SP;Mata Atlântica
+CUBATÃO;SP;Mata Atlântica
+SÃO LUIZ DO PARAITINGA;SP;Mata Atlântica
+ALFREDO WAGNER;SC;Mata Atlântica
+ANTÔNIO CARLOS;SC;Mata Atlântica
+CORUPÁ;SC;Mata Atlântica
+BALNEÁRIO CAMBORIÚ;SC;Mata Atlântica
+ITAPOÁ;SC;Mata Atlântica
+NOVA TRENTO;SC;Mata Atlântica
+SÃO JOAQUIM;SC;Mata Atlântica
+ITUPORANGA;SC;Mata Atlântica
+BRUSQUE;SC;Mata Atlântica
+SANTA ROSA DE LIMA;SC;Mata Atlântica
+SÃO FRANCISCO DO SUL;SC;Mata Atlântica
+SÃO BENTO DO SUL;SC;Mata Atlântica
+JOINVILLE;SC;Mata Atlântica
+ÁGUA DOCE;SC;Mata Atlântica
+SÃO JOSÉ;SC;Mata Atlântica
+PAULO LOPES;SC;Mata Atlântica
+SÃO PEDRO DE ALCÂNTARA;SC;Mata Atlântica
+BARRA DO RIBEIRO;RS;Pampa
+PORTO ALEGRE;RS;Pampa
+SÃO BORJA;RS;Pampa
+TORRES;RS;Mata Atlântica
+HUMAITÁ;RS;Mata Atlântica
+SÃO FRANCISCO DE ASSIS;RS;Pampa
+VIAMÃO;RS;Pampa
+MARAÚ;BA;Mata Atlântica
+PEDRO OSÓRIO;RS;Pampa
+DOM PEDRITO;RS;Pampa
+ENCRUZILHADA DO SUL;RS;Pampa
+MARIANA PIMENTEL;RS;Pampa
+PELOTAS;RS;Pampa
+PIRATINI;RS;Pampa
+BOA VISTA;RR;Amazônia
+TEIXEIRÓPOLIS;RO;Amazônia
+PIMENTA BUENO;RO;Amazônia
+CACOAL;RO;Amazônia
+CORUMBÁ;MS;Pantanal
+BAÍA FORMOSA;RN;Mata Atlântica
+JUCURUTU;RN;Caatinga
+RIO CLARO;RJ;Mata Atlântica
+VALENÇA;RJ;Mata Atlântica
+MANGARATIBA;RJ;Mata Atlântica
+ENGENHEIRO PAULO DE FRONTIN;RJ;Mata Atlântica
+SAQUAREMA;RJ;Mata Atlântica
+ITAGUAÍ;RJ;Mata Atlântica
+NOVA FRIBURGO;RJ;Mata Atlântica
+BOM JARDIM;RJ;Mata Atlântica
+SENGÉS;PR;Cerrado
+QUEDAS DO IGUAÇU;PR;Mata Atlântica
+PALMEIRA;PR;Mata Atlântica
+BOCAIÚVA DO SUL;PR;Mata Atlântica
+LAPA;PR;Mata Atlântica
+TERESINA;PI;Caatinga
+CASTELO DO PIAUÍ;PI;Caatinga
+ALTINHO;PE;Caatinga
+MORENO;PE;Mata Atlântica
+JAQUEIRA;PE;Mata Atlântica
+IPOJUCA;PE;Mata Atlântica
+SALOÁ;PE;Caatinga
+BETÂNIA;PE;Caatinga
+SÃO JOSÉ DOS CORDEIROS;PB;Caatinga
+CATINGUEIRA;PB;Caatinga
+EMAS;PB;Caatinga
+SANTA RITA;PB;Mata Atlântica
+ARARUNA;PB;Caatinga
+SANTA TERESINHA;PB;Caatinga
+SÃO JOÃO DO CARIRI;PB;Caatinga
+SOLÂNEA;PB;Caatinga
+SAPÉ;PB;Mata Atlântica
+BARCARENA;PA;Amazônia
+MOJU;PA;Amazônia
+RONDONÓPOLIS;MT;Cerrado
+NOVA CANAÃ DO NORTE;MT;Amazônia
+ÁGUA BOA;MT;Cerrado
+BARÃO DE MELGAÇO;MT;Pantanal
+CANAVIEIRA;PI;Caatinga
+SETE QUEDAS;MS;Mata Atlântica
+BELA VISTA;MS;Cerrado
+SÃO BENTO DO NORTE;RN;Caatinga
+DOIS IRMÃOS DO BURITI;MS;Cerrado
+AQUIDAUANA;MS;Pantanal
+MARACAJU;MS;Pantanal
+CAMPO GRANDE;MS;Cerrado
+SANTA BÁRBARA;MG;Mata Atlântica
+MANGA;MG;Mata Atlântica
+JURAMENTO;MG;Cerrado
+PRESIDENTE OLEGÁRIO;MG;Cerrado
+PERDIZES;MG;Cerrado
+PARACATU;MG;Cerrado
+CARATINGA;MG;Mata Atlântica
+IPABA;MG;Mata Atlântica
+JOÃO MONLEVADE;MG;Mata Atlântica
+IBIÁ;MG;Cerrado
+UBERLÂNDIA;MG;Cerrado
+NOVA PONTE;MG;Cerrado
+UNAÍ;MG;Cerrado
+SALTO DA DIVISA;MG;Mata Atlântica
+SIMONÉSIA;MG;Mata Atlântica
+SERRA DO SALITRE;MG;Cerrado
+SÃO GONÇALO DO RIO ABAIXO;MG;Mata Atlântica
+TUPACIGUARA;MG;Cerrado
+CONGONHAS;MG;Mata Atlântica
+ROSÁRIO DA LIMEIRA;MG;Mata Atlântica
+DESCOBERTO;MG;Mata Atlântica
+ANTÔNIO DIAS;MG;Mata Atlântica
+FERVEDOURO;MG;Mata Atlântica
+RIO NOVO;MG;Mata Atlântica
+CORAÇÃO DE JESUS;MG;Cerrado
+SÃO JOÃO NEPOMUCENO;MG;Mata Atlântica
+OLARIA;MG;Mata Atlântica
+EXTREMA;MG;Mata Atlântica
+PAINEIRAS;MG;Cerrado
+CORINTO;MG;Cerrado
+LIMA DUARTE;MG;Mata Atlântica
+PIRANGA;MG;Mata Atlântica
+SANTOS DUMONT;MG;Mata Atlântica
+BETIM;MG;Cerrado
+POTÉ;MG;Mata Atlântica
+ANDRELÂNDIA;MG;Mata Atlântica
+SANTA BÁRBARA DO MONTE VERDE;MG;Cerrado
+CONCEIÇÃO DO PARÁ;MG;Cerrado
+NOVA LIMA;MG;Mata Atlântica
+BRUMADINHO;MG;Mata Atlântica
+IJACI;MG;Mata Atlântica
+TOLEDO;MG;Mata Atlântica
+MONTE SIÃO;MG;Mata Atlântica
+CLÁUDIO;MG;Cerrado
+AÇAILÂNDIA;MA;Amazônia
+ROSÁRIO;MA;Amazônia
+BACABAL;MA;Cerrado
+SÃO BENEDITO DO RIO PRETO;MA;Cerrado
+SÃO LUÍS;MA;Amazônia
+CODÓ;MA;Cerrado
+SÃO JOSÉ DE RIBAMAR;MA;Amazônia
+CAMPESTRE DE GOIÁS;GO;Cerrado
+BRITÂNIA;GO;Cerrado
+PIRENÓPOLIS;GO;Cerrado
+ITABELA;BA;Cerrado
+CRISTALINA;GO;Cerrado
+PARAÚNA;GO;Cerrado
+CORUMBÁ DE GOIÁS;GO;Cerrado
+SERRANÓPOLIS;GO;Cerrado
+TROMBAS;GO;Cerrado
+COCALZINHO DE GOIÁS;GO;Cerrado
+COLINAS DO SUL;GO;Cerrado
+CIDADE OCIDENTAL;GO;Cerrado
+TEREZÓPOLIS DE GOIÁS;GO;Cerrado
+APORÉ;GO;Cerrado
+GOIANÁPOLIS;GO;Cerrado
+HIDROLÂNDIA;GO;Cerrado
+ITABERAÍ;GO;Cerrado
+GOIÂNIA;GO;Cerrado
+SANTO ANTÔNIO DO DESCOBERTO;GO;Cerrado
+MONTANHA;ES;Mata Atlântica
+PARAMBU;CE;Caatinga
+CRATEÚS;CE;Caatinga
+ITAPIPOCA;CE;Caatinga
+QUIXERAMOBIM;CE;Caatinga
+QUIXADÁ;CE;Caatinga
+PACATUBA;CE;Caatinga
+GENERAL SAMPAIO;CE;Caatinga
+AMONTADA;CE;Caatinga
+BARRA;BA;Caatinga
+MALHADA;BA;Caatinga
+ITANAGRA;BA;Mata Atlântica
+IBOTIRAMA;BA;Caatinga
+PALMAS DE MONTE ALTO;BA;Caatinga
+QUEIMADAS;BA;Caatinga
+CARAVELAS;BA;Mata Atlântica
+PIRAÍ DO NORTE;BA;Mata Atlântica
+ITACARÉ;BA;Mata Atlântica
+ESPLANADA;BA;Mata Atlântica
+MATA DE SÃO JOÃO;BA;Mata Atlântica
+SANTANA;BA;Caatinga
+SÃO SEBASTIÃO DO PASSÉ;BA;Mata Atlântica
+JUSSARI;BA;Mata Atlântica
+ILHÉUS;BA;Mata Atlântica
+ITAPEBI;BA;Mata Atlântica
+VALENÇA;BA;Mata Atlântica
+IBICARAÍ;BA;Mata Atlântica
+SIMÕES FILHO;BA;Mata Atlântica
+CAMAÇARI;BA;Mata Atlântica
+URUÇUCA;BA;Mata Atlântica
+POJUCA;BA;Mata Atlântica
+UBAÍRA;BA;Mata Atlântica
+BARRA DO CHOÇA;BA;Mata Atlântica
+MACAPÁ;AP;Amazônia
+PORTO GRANDE;AP;Amazônia
+SANTANA;AP;Amazônia
+CHÃ PRETA;AL;Mata Atlântica
+ATALAIA;AL;Mata Atlântica
+CORURIPE;AL;Mata Atlântica
+PILAR;AL;Mata Atlântica
+TEOTÔNIO VILELA;AL;Mata Atlântica
+BARRA DE SÃO MIGUEL;AL;Mata Atlântica
+VITÓRIA DO JARI;AP;Amazônia
+CIDELÂNDIA;MA;Amazônia
+IMPERATRIZ;MA;Amazônia
+MIRINZAL;MA;Amazônia
+APARECIDA;SP;Mata Atlântica
+CAAPORÃ;PB;Mata Atlântica
+GOIANA;PE;Mata Atlântica
+PITIMBU;PB;Mata Atlântica
+CHAPADINHA;MA;Cerrado
+PARNAMIRIM;PE;Caatinga
+LÁBREA;AM;Amazônia
+BERURI;AM;Amazônia
+ALCÂNTARAS;CE;Caatinga
+MASSAPÊ;CE;Caatinga
+MERUOCA;CE;Caatinga
+NOVA VIÇOSA;BA;Área Marinha
+BEBERIBE;CE;Área Marinha
+PRAINHA;PA;Amazônia
+CANINDÉ DE SÃO FRANCISCO;SE;Caatinga
+DELMIRO GOUVEIA;AL;Caatinga
+OLHO D'ÁGUA DO CASADO;AL;Caatinga
+PIRANHAS;AL;Caatinga
+BOA NOVA;BA;Mata Atlântica
+DÁRIO MEIRA;BA;Mata Atlântica
+MANOEL VITORINO;BA;Mata Atlântica
+ARATACA;BA;Mata Atlântica
+SÃO JOSÉ DA VITÓRIA;BA;Mata Atlântica
+GUARATINGA;BA;Mata Atlântica
+ARACRUZ;ES;Área Marinha
+FUNDÃO;ES;Área Marinha
+SERRA;ES;Área Marinha
+GUAÇUÍ;ES;Mata Atlântica
+COROMANDEL;MG;Cerrado
+BALNEÁRIO ARROIO DO SILVA;SC;Mata Atlântica
+BARRETOS;SP;Mata Atlântica
+GUAIÚBA;CE;Caatinga
+ITAIÓPOLIS;SC;Mata Atlântica
+AFONSO CLÁUDIO;ES;Mata Atlântica
+BOM RETIRO;SC;Mata Atlântica
+TRAJANO DE MORAES;RJ;Mata Atlântica
+SINIMBU;RS;Mata Atlântica
+CAMPO BELO DO SUL;SC;Mata Atlântica
+CARNAUBAIS;RN;Caatinga
+MIRANDA;MS;Pantanal
+ALTO ALEGRE DOS PARECIS;RO;Amazônia
+DIANÓPOLIS;TO;Cerrado
+SÃO LUIZ GONZAGA;RS;Pampa
+SAPUCAIA DO SUL;RS;Mata Atlântica
+CRISTALINA;GO;Mata Atlântica
+TIBAGI;PR;Mata Atlântica
+SÃO JOSÉ DO XINGU;MT;Amazônia
+VARZEDO;BA;Mata Atlântica
+ABAÍRA;BA;Caatinga
+SANTO ANTÔNIO DO TAUÁ;PA;Amazônia
+NOVA VENÉCIA;ES;Mata Atlântica
+ALTA FLORESTA;MT;Amazônia
+ITAPAJÉ;CE;Caatinga
+SANTA LUZIA DO ITANHY;SE;Mata Atlântica
+VARGEM ALTA;ES;Mata Atlântica
+DOM PEDRO DE ALCÂNTARA;RS;Mata Atlântica
+PACOTI;CE;Caatinga
+DUAS BARRAS;RJ;Mata Atlântica
+SAPUCAIA;RJ;Mata Atlântica
+CAMETÁ;PA;Amazônia
+IGRAPIÚNA;BA;Mata Atlântica
+LAGOA DA PRATA;MG;Cerrado
+LAJEDO;PE;Caatinga
+PATROCÍNIO;MG;Cerrado
+NATIVIDADE;RJ;Mata Atlântica
+BELÉM DO SÃO FRANCISCO;PE;Caatinga
+PASSO FUNDO;RS;Pampa
+BELMONTE;BA;Mata Atlântica
+BATURITÉ;CE;Caatinga
+RIBEIRA DO POMBAL;BA;Caatinga
+SUMIDOURO;RJ;Mata Atlântica
+RANCHO QUEIMADO;SC;Mata Atlântica
+SANTA ISABEL;SP;Mata Atlântica
+VENÂNCIO AIRES;RS;Mata Atlântica
+GUARAMIRIM;SC;Mata Atlântica
+ACARI;RN;Caatinga
+GRAVATÁ;PE;Mata Atlântica
+BELA VISTA DO TOLDO;SC;Mata Atlântica
+POUSO ALEGRE;MG;Mata Atlântica
+PRESIDENTE ALVES;SP;Mata Atlântica
+ITUBERÁ;BA;Mata Atlântica
+ITAMARATI DE MINAS;MG;Mata Atlântica
+ITARARÉ;SP;Cerrado
+FORMOSA;GO;Cerrado
+MENDES;RJ;Mata Atlântica
+SANDOVALINA;SP;Mata Atlântica
+IGARATINGA;MG;Cerrado
+ARAPOTI;PR;Mata Atlântica
+BARAÚNA;RN;Caatinga
+MOSSORÓ;RN;Caatinga
+ARATUBA;CE;Caatinga
+GUARAMIRANGA;CE;Caatinga
+MULUNGU;CE;Caatinga
+NOVO ORIENTE;CE;Caatinga
+PRESIDENTE MÉDICI;RO;Amazônia
+PONTAL DO PARANÁ;PR;Área Marinha
+CATU;BA;Mata Atlântica
+RIO DE CONTAS;BA;Caatinga
+SAÚDE;BA;Caatinga
+AURORA DO TOCANTINS;TO;Cerrado
+GRAMADO;RS;Mata Atlântica
+APUIARÉS;CE;Caatinga
+ARACATI;CE;Caatinga
+ITATIRA;CE;Caatinga
+MORADA NOVA;CE;Caatinga
+MORRO DO PILAR;MG;Mata Atlântica
+CARIRA;SE;Caatinga
+ITABAIANINHA;SE;Caatinga
+ÁGUAS MORNAS;SC;Mata Atlântica
+SENADOR CANEDO;GO;Cerrado
+SÃO CAETANO DE ODIVELAS;PA;Amazônia
+MARAPANIM;PA;Amazônia
+MAGALHÃES BARATA;PA;Amazônia
+MONTEZUMA;MG;Cerrado
+RIO PARDO DE MINAS;MG;Cerrado
+VARGEM GRANDE DO RIO PARDO;MG;Cerrado
+CAETÉ;MG;Mata Atlântica
+ITABIRITO;MG;Mata Atlântica
+MARIANA;MG;Mata Atlântica
+OURO PRETO;MG;Mata Atlântica
+RAPOSOS;MG;Mata Atlântica
+RIO ACIMA;MG;Mata Atlântica
+SÃO JOSÉ DOS PINHAIS;PR;Mata Atlântica
+VITÓRIA;ES;Área Marinha
+BEQUIMÃO;MA;Amazônia
+CAMPO FORMOSO;BA;Caatinga
+JUAZEIRO;BA;Caatinga
+SENTO SÉ;BA;Caatinga
+SOBRADINHO;BA;Caatinga
+HUMBERTO DE CAMPOS;MA;Área Marinha
+ICATU;MA;Área Marinha
+CARUTAPERA;MA;Área Marinha
+LUÍS DOMINGUES;MA;Área Marinha
+MORRO DO CHAPÉU;BA;Caatinga
+UMBURANAS;BA;Caatinga
+NAZARÉ PAULISTA;SP;Mata Atlântica
+CAMBUÍ;MG;Mata Atlântica
+ITAJAÍ;SC;Mata Atlântica
+URUPEMA;SC;Mata Atlântica
+TAPEROÁ;BA;Mata Atlântica
+SÃO MAMEDE;PB;Caatinga
+PIRACAIA;SP;Mata Atlântica
+BANDEIRA;MG;Mata Atlântica
+CAMPO MAGRO;PR;Mata Atlântica
+JAGUARIAÍVA;PR;Mata Atlântica
+EXTREMOZ;RN;Mata Atlântica
+CURAÇÁ;BA;Caatinga
+ALEXÂNIA;GO;Cerrado
+JATAÍ;GO;Cerrado
+GUARUJÁ DO SUL;SC;Mata Atlântica
+CAXIAS DO SUL;RS;Mata Atlântica
+CAMACAN;BA;Mata Atlântica
+LAJEADO;TO;Cerrado
+BARREIRAS;BA;Cerrado
+PORTO UNIÃO;SC;Mata Atlântica
+CHAPADÃO DO SUL;MS;Cerrado
+MIMOSO DO SUL;ES;Mata Atlântica
+PAU BRASIL;BA;Mata Atlântica
+NILO PEÇANHA;BA;Mata Atlântica
+CASEARA;TO;Cerrado
+TOMBOS;MG;Mata Atlântica
+ICAPUÍ;CE;Caatinga
+TAQUARUÇU DO SUL;RS;Mata Atlântica
+CAMPO ALEGRE;SC;Mata Atlântica
+BANANAL;SP;Mata Atlântica
+ADRIANÓPOLIS;PR;Mata Atlântica
+ITAARA;RS;Mata Atlântica
+PORTO BELO;SC;Mata Atlântica
+CURITIBANOS;SC;Mata Atlântica
+NOVA CAMPINA;SP;Mata Atlântica
+IPU;CE;Caatinga
+RIO NEGRINHO;SC;Mata Atlântica
+EQUADOR;RN;Caatinga
+ÁGUA BRANCA;PB;Caatinga
+CACIMBA DE AREIA;PB;Caatinga
+IMACULADA;PB;Caatinga
+JURU;PB;Caatinga
+MÃE D'ÁGUA;PB;Caatinga
+MATURÉIA;PB;Caatinga
+OLHO D'ÁGUA;PB;Caatinga
+SANTANA DOS GARROTES;PB;Caatinga
+SÃO JOSÉ DO BONFIM;PB;Caatinga
+TEIXEIRA;PB;Caatinga
+PRIMAVERA;PA;Amazônia
+QUATIPURU;PA;Amazônia
+SALINÓPOLIS;PA;Amazônia
+ITACOATIARA;AM;Amazônia
+SÃO DESIDÉRIO;BA;Cerrado
+BURITIS;RO;Amazônia
+CEREJEIRAS;RO;Amazônia
+PIMENTEIRAS DO OESTE;RO;Amazônia
+BUJARI;AC;Amazônia
+COARI;AM;Amazônia
+CODAJÁS;AM;Amazônia
+ANORI;AM;Amazônia
+ITAPIRANGA;AM;Amazônia
+IRANDUBA;AM;Amazônia
+MANACAPURU;AM;Amazônia
+NHAMUNDÁ;AM;Amazônia
+EIRUNEPÉ;AM;Amazônia
+SÃO GERALDO DO ARAGUAIA;PA;Amazônia
+AFUÁ;PA;Amazônia
+ANAJÁS;PA;Amazônia
+BREVES;PA;Amazônia
+CACHOEIRA DO ARARI;PA;Amazônia
+CHAVES;PA;Amazônia
+MUANÁ;PA;Amazônia
+SALVATERRA;PA;Amazônia
+SANTA CRUZ DO ARARI;PA;Amazônia
+ANANINDEUA;PA;Amazônia
+BELÉM;PA;Amazônia
+BREU BRANCO;PA;Amazônia
+GOIANÉSIA DO PARÁ;PA;Amazônia
+ITUPIRANGA;PA;Amazônia
+JACUNDÁ;PA;Amazônia
+NOVA IPIXUNA;PA;Amazônia
+NOVO REPARTIMENTO;PA;Amazônia
+TUCURUÍ;PA;Amazônia
+ÓBIDOS;PA;Amazônia
+BENEVIDES;PA;Amazônia
+MARITUBA;PA;Amazônia
+SANTA IZABEL DO PARÁ;PA;Amazônia
+SENADOR JOSÉ PORFÍRIO;PA;Amazônia
+FILADÉLFIA;TO;Cerrado
+ARAGUAÍNA;TO;Cerrado
+BABAÇULÂNDIA;TO;Cerrado
+WANDERLÂNDIA;TO;Cerrado
+PALMEIRÓPOLIS;TO;Cerrado
+PARANÃ;TO;Cerrado
+SÃO SALVADOR DO TOCANTINS;TO;Cerrado
+ANANÁS;TO;Amazônia
+ARAGUANÃ;TO;Amazônia
+RIACHINHO;TO;Amazônia
+XAMBIOÁ;TO;Amazônia
+PEIXE;TO;Cerrado
+PORTO NACIONAL;TO;Cerrado
+APARECIDA DO RIO NEGRO;TO;Cerrado
+TOCANTÍNIA;TO;Cerrado
+NOVO ACORDO;TO;Cerrado
+ARAGUACEMA;TO;Cerrado
+CHAPADA DE AREIA;TO;Cerrado
+DIVINÓPOLIS DO TOCANTINS;TO;Cerrado
+DOIS IRMÃOS DO TOCANTINS;TO;Cerrado
+MARIANÓPOLIS DO TOCANTINS;TO;Cerrado
+MONTE SANTO DO TOCANTINS;TO;Cerrado
+ALCÂNTARA;MA;Área Marinha
+BEQUIMÃO;MA;Área Marinha
+CÂNDIDO MENDES;MA;Área Marinha
+CEDRAL;MA;Área Marinha
+GODOFREDO VIANA;MA;Área Marinha
+GUIMARÃES;MA;Área Marinha
+MIRINZAL;MA;Área Marinha
+TURIAÇU;MA;Área Marinha
+ANAJATUBA;MA;Amazônia
+CAJARI;MA;Amazônia
+LAGO VERDE;MA;Amazônia
+MAFRA;SC;Amazônia
+MATINHA;MA;Amazônia
+MONÇÃO;MA;Amazônia
+OLHO D'ÁGUA DAS CUNHÃS;MA;Amazônia
+PALMEIRÂNDIA;MA;Amazônia
+PENALVA;MA;Amazônia
+PERI MIRIM;MA;Amazônia
+PINDARÉ-MIRIM;MA;Amazônia
+PINHEIRO;MA;Amazônia
+PIO XII;MA;Amazônia
+SANTA HELENA;MA;Amazônia
+SÃO BENTO;MA;Amazônia
+SÃO MATEUS DO MARANHÃO;MA;Amazônia
+SÃO VICENTE FERRER;MA;Amazônia
+UNIÃO;PI;Amazônia
+VIANA;MA;Amazônia
+VITÓRIA DO MEARIM;MA;Amazônia
+AXIXÁ;MA;Cerrado
+HUMBERTO DE CAMPOS;MA;Cerrado
+ICATU;MA;Cerrado
+MORROS;MA;Cerrado
+PAÇO DO LUMIAR;MA;Cerrado
+PRESIDENTE JUSCELINO;MA;Cerrado
+RAPOSA;MA;Cerrado
+ROSÁRIO;MA;Cerrado
+SANTA QUITÉRIA DO MARANHÃO;MA;Cerrado
+SANTA RITA;MA;Cerrado
+SÃO BERNARDO;MA;Cerrado
+SÃO JOSÉ DE RIBAMAR;MA;Cerrado
+SÃO LUÍS;MA;Cerrado
+URBANO SANTOS;MA;Cerrado
+AFONSO CUNHA;MA;Cerrado
+BURITI;MA;Cerrado
+COELHO NETO;MA;Cerrado
+DUQUE BACELAR;MA;Cerrado
+FERNANDO FALCÃO;MA;Cerrado
+FORMOSA DA SERRA NEGRA;MA;Cerrado
+MIRADOR;MA;Cerrado
+BURITI DOS MONTES;PI;Caatinga
+CAMPO MAIOR;PI;Cerrado
+LUÍS CORREIA;PI;Caatinga
+PARNAÍBA;PI;Caatinga
+SÃO BRAZ DO PIAUÍ;PI;Caatinga
+ACAUÃ;PI;Caatinga
+CAJUEIRO DA PRAIA;PI;Caatinga
+BOM JESUS;PI;Cerrado
+MONTE ALEGRE DO PIAUÍ;PI;Cerrado
+SANTA FILOMENA;PI;Cerrado
+NAZARÉ DO PIAUÍ;PI;Caatinga
+SÃO FRANCISCO DO PIAUÍ;PI;Caatinga
+ALTO LONGÁ;PI;Cerrado
+BATALHA;PI;Cerrado
+ESPERANTINA;PI;Cerrado
+PAULISTANA;PI;Caatinga
+PAJEÚ DO PIAUÍ;PI;Caatinga
+CAPISTRANO;CE;Caatinga
+CARIDADE;CE;Caatinga
+REDENÇÃO;CE;Caatinga
+FORTALEZA;CE;Área Marinha
+MARANGUAPE;CE;Caatinga
+CAUCAIA;CE;Caatinga
+PARACURU;CE;Caatinga
+SÃO GONÇALO DO AMARANTE;CE;Caatinga
+FORTALEZA;CE;Caatinga
+BEBERIBE;CE;Caatinga
+PARAIPABA;CE;Caatinga
+TRAIRI;CE;Caatinga
+EUSÉBIO;CE;Caatinga
+ITAITINGA;CE;Caatinga
+MARACANAÚ;CE;Caatinga
+INDEPENDÊNCIA;CE;Caatinga
+PEDRA BRANCA;CE;Caatinga
+TAUÁ;CE;Caatinga
+ANTONINA DO NORTE;CE;Caatinga
+SABOEIRO;CE;Caatinga
+MADALENA;CE;Caatinga
+IPAPORANGA;CE;Caatinga
+PORANGA;CE;Caatinga
+ICAPUÍ;CE;Área Marinha
+HORIZONTE;CE;Caatinga
+PACAJUS;CE;Caatinga
+JUAZEIRO DO NORTE;CE;Caatinga
+GUAMARÉ;RN;Caatinga
+MACAU;RN;Caatinga
+MAXARANGUAPE;RN;Área Marinha
+RIO DO FOGO;RN;Área Marinha
+TOUROS;RN;Área Marinha
+NATAL;RN;Mata Atlântica
+ARÊS;RN;Mata Atlântica
+GOIANINHA;RN;Mata Atlântica
+SÃO JOSÉ DE MIPIBU;RN;Mata Atlântica
+SENADOR GEORGINO AVELINO;RN;Mata Atlântica
+TIBAU DO SUL;RN;Mata Atlântica
+CANGUARETAMA;RN;Mata Atlântica
+ESPÍRITO SANTO;RN;Mata Atlântica
+PEDRO VELHO;RN;Mata Atlântica
+AREIA BRANCA;RN;Caatinga
+PORTO DO MANGUE;RN;Caatinga
+MARTINS;RN;Caatinga
+SÃO JOÃO DO TIGRE;PB;Caatinga
+BAYEUX;PB;Mata Atlântica
+ALHANDRA;PB;Mata Atlântica
+CONDE;PB;Mata Atlântica
+AREIA;PB;Mata Atlântica
+BOA VISTA;PB;Mata Atlântica
+CABACEIRAS;PB;Mata Atlântica
+SÃO JOÃO DO CARIRI;PB;Mata Atlântica
+SOUSA;PB;Caatinga
+BANANEIRAS;PB;Mata Atlântica
+PIRPIRITUBA;PB;Mata Atlântica
+MÃE D'ÁGUA;PB;Mata Atlântica
+MATURÉIA;PB;Mata Atlântica
+CAMPINA GRANDE;PB;Mata Atlântica
+CABEDELO;PB;Área Marinha
+JOÃO PESSOA;PB;Área Marinha
+PAULISTA;PE;Mata Atlântica
+RECIFE;PE;Mata Atlântica
+BARREIROS;PE;Mata Atlântica
+SIRINHAÉM;PE;Mata Atlântica
+BELO JARDIM;PE;Caatinga
+ABREU E LIMA;PE;Mata Atlântica
+ARAÇOIABA;PE;Mata Atlântica
+CAMARAGIBE;PE;Mata Atlântica
+IGARASSU;PE;Mata Atlântica
+PAUDALHO;PE;Mata Atlântica
+SÃO LOURENÇO DA MATA;PE;Mata Atlântica
+ILHA DE ITAMARACÁ;PE;Mata Atlântica
+ITAPISSUMA;PE;Mata Atlântica
+CABO DE SANTO AGOSTINHO;PE;Mata Atlântica
+JABOATÃO DOS GUARARAPES;PE;Mata Atlântica
+SERRA TALHADA;PE;Caatinga
+LAGOA DOS GATOS;PE;Mata Atlântica
+GRAVATÁ;PE;Caatinga
+BREJO DA MADRE DE DEUS;PE;Caatinga
+SÃO CAITANO;PE;Caatinga
+TACAIMBÓ;PE;Caatinga
+PETROLINA;PE;Caatinga
+SÃO VICENTE FÉRRER;PE;Mata Atlântica
+LAGOA GRANDE;PE;Caatinga
+SANTA MARIA DA BOA VISTA;PE;Caatinga
+MACAPARANA;PE;Mata Atlântica
+TIMBAÚBA;PE;Mata Atlântica
+VICÊNCIA;PE;Mata Atlântica
+QUIPAPÁ;PE;Mata Atlântica
+IPOJUCA;PE;Área Marinha
+PASSIRA;PE;Caatinga
+AGRESTINA;PE;Caatinga
+AFOGADOS DA INGAZEIRA;PE;Caatinga
+CARNAÍBA;PE;Caatinga
+CABROBÓ;PE;Caatinga
+SALGUEIRO;PE;Caatinga
+JATAÚBA;PE;Caatinga
+POÇÃO;PE;Caatinga
+TAQUARITINGA DO NORTE;PE;Caatinga
+VERTENTES;PE;Caatinga
+COQUEIRO SECO;AL;Mata Atlântica
+MACEIÓ;AL;Mata Atlântica
+MARECHAL DEODORO;AL;Mata Atlântica
+RIO LARGO;AL;Mata Atlântica
+SANTA LUZIA DO NORTE;AL;Mata Atlântica
+SATUBA;AL;Mata Atlântica
+PENEDO;AL;Mata Atlântica
+BRANQUINHA;AL;Mata Atlântica
+COLÔNIA LEOPOLDINA;AL;Mata Atlântica
+IBATEGUARA;AL;Mata Atlântica
+JOAQUIM GOMES;AL;Mata Atlântica
+NOVO LINO;AL;Mata Atlântica
+SÃO JOSÉ DA LAJE;AL;Mata Atlântica
+UNIÃO DOS PALMARES;AL;Mata Atlântica
+ÁGUA BRANCA;AL;Caatinga
+JUNQUEIRO;AL;Mata Atlântica
+SANTANA DO IPANEMA;AL;Caatinga
+TANQUE D'ARCA;AL;Mata Atlântica
+OURO BRANCO;AL;Caatinga
+PÃO DE AÇÚCAR;AL;Caatinga
+SÃO MIGUEL DOS CAMPOS;AL;Mata Atlântica
+BARRA DE SANTO ANTÔNIO;AL;Mata Atlântica
+BOCA DA MATA;AL;Mata Atlântica
+PORTO CALVO;AL;Mata Atlântica
+PORTO DE PEDRAS;AL;Mata Atlântica
+JAPARATINGA;AL;Mata Atlântica
+SÃO LUÍS DO QUITUNDE;AL;Mata Atlântica
+CAMPO ALEGRE;AL;Mata Atlântica
+CANAPI;AL;Caatinga
+MARAVILHA;AL;Caatinga
+POÇO DAS TRINCHEIRAS;AL;Caatinga
+SÃO JOSÉ DA TAPERA;AL;Caatinga
+ESTÂNCIA;SE;Mata Atlântica
+INDIAROBA;SE;Mata Atlântica
+ARACAJU;SE;Mata Atlântica
+POÇO REDONDO;SE;Caatinga
+CAPELA;SE;Mata Atlântica
+BARRA DOS COQUEIROS;SE;Mata Atlântica
+SANTO AMARO DAS BROTAS;SE;Mata Atlântica
+WENCESLAU GUIMARÃES;BA;Mata Atlântica
+MIGUEL CALMON;BA;Caatinga
+PIATÃ;BA;Caatinga
+CANDEIAS;BA;Mata Atlântica
+DIAS D'ÁVILA;BA;Mata Atlântica
+LAURO DE FREITAS;BA;Mata Atlântica
+SALVADOR;BA;Mata Atlântica
+SÃO FRANCISCO DO CONDE;BA;Mata Atlântica
+ITABERABA;BA;Caatinga
+RUY BARBOSA;BA;Caatinga
+CAIRU;BA;Mata Atlântica
+JIQUIRIÇÁ;BA;Mata Atlântica
+TEOLÂNDIA;BA;Mata Atlântica
+SALVADOR;BA;Área Marinha
+LUÍS EDUARDO MAGALHÃES;BA;Cerrado
+ÉRICO CARDOSO;BA;Caatinga
+RIO DO PIRES;BA;Caatinga
+SANTA CRUZ CABRÁLIA;BA;Mata Atlântica
+IRAQUARA;BA;Caatinga
+SEABRA;BA;Caatinga
+ALMADINA;BA;Mata Atlântica
+COARACI;BA;Mata Atlântica
+ITAJUÍPE;BA;Mata Atlântica
+JOÃO DOURADO;BA;Caatinga
+SÃO GABRIEL;BA;Caatinga
+PILÃO ARCADO;BA;Caatinga
+XIQUE-XIQUE;BA;Caatinga
+ANTÔNIO CARDOSO;BA;Mata Atlântica
+CABACEIRAS DO PARAGUAÇU;BA;Mata Atlântica
+CONCEIÇÃO DA FEIRA;BA;Mata Atlântica
+FEIRA DE SANTANA;BA;Mata Atlântica
+GOVERNADOR MANGABEIRA;BA;Mata Atlântica
+MURITIBA;BA;Mata Atlântica
+SANTO ESTÊVÃO;BA;Mata Atlântica
+SÃO GONÇALO DOS CAMPOS;BA;Mata Atlântica
+IBIRAPITANGA;BA;Mata Atlântica
+ITAPARICA;BA;Mata Atlântica
+JAGUARIPE;BA;Mata Atlântica
+MADRE DE DEUS;BA;Mata Atlântica
+SALINAS DA MARGARIDA;BA;Mata Atlântica
+SANTO AMARO;BA;Mata Atlântica
+SAUBARA;BA;Mata Atlântica
+VERA CRUZ;BA;Mata Atlântica
+CONDE;BA;Mata Atlântica
+ENTRE RIOS;BA;Mata Atlântica
+JANDAÍRA;BA;Mata Atlântica
+CAMAMU;BA;Mata Atlântica
+GENTIO DO OURO;BA;Caatinga
+SANTA RITA DE CÁSSIA;BA;Cerrado
+CASA NOVA;BA;Caatinga
+REMANSO;BA;Caatinga
+MANSIDÃO;BA;Cerrado
+IGUAÍ;BA;Mata Atlântica
+CANDIBA;BA;Caatinga
+GUANAMBI;BA;Caatinga
+PINDAÍ;BA;Caatinga
+SEBASTIÃO LARANJEIRAS;BA;Caatinga
+URANDI;BA;Caatinga
+MARACÁS;BA;Mata Atlântica
+OUROLÂNDIA;BA;Caatinga
+JACOBINA;BA;Caatinga
+CAÉM;BA;Caatinga
+IRECÊ;BA;Caatinga
+FEIRA DA MATA;BA;Caatinga
+SETE LAGOAS;MG;Cerrado
+PRADOS;MG;Mata Atlântica
+SANTA CRUZ DE MINAS;MG;Mata Atlântica
+TIRADENTES;MG;Mata Atlântica
+SENADOR MODESTINO GONÇALVES;MG;Cerrado
+MAR DE ESPANHA;MG;Mata Atlântica
+ARCOS;MG;Cerrado
+PAINS;MG;Cerrado
+CONTAGEM;MG;Cerrado
+CATAGUASES;MG;Mata Atlântica
+ARAPONGA;MG;Mata Atlântica
+DIVINO;MG;Mata Atlântica
+ERVÁLIA;MG;Mata Atlântica
+MIRADOURO;MG;Mata Atlântica
+MURIAÉ;MG;Mata Atlântica
+PEDRA BONITA;MG;Mata Atlântica
+SERICITA;MG;Mata Atlântica
+GRÃO MOGOL;MG;Cerrado
+JAÍBA;MG;Caatinga
+MATIAS CARDOSO;MG;Caatinga
+MANGA;MG;Caatinga
+CARMÓPOLIS DE MINAS;MG;Mata Atlântica
+CLÁUDIO;MG;Mata Atlântica
+ITAMARANDIBA;MG;Cerrado
+DIONÍSIO;MG;Mata Atlântica
+MARLIÉRIA;MG;Mata Atlântica
+TIMÓTEO;MG;Mata Atlântica
+LAMBARI;MG;Mata Atlântica
+BELO HORIZONTE;MG;Mata Atlântica
+IBIRITÉ;MG;Mata Atlântica
+BARÃO DE COCAIS;MG;Mata Atlântica
+CATAS ALTAS;MG;Mata Atlântica
+MÁRIO CAMPOS;MG;Mata Atlântica
+SARZEDO;MG;Mata Atlântica
+BRAZÓPOLIS;MG;Mata Atlântica
+CAMANDUCAIA;MG;Mata Atlântica
+GONÇALVES;MG;Mata Atlântica
+ITAPEVA;MG;Mata Atlântica
+PARAISÓPOLIS;MG;Mata Atlântica
+SAPUCAÍ-MIRIM;MG;Mata Atlântica
+CONSELHEIRO PENA;MG;Mata Atlântica
+ITUETA;MG;Mata Atlântica
+RESPLENDOR;MG;Mata Atlântica
+SANTA RITA DO ITUETO;MG;Mata Atlântica
+SANTO ANTÔNIO DO ITAMBÉ;MG;Cerrado
+SERRA AZUL DE MINAS;MG;Cerrado
+SERRO;MG;Cerrado
+COUTO DE MAGALHÃES DE MINAS;MG;Cerrado
+FELÍCIO DOS SANTOS;MG;Cerrado
+RIO VERMELHO;MG;Cerrado
+PEDRAS DE MARIA DA CRUZ;MG;Caatinga
+AÇUCENA;MG;Mata Atlântica
+GUANHÃES;MG;Mata Atlântica
+URUCUIA;MG;Cerrado
+PASSO FUNDO;RS;Cerrado
+PORTEIRINHA;MG;Cerrado
+RIACHO DOS MACHADOS;MG;Cerrado
+SERRANÓPOLIS DE MINAS;MG;Cerrado
+CAMPOS ALTOS;MG;Cerrado
+JOAQUIM FELÍCIO;MG;Cerrado
+BELO HORIZONTE;MG;Cerrado
+CORDISBURGO;MG;Cerrado
+MONTES CLAROS;MG;Cerrado
+LEME DO PRADO;MG;Cerrado
+TURMALINA;MG;Cerrado
+ARAGUARI;MG;Cerrado
+ALFENAS;MG;Mata Atlântica
+CAMPESTRE;MG;Mata Atlântica
+CARVALHÓPOLIS;MG;Mata Atlântica
+CONGONHAL;MG;Mata Atlântica
+ESPÍRITO SANTO DO DOURADO;MG;Mata Atlântica
+FAMA;MG;Mata Atlântica
+IPUIÚNA;MG;Mata Atlântica
+MACHADO;MG;Mata Atlântica
+PARAGUAÇU;MG;Mata Atlântica
+POÇO FUNDO;MG;Mata Atlântica
+SÃO JOÃO DA MATA;MG;Mata Atlântica
+UBERABA;MG;Cerrado
+SANTA MARIA DO SALTO;MG;Mata Atlântica
+ESPINOSA;MG;Caatinga
+GAMELEIRAS;MG;Caatinga
+MAMONAS;MG;Caatinga
+MONTE AZUL;MG;Caatinga
+BOA ESPERANÇA;MG;Cerrado
+LADAINHA;MG;Mata Atlântica
+SANTA VITÓRIA;MG;Cerrado
+CARMO DE MINAS;MG;Mata Atlântica
+CRISÓLITA;MG;Mata Atlântica
+ARAXÁ;MG;Cerrado
+SÃO THOMÉ DAS LETRAS;MG;Mata Atlântica
+MOEDA;MG;Mata Atlântica
+CARAÍ;MG;Mata Atlântica
+CATUJI;MG;Mata Atlântica
+ITAIPÉ;MG;Mata Atlântica
+MALACACHETA;MG;Mata Atlântica
+NOVO CRUZEIRO;MG;Mata Atlântica
+TEÓFILO OTONI;MG;Mata Atlântica
+SÃO JOSÉ DA LAPA;MG;Cerrado
+OURO BRANCO;MG;Mata Atlântica
+CAMPINA VERDE;MG;Cerrado
+GURINHATÃ;MG;Cerrado
+IPIAÇU;MG;Cerrado
+ITUIUTABA;MG;Cerrado
+PRATA;MG;Cerrado
+JECEABA;MG;Mata Atlântica
+GOVERNADOR VALADARES;MG;Mata Atlântica
+SABARÁ;MG;Mata Atlântica
+RIO PRETO;MG;Mata Atlântica
+SANTA BÁRBARA DO MONTE VERDE;MG;Mata Atlântica
+BOTUMIRIM;MG;Cerrado
+BETIM;MG;Mata Atlântica
+CONTAGEM;MG;Mata Atlântica
+LEOPOLDINA;MG;Mata Atlântica
+ITAVERAVA;MG;Mata Atlântica
+PASSOS;MG;Mata Atlântica
+GUARACIABA;MG;Mata Atlântica
+ESTIVA;MG;Mata Atlântica
+SANTO ANTÔNIO DO GRAMA;MG;Mata Atlântica
+MONTE ALEGRE DE MINAS;MG;Cerrado
+PRUDENTE DE MORAIS;MG;Cerrado
+BUENO BRANDÃO;MG;Mata Atlântica
+SANTANA DE CATAGUASES;MG;Mata Atlântica
+VIÇOSA;MG;Mata Atlântica
+DOM BOSCO;MG;Cerrado
+ITABIRA;MG;Mata Atlântica
+LUISBURGO;MG;Mata Atlântica
+CARRANCAS;MG;Mata Atlântica
+JUIZ DE FORA;MG;Mata Atlântica
+SÃO GONÇALO DO RIO PRETO;MG;Cerrado
+SANTA LUZIA;MG;Cerrado
+PERDÕES;MG;Mata Atlântica
+PIRACEMA;MG;Mata Atlântica
+DORES DE GUANHÃES;MG;Mata Atlântica
+PEDRA DO ANTA;MG;Mata Atlântica
+PIRAPORA;MG;Cerrado
+JACUTINGA;MG;Mata Atlântica
+PARÁ DE MINAS;MG;Mata Atlântica
+ITACAMBIRA;MG;Cerrado
+BOM SUCESSO;MG;Mata Atlântica
+JEQUITIBÁ;MG;Cerrado
+PONTO CHIQUE;MG;Cerrado
+LASSANCE;MG;Cerrado
+GUARAPARI;ES;Mata Atlântica
+ITAPEMIRIM;ES;Mata Atlântica
+PIÚMA;ES;Mata Atlântica
+FUNDÃO;ES;Mata Atlântica
+SERRA;ES;Mata Atlântica
+GUARAPARI;ES;Área Marinha
+VILA VELHA;ES;Área Marinha
+IBIRAÇU;ES;Mata Atlântica
+CASTELO;ES;Mata Atlântica
+CARIACICA;ES;Mata Atlântica
+SANTA LEOPOLDINA;ES;Mata Atlântica
+VIANA;ES;Mata Atlântica
+DOMINGOS MARTINS;ES;Mata Atlântica
+ALEGRE;ES;Mata Atlântica
+ATÍLIO VIVACQUA;ES;Mata Atlântica
+MUQUI;ES;Mata Atlântica
+ALFREDO CHAVES;ES;Mata Atlântica
+PRESIDENTE KENNEDY;ES;Mata Atlântica
+MUNIZ FREIRE;ES;Mata Atlântica
+SANTA MARIA DE JETIBÁ;ES;Mata Atlântica
+MARECHAL FLORIANO;ES;Mata Atlântica
+ITAGUAÇU;ES;Mata Atlântica
+ARMAÇÃO DOS BÚZIOS;RJ;Área Marinha
+IGUABA GRANDE;RJ;Mata Atlântica
+SÃO PEDRO DA ALDEIA;RJ;Mata Atlântica
+MARICÁ;RJ;Mata Atlântica
+MESQUITA;RJ;Mata Atlântica
+NILÓPOLIS;RJ;Mata Atlântica
+CAMPOS DOS GOYTACAZES;RJ;Mata Atlântica
+SANTA MARIA MADALENA;RJ;Mata Atlântica
+SÃO FIDÉLIS;RJ;Mata Atlântica
+BARRA DO PIRAÍ;RJ;Mata Atlântica
+SÃO FRANCISCO DE ITABAPOANA;RJ;Mata Atlântica
+JAPERI;RJ;Mata Atlântica
+PARACAMBI;RJ;Mata Atlântica
+PIRAÍ;RJ;Mata Atlântica
+QUEIMADOS;RJ;Mata Atlântica
+VASSOURAS;RJ;Mata Atlântica
+ARRAIAL DO CABO;RJ;Mata Atlântica
+CONCEIÇÃO DE MACABU;RJ;Mata Atlântica
+VARRE-SAI;RJ;Mata Atlântica
+SANTO ANTÔNIO DE PÁDUA;RJ;Mata Atlântica
+SÃO JOÃO DA BARRA;RJ;Mata Atlântica
+ARMAÇÃO DOS BÚZIOS;RJ;Mata Atlântica
+SÃO JOSÉ DO VALE DO RIO PRETO;RJ;Mata Atlântica
+BELFORD ROXO;RJ;Mata Atlântica
+NITERÓI;RJ;Área Marinha
+PORCIÚNCULA;RJ;Mata Atlântica
+PARAÍBA DO SUL;RJ;Mata Atlântica
+PINHEIRAL;RJ;Mata Atlântica
+PORTO REAL;RJ;Mata Atlântica
+QUATIS;RJ;Mata Atlântica
+RIO DAS FLORES;RJ;Mata Atlântica
+TRÊS RIOS;RJ;Mata Atlântica
+MIRACEMA;RJ;Mata Atlântica
+BERTIOGA;SP;Mata Atlântica
+BIRITIBA MIRIM;SP;Mata Atlântica
+ITANHAÉM;SP;Mata Atlântica
+JUQUITIBA;SP;Mata Atlântica
+MOGI DAS CRUZES;SP;Mata Atlântica
+MONGAGUÁ;SP;Mata Atlântica
+NATIVIDADE DA SERRA;SP;Mata Atlântica
+PARAIBUNA;SP;Mata Atlântica
+PEDRO DE TOLEDO;SP;Mata Atlântica
+PRAIA GRANDE;SP;Mata Atlântica
+SALESÓPOLIS;SP;Mata Atlântica
+SANTO ANDRÉ;SP;Mata Atlântica
+SANTOS;SP;Mata Atlântica
+SÃO BERNARDO DO CAMPO;SP;Mata Atlântica
+SÃO VICENTE;SP;Mata Atlântica
+PIEDADE;SP;Mata Atlântica
+PAULO DE FARIA;SP;Mata Atlântica
+LUÍS ANTÔNIO;SP;Cerrado
+CAPÃO BONITO;SP;Mata Atlântica
+SÃO MIGUEL ARCANJO;SP;Mata Atlântica
+SETE BARRAS;SP;Mata Atlântica
+RIBEIRÃO PRETO;SP;Mata Atlântica
+ITAPEVA;SP;Mata Atlântica
+BROTAS;SP;Mata Atlântica
+PIRACICABA;SP;Mata Atlântica
+ITABERÁ;SP;Mata Atlântica
+PORTO FERREIRA;SP;Mata Atlântica
+PEDREGULHO;SP;Mata Atlântica
+APIAÍ;SP;Mata Atlântica
+IPORANGA;SP;Mata Atlântica
+CAIEIRAS;SP;Mata Atlântica
+FRANCO DA ROCHA;SP;Mata Atlântica
+SANTOS;SP;Área Marinha
+GUARULHOS;SP;Mata Atlântica
+CASTILHO;SP;Mata Atlântica
+GUARAÇAÍ;SP;Mata Atlântica
+JUNQUEIRÓPOLIS;SP;Mata Atlântica
+MONTE CASTELO;SP;Mata Atlântica
+NOVA INDEPENDÊNCIA;SP;Mata Atlântica
+SÃO JOÃO DO PAU D'ALHO;SP;Mata Atlântica
+RIO CLARO;SP;Mata Atlântica
+SANTA GERTRUDES;SP;Mata Atlântica
+PARIQUERA-AÇU;SP;Mata Atlântica
+ILHABELA;SP;Mata Atlântica
+ALVINLÂNDIA;SP;Mata Atlântica
+GÁLIA;SP;Mata Atlântica
+OSASCO;SP;Mata Atlântica
+VALINHOS;SP;Mata Atlântica
+ÁGUAS DA PRATA;SP;Mata Atlântica
+DRACENA;SP;Mata Atlântica
+OURO VERDE;SP;Mata Atlântica
+PIQUEROBI;SP;Mata Atlântica
+PRESIDENTE VENCESLAU;SP;Mata Atlântica
+BAURU;SP;Mata Atlântica
+RIBEIRÃO GRANDE;SP;Mata Atlântica
+ANHEMBI;SP;Mata Atlântica
+BARRA DO TURVO;SP;Mata Atlântica
+CAJATI;SP;Mata Atlântica
+ELDORADO;SP;Mata Atlântica
+JACUPIRANGA;SP;Mata Atlântica
+CABREÚVA;SP;Mata Atlântica
+INDAIATUBA;SP;Mata Atlântica
+ITU;SP;Mata Atlântica
+SALTO;SP;Mata Atlântica
+CAJAMAR;SP;Mata Atlântica
+ANALÂNDIA;SP;Mata Atlântica
+BARRA BONITA;SP;Mata Atlântica
+CHARQUEADA;SP;Mata Atlântica
+CORUMBATAÍ;SP;Mata Atlântica
+DOIS CÓRREGOS;SP;Mata Atlântica
+IPEÚNA;SP;Mata Atlântica
+ITIRAPINA;SP;Mata Atlântica
+MINEIROS DO TIETÊ;SP;Mata Atlântica
+SANTA MARIA DA SERRA;SP;Mata Atlântica
+SÃO CARLOS;SP;Mata Atlântica
+SÃO MANUEL;SP;Mata Atlântica
+SÃO PEDRO;SP;Mata Atlântica
+TORRINHA;SP;Mata Atlântica
+IBITINGA;SP;Mata Atlântica
+ALUMÍNIO;SP;Mata Atlântica
+COTIA;SP;Mata Atlântica
+MAIRINQUE;SP;Mata Atlântica
+SÃO ROQUE;SP;Mata Atlântica
+VARGEM GRANDE PAULISTA;SP;Mata Atlântica
+VOTORANTIM;SP;Mata Atlântica
+CAMPO LIMPO PAULISTA;SP;Mata Atlântica
+ITUPEVA;SP;Mata Atlântica
+JARINU;SP;Mata Atlântica
+JUNDIAÍ;SP;Mata Atlântica
+AMPARO;SP;Mata Atlântica
+HOLAMBRA;SP;Mata Atlântica
+MONTE ALEGRE DO SUL;SP;Mata Atlântica
+MORUNGABA;SP;Mata Atlântica
+PEDRA BELA;SP;Mata Atlântica
+PEDREIRA;SP;Mata Atlântica
+PINHALZINHO;SP;Mata Atlântica
+SANTO ANTÔNIO DE POSSE;SP;Mata Atlântica
+SERRA NEGRA;SP;Mata Atlântica
+SOCORRO;SP;Mata Atlântica
+TUIUTI;SP;Mata Atlântica
+VARGEM;SP;Mata Atlântica
+AGUDOS;SP;Mata Atlântica
+AVAÍ;SP;Mata Atlântica
+BALBINOS;SP;Mata Atlântica
+DUARTINA;SP;Mata Atlântica
+PIRAJUÍ;SP;Mata Atlântica
+PIRATININGA;SP;Mata Atlântica
+REGINÓPOLIS;SP;Mata Atlântica
+URU;SP;Mata Atlântica
+JUQUIÁ;SP;Mata Atlântica
+SILVEIRAS;SP;Mata Atlântica
+TIETÊ;SP;Mata Atlântica
+BARUERI;SP;Mata Atlântica
+CARAPICUÍBA;SP;Mata Atlântica
+ITAQUAQUECETUBA;SP;Mata Atlântica
+POÁ;SP;Mata Atlântica
+SUZANO;SP;Mata Atlântica
+CARAGUATATUBA;SP;Área Marinha
+ILHABELA;SP;Área Marinha
+BERTIOGA;SP;Área Marinha
+GUARUJÁ;SP;Área Marinha
+MONGAGUÁ;SP;Área Marinha
+PRAIA GRANDE;SP;Área Marinha
+SÃO VICENTE;SP;Área Marinha
+IGUAPE;SP;Área Marinha
+ILHA COMPRIDA;SP;Área Marinha
+BOM JESUS DOS PERDÕES;SP;Mata Atlântica
+ARUJÁ;SP;Mata Atlântica
+ANGATUBA;SP;Cerrado
+ANHEMBI;SP;Cerrado
+AVARÉ;SP;Cerrado
+BOFETE;SP;Cerrado
+BOTUCATU;SP;Cerrado
+GUAREÍ;SP;Cerrado
+ITATINGA;SP;Cerrado
+PARDINHO;SP;Cerrado
+SÃO MANUEL;SP;Cerrado
+TORRE DE PEDRA;SP;Cerrado
+BARÃO DE ANTONINA;SP;Mata Atlântica
+CORONEL MACEDO;SP;Mata Atlântica
+FARTURA;SP;Mata Atlântica
+ITAPORANGA;SP;Mata Atlântica
+PIRAJU;SP;Mata Atlântica
+SARUTAIÁ;SP;Mata Atlântica
+TAGUAÍ;SP;Mata Atlântica
+TAQUARITUBA;SP;Mata Atlântica
+TEJUPÁ;SP;Mata Atlântica
+TIMBURI;SP;Mata Atlântica
+GUATAPARÁ;SP;Cerrado
+NARANDIBA;SP;Mata Atlântica
+ANDRADINA;SP;Mata Atlântica
+MARÍLIA;SP;Mata Atlântica
+MOGI GUAÇU;SP;Cerrado
+PEDERNEIRAS;SP;Cerrado
+BROTAS;SP;Cerrado
+RIBEIRÃO BONITO;SP;Cerrado
+PARANAPANEMA;SP;Cerrado
+MIRASSOL;SP;Mata Atlântica
+SÃO JOSÉ DO RIO PRETO;SP;Mata Atlântica
+SÃO SIMÃO;SP;Cerrado
+ÁGUAS DE SANTA BÁRBARA;SP;Cerrado
+ITIRAPINA;SP;Cerrado
+SANTA RITA DO PASSA QUATRO;SP;Mata Atlântica
+ASSIS;SP;Cerrado
+UBARANA;SP;Mata Atlântica
+GUARUJÁ;SP;Mata Atlântica
+CAPIVARI;SP;Mata Atlântica
+TREMEMBÉ;SP;Mata Atlântica
+COLÔMBIA;SP;Cerrado
+PIRACICABA;SP;Cerrado
+SÃO PEDRO;SP;Cerrado
+GUARAREMA;SP;Mata Atlântica
+DOIS CÓRREGOS;SP;Cerrado
+SANTA MARIA DA SERRA;SP;Cerrado
+AGUDOS;SP;Cerrado
+BAURU;SP;Cerrado
+SANTO ANTÔNIO DO JARDIM;SP;Mata Atlântica
+SÃO JOÃO DA BOA VISTA;SP;Mata Atlântica
+PIRASSUNUNGA;SP;Mata Atlântica
+MONTE ALTO;SP;Mata Atlântica
+CERQUEIRA CÉSAR;SP;Cerrado
+PAULO FRONTIN;PR;Mata Atlântica
+BALSA NOVA;PR;Mata Atlântica
+PORTO AMAZONAS;PR;Mata Atlântica
+SENGÉS;PR;Mata Atlântica
+JAGUARIAÍVA;PR;Cerrado
+TIJUCAS DO SUL;PR;Mata Atlântica
+COLOMBO;PR;Mata Atlântica
+PINHAIS;PR;Mata Atlântica
+PIRAQUARA;PR;Mata Atlântica
+QUATRO BARRAS;PR;Mata Atlântica
+IBIPORÃ;PR;Mata Atlântica
+TRÊS BARRAS DO PARANÁ;PR;Mata Atlântica
+ARAUCÁRIA;PR;Mata Atlântica
+CAMPO MOURÃO;PR;Mata Atlântica
+LUIZIANA;PR;Mata Atlântica
+CERRO AZUL;PR;Mata Atlântica
+TUNAS DO PARANÁ;PR;Mata Atlântica
+RESERVA DO IGUAÇU;PR;Mata Atlântica
+CORNÉLIO PROCÓPIO;PR;Mata Atlântica
+SANTA MARIANA;PR;Mata Atlântica
+CENTENÁRIO DO SUL;PR;Mata Atlântica
+SÃO JERÔNIMO DA SERRA;PR;Mata Atlântica
+ALMIRANTE TAMANDARÉ;PR;Mata Atlântica
+CURITIBA;PR;Mata Atlântica
+LONDRINA;PR;Mata Atlântica
+PINHÃO;PR;Mata Atlântica
+PALOTINA;PR;Mata Atlântica
+SÃO PEDRO DO IGUAÇU;PR;Mata Atlântica
+PATO BRANCO;PR;Mata Atlântica
+MALLET;PR;Mata Atlântica
+RONCADOR;PR;Mata Atlântica
+CRUZ MACHADO;PR;Mata Atlântica
+GUARAPUAVA;PR;Mata Atlântica
+INÁCIO MARTINS;PR;Mata Atlântica
+IRATI;PR;Mata Atlântica
+PAULA FREITAS;PR;Mata Atlântica
+PRUDENTÓPOLIS;PR;Mata Atlântica
+RIO AZUL;PR;Mata Atlântica
+UNIÃO DA VITÓRIA;PR;Mata Atlântica
+TIBAGI;PR;Cerrado
+RIO BRANCO DO SUL;PR;Mata Atlântica
+CANDÓI;PR;Mata Atlântica
+FOZ DO JORDÃO;PR;Mata Atlântica
+TURVO;PR;Mata Atlântica
+AMAPORÃ;PR;Mata Atlântica
+PONTAL DO PARANÁ;PR;Mata Atlântica
+MORRO GRANDE;SC;Mata Atlântica
+NOVA VENEZA;SC;Mata Atlântica
+SIDERÓPOLIS;SC;Mata Atlântica
+TREVISO;SC;Mata Atlântica
+IMARUÍ;SC;Mata Atlântica
+PALHOÇA;SC;Mata Atlântica
+SANTO AMARO DA IMPERATRIZ;SC;Mata Atlântica
+SÃO BONIFÁCIO;SC;Mata Atlântica
+SÃO MARTINHO;SC;Mata Atlântica
+CAMPOS NOVOS;SC;Mata Atlântica
+GALVÃO;SC;Mata Atlântica
+SÃO DOMINGOS;SC;Mata Atlântica
+CONCÓRDIA;SC;Mata Atlântica
+BENEDITO NOVO;SC;Mata Atlântica
+DOUTOR PEDRINHO;SC;Mata Atlântica
+ANITÁPOLIS;SC;Mata Atlântica
+JARAGUÁ DO SUL;SC;Mata Atlântica
+RIO DOS CEDROS;SC;Mata Atlântica
+MAFRA;SC;Mata Atlântica
+VARGEM BONITA;SC;Mata Atlântica
+LEOBERTO LEAL;SC;Mata Atlântica
+BOCAINA DO SUL;SC;Mata Atlântica
+PAINEL;SC;Mata Atlântica
+RIO RUFINO;SC;Mata Atlântica
+GAROPABA;SC;Mata Atlântica
+PAIAL;SC;Mata Atlântica
+VIDEIRA;SC;Mata Atlântica
+BANDEIRANTE;SC;Mata Atlântica
+LAURENTINO;SC;Mata Atlântica
+RIO DO SUL;SC;Mata Atlântica
+GOVERNADOR CELSO RAMOS;SC;Mata Atlântica
+AGRONÔMICA;SC;Mata Atlântica
+DERRUBADAS;RS;Mata Atlântica
+BARRACÃO;RS;Mata Atlântica
+BARRA DO QUARAÍ;RS;Pampa
+CANOAS;RS;Pampa
+CHARQUEADAS;RS;Pampa
+ELDORADO DO SUL;RS;Pampa
+NOVA SANTA RITA;RS;Pampa
+TRIUNFO;RS;Pampa
+GLORINHA;RS;Pampa
+GRAVATAÍ;RS;Pampa
+SANTO ANTÔNIO DA PATRULHA;RS;Pampa
+ARROIO GRANDE;RS;Pampa
+ITATI;RS;Mata Atlântica
+TRÊS FORQUILHAS;RS;Mata Atlântica
+GUAÍBA;RS;Pampa
+BOM JESUS;RS;Mata Atlântica
+VACARIA;RS;Mata Atlântica
+SARANDI;RS;Mata Atlântica
+AGUDO;RS;Mata Atlântica
+IBARAMA;RS;Mata Atlântica
+JAQUIRANA;RS;Mata Atlântica
+ITAQUI;RS;Pampa
+MAÇAMBARÁ;RS;Pampa
+MAQUINÉ;RS;Mata Atlântica
+TERRA DE AREIA;RS;Mata Atlântica
+CAMAQUÃ;RS;Pampa
+SÃO LOURENÇO DO SUL;RS;Pampa
+SANTANA DA BOA VISTA;RS;Pampa
+SÃO MARTINHO DA SERRA;RS;Mata Atlântica
+SÃO JOSÉ DO HERVAL;RS;Mata Atlântica
+ALCINÓPOLIS;MS;Cerrado
+COSTA RICA;MS;Cerrado
+CORGUINHO;MS;Cerrado
+CAMAPUÃ;MS;Cerrado
+COXIM;MS;Cerrado
+RIO VERDE DE MATO GROSSO;MS;Cerrado
+SÃO GABRIEL DO OESTE;MS;Cerrado
+AQUIDAUANA;MS;Cerrado
+BANDEIRANTES;MS;Cerrado
+RIBAS DO RIO PARDO;MS;Cerrado
+PARAÍSO DAS ÁGUAS;MS;Cerrado
+NOVA ANDRADINA;MS;Cerrado
+APARECIDA DO TABOADO;MS;Mata Atlântica
+RIO BRILHANTE;MS;Mata Atlântica
+BRASILÂNDIA;MS;Mata Atlântica
+VILA BELA DA SANTÍSSIMA TRINDADE;MT;Amazônia
+NOVA UBIRATÃ;MT;Amazônia
+NOBRES;MT;Cerrado
+NOVA BRASILÂNDIA;MT;Cerrado
+NOVA MUTUM;MT;Cerrado
+PLANALTO DA SERRA;MT;Cerrado
+ROSÁRIO OESTE;MT;Cerrado
+PARANATINGA;MT;Cerrado
+CAMPO VERDE;MT;Cerrado
+SANTO ANTÔNIO DO LEVERGER;MT;Cerrado
+PONTES E LACERDA;MT;Amazônia
+PORTO ESPERIDIÃO;MT;Amazônia
+ARIPUANÃ;MT;Amazônia
+RONDOLÂNDIA;MT;Amazônia
+SANTA CRUZ DO XINGU;MT;Amazônia
+BARRA DO GARÇAS;MT;Cerrado
+NOVO SANTO ANTÔNIO;MT;Cerrado
+SANTA RITA DO TRIVELATO;MT;Cerrado
+SORRISO;MT;Cerrado
+ALTO PARAGUAI;MT;Cerrado
+DIAMANTINO;MT;Cerrado
+NOVO MUNDO;MT;Amazônia
+NOVA MARINGÁ;MT;Amazônia
+ANÁPOLIS;GO;Cerrado
+CAMPO LIMPO DE GOIÁS;GO;Cerrado
+NERÓPOLIS;GO;Cerrado
+OURO VERDE DE GOIÁS;GO;Cerrado
+ITAJU;SP;Cerrado
+CALDAS NOVAS;GO;Cerrado
+RIO QUENTE;GO;Cerrado
+JARAGUÁ;GO;Cerrado
+BURITI DE GOIÁS;GO;Cerrado
+GOIÁS;GO;Cerrado
+MOSSÂMEDES;GO;Cerrado
+ÁGUA LIMPA;GO;Mata Atlântica
+NAZÁRIO;GO;Cerrado
+PALMEIRAS DE GOIÁS;GO;Cerrado
+BALIZA;GO;Cerrado
+ARIQUEMES;RO;Amazônia
+OURO PRETO DO OESTE;RO;Amazônia
+APERIBÉ;RJ;Mata Atlântica
+ADELÂNDIA;GO;Cerrado
+ANCHIETA;ES;Mata Atlântica
+ANCHIETA;ES;Área Marinha
+ALTO HORIZONTE;GO;Cerrado
+BOM JESUS DO ITABAPOANA;RJ;Mata Atlântica
+AMAMBAI;MS;Mata Atlântica
+AMAMBAI;MS;Cerrado
+COLORADO DO OESTE;RO;Amazônia
+ANAPURUS;MA;Cerrado
+BAIXO GUANDU;ES;Mata Atlântica
+ALVORADA DO NORTE;GO;Cerrado
+AMARALINA;GO;Cerrado
+CAMBUCI;RJ;Mata Atlântica
+BREJETUBA;ES;Mata Atlântica
+CARMO;RJ;Mata Atlântica
+ANHANGUERA;GO;Cerrado
+ACREÚNA;GO;Cerrado
+BALSAS;MA;Cerrado
+BAGÉ;RS;Pampa
+BATAGUASSU;MS;Cerrado
+BARRA VELHA;SC;Mata Atlântica
+BENTO GONÇALVES;RS;Mata Atlântica
+ITAPERUNA;RJ;Mata Atlântica
+AREAL;RJ;Mata Atlântica
+BIGUAÇU;SC;Mata Atlântica
+CASTANHAL;PA;Amazônia
+MACAÉ;RJ;Área Marinha
+MAGÉ;RJ;Área Marinha
+ITAUBAL;AP;Amazônia
+MANGARATIBA;RJ;Área Marinha
+CAÇAPAVA DO SUL;RS;Pampa
+CASSILÂNDIA;MS;Cerrado
+ARAPIRACA;AL;Caatinga
+ALTO ARAGUAIA;MT;Cerrado
+PARANATAMA;PE;Caatinga
+CLÁUDIA;MT;Amazônia
+ARARAQUARA;SP;Cerrado
+COLÍDER;MT;Amazônia
+MARATAÍZES;ES;Mata Atlântica
+CAMBÉ;PR;Mata Atlântica
+DOURADOS;MS;Mata Atlântica
+PATY DO ALFERES;RJ;Mata Atlântica
+JURUTI;PA;Amazônia
+GLÓRIA DE DOURADOS;MS;Mata Atlântica
+CARUARU;PE;Mata Atlântica
+IGUATEMI;MS;Cerrado
+CANDIOTA;RS;Pampa
+CAIAPÔNIA;GO;Cerrado
+RIO DE JANEIRO;RJ;Área Marinha
+CALDAZINHA;GO;Cerrado
+CRICIÚMA;SC;Mata Atlântica
+CASTELÂNDIA;GO;Cerrado
+SÃO JOÃO DE MERITI;RJ;Mata Atlântica
+CATALÃO;GO;Cerrado
+JUÍNA;MT;Amazônia
+VILA VELHA;ES;Mata Atlântica
+LADÁRIO;MS;Pantanal
+LUCAS DO RIO VERDE;MT;Cerrado
+VITÓRIA;ES;Mata Atlântica
+MARCELÂNDIA;MT;Amazônia
+BARBACENA;MG;Mata Atlântica
+TANGUÁ;RJ;Mata Atlântica
+SEVERIANO DE ALMEIDA;RS;Mata Atlântica
+CRISTAL;RS;Pampa
+PORTO FELIZ;SP;Mata Atlântica
+ALTO TAQUARI;MT;Cerrado
+REDENÇÃO;PA;Amazônia
+NOVA LACERDA;MT;Cerrado
+PARANHOS;MS;Cerrado
+PEDRA PRETA;MT;Cerrado
+CUMARI;GO;Cerrado
+DAVINÓPOLIS;GO;Cerrado
+ILHOTA;SC;Mata Atlântica
+RIBEIRÃOZINHO;MT;Cerrado
+BOTUCATU;SP;Mata Atlântica
+FAZENDA NOVA;GO;Cerrado
+SAPEZAL;MT;Cerrado
+SINOP;MT;Amazônia
+TACURU;MS;Mata Atlântica
+TERRA NOVA DO NORTE;MT;Amazônia
+GAMELEIRA DE GOIÁS;GO;Cerrado
+ITAPEMA;SC;Mata Atlântica
+TRÊS LAGOAS;MS;Mata Atlântica
+TRÊS LAGOAS;MS;Cerrado
+DIVINÓPOLIS DE GOIÁS;GO;Cerrado
+CAÇAPAVA;SP;Mata Atlântica
+GOIANDIRA;GO;Cerrado
+ARARICÁ;RS;Mata Atlântica
+GOIATUBA;GO;Cerrado
+MATARACA;PB;Mata Atlântica
+LAGES;SC;Mata Atlântica
+COMENDADOR LEVY GASPARIAN;RJ;Mata Atlântica
+HORIZONTINA;RS;Mata Atlântica
+INACIOLÂNDIA;GO;Cerrado
+CAETÉ;MG;Cerrado
+SÃO DOMINGOS DO PRATA;MG;Mata Atlântica
+MARACAJÁ;SC;Mata Atlântica
+NAVEGANTES;SC;Mata Atlântica
+TIMON;MA;Cerrado
+JUSSARA;GO;Cerrado
+LAGOA SANTA;GO;Cerrado
+BALNEÁRIO PIÇARRAS;SC;Mata Atlântica
+MARZAGÃO;GO;Mata Atlântica
+MIMOSO DE GOIÁS;GO;Cerrado
+MINAÇU;GO;Cerrado
+OSÓRIO;RS;Mata Atlântica
+MUNDO NOVO;GO;Cerrado
+VERA CRUZ;RN;Caatinga
+NOVA AURORA;GO;Cerrado
+CORDEIRO;RJ;Mata Atlântica
+NOVO BRASIL;GO;Cerrado
+ORIZONA;GO;Cerrado
+OUVIDOR;GO;Cerrado
+PALMELO;GO;Cerrado
+PANAMÁ;GO;Cerrado
+PETROLINA DE GOIÁS;GO;Cerrado
+SANTA MARIA;RS;Mata Atlântica
+BRAGANÇA;PA;Área Marinha
+PIRACANJUBA;GO;Cerrado
+SCHROEDER;SC;Mata Atlântica
+CONCEIÇÃO DO MATO DENTRO;MG;Mata Atlântica
+SANTO ANTÔNIO DA PATRULHA;RS;Mata Atlântica
+TIMBÓ;SC;Mata Atlântica
+SÃO JOSÉ DO NORTE;RS;Área Marinha
+SÃO LEOPOLDO;RS;Mata Atlântica
+MARCELINO RAMOS;RS;Mata Atlântica
+SANTA BÁRBARA DE GOIÁS;GO;Cerrado
+CORONEL FABRICIANO;MG;Mata Atlântica
+SAPIRANGA;RS;Mata Atlântica
+SÃO PATRÍCIO;GO;Cerrado
+SERTÃO;RS;Mata Atlântica
+ITALVA;RJ;Mata Atlântica
+VARJÃO;GO;Cerrado
+CAPANEMA;PA;Amazônia
+CEARÁ-MIRIM;RN;Caatinga
+FRUTAL;MG;Cerrado
+LUCÉLIA;SP;Mata Atlântica
+SANTA RITA DE CÁSSIA;BA;Caatinga
+CAMPO BOM;RS;Mata Atlântica
+SÃO PEDRO DO SUAÇUÍ;MG;Mata Atlântica
+RIBEIRÃO PRETO;SP;Cerrado
+NAZARENO;MG;Mata Atlântica
+NOVA ERA;MG;Mata Atlântica
+SALTO DE PIRAPORA;SP;Mata Atlântica
+PADRE PARAÍSO;MG;Mata Atlântica
+JACIARA;MT;Cerrado
+SÃO JOSÉ DE UBÁ;RJ;Mata Atlântica
+POÇOS DE CALDAS;MG;Mata Atlântica
+JANUÁRIA;MG;Caatinga
+PONTE NOVA;MG;Mata Atlântica
+SOROCABA;SP;Mata Atlântica
+TAUBATÉ;SP;Mata Atlântica
+RIO PIRACICABA;MG;Mata Atlântica
+SANTA MARIA DE ITABIRA;MG;Mata Atlântica
+SANTANA DO PARAÍSO;MG;Mata Atlântica
+SANTA RITA DE JACUTINGA;MG;Mata Atlântica
+SANTA RITA DO SAPUCAÍ;MG;Mata Atlântica
+SANTO HIPÓLITO;MG;Cerrado
+CRISTIANÓPOLIS;GO;Cerrado
+CRIXÁS;GO;Cerrado
+SENADOR FIRMINO;MG;Mata Atlântica
+PONTA PORÃ;MS;Cerrado
+SÃO JOSÉ DO CEDRO;SC;Mata Atlântica
+TAPARUBA;MG;Mata Atlântica
+SANTA MARIA;RS;Pampa
+URUANA DE MINAS;MG;Cerrado
+CARINHANHA;BA;Caatinga
+FAZENDA RIO GRANDE;PR;Mata Atlântica
+BOM JESUS DO GALHO;MG;Mata Atlântica
+CAXAMBU;MG;Mata Atlântica
+SOLEDADE DE MINAS;MG;Mata Atlântica
+SANTA MARGARIDA;MG;Mata Atlântica
+SÃO JOÃO DO MANHUAÇU;MG;Mata Atlântica
+BONFIM;MG;Mata Atlântica
+VÁRZEA GRANDE;MT;Cerrado
+LUZ;MG;Cerrado
+OLINDA;PE;Mata Atlântica
+PITANGA;PR;Mata Atlântica
+HONÓRIO SERPA;PR;Mata Atlântica
+ACRELÂNDIA;AC;Amazônia
+PLÁCIDO DE CASTRO;AC;Amazônia
+PORTO ACRE;AC;Amazônia
+SENADOR GUIOMARD;AC;Amazônia
+CUTIAS;AP;Amazônia
+ANAMÃ;AM;Amazônia
+ATALAIA DO NORTE;AM;Amazônia
+AUTAZES;AM;Amazônia
+BARREIRINHA;AM;Amazônia
+BENJAMIN CONSTANT;AM;Amazônia
+BOA VISTA DO RAMOS;AM;Amazônia
+CAAPIRANGA;AM;Amazônia
+CAREIRO;AM;Amazônia
+CAREIRO DA VÁRZEA;AM;Amazônia
+ENVIRA;AM;Amazônia
+GUAJARÁ;AM;Amazônia
+ITAMARATI;AM;Amazônia
+MANAQUIRI;AM;Amazônia
+PARINTINS;AM;Amazônia
+SILVES;AM;Amazônia
+SÃO PAULO DE OLIVENÇA;AM;Amazônia
+TABATINGA;AM;Amazônia
+URUCURITUBA;AM;Amazônia
+ALCÂNTARA;MA;Amazônia
+ALTAMIRA DO MARANHÃO;MA;Amazônia
+ALTO ALEGRE DO PINDARÉ;MA;Amazônia
+AMAPÁ DO MARANHÃO;MA;Amazônia
+AMARANTE DO MARANHÃO;MA;Amazônia
+APICUM-AÇU;MA;Amazônia
+ARAGUANÃ;MA;Amazônia
+ARAME;MA;Amazônia
+ARARI;MA;Amazônia
+AXIXÁ;MA;Amazônia
+BACABAL;MA;Amazônia
+BACABEIRA;MA;Amazônia
+BACURI;MA;Amazônia
+BACURITUBA;MA;Amazônia
+BELA VISTA DO MARANHÃO;MA;Amazônia
+BOA VISTA DO GURUPI;MA;Amazônia
+BOM JESUS DAS SELVAS;MA;Amazônia
+BOM LUGAR;MA;Amazônia
+BREJO DE AREIA;MA;Amazônia
+BURITICUPU;MA;Amazônia
+BURITIRANA;MA;Amazônia
+CACHOEIRA GRANDE;MA;Amazônia
+CAJAPIÓ;MA;Amazônia
+CARUTAPERA;MA;Amazônia
+CEDRAL;MA;Amazônia
+CENTRAL DO MARANHÃO;MA;Amazônia
+CENTRO DO GUILHERME;MA;Amazônia
+CONCEIÇÃO DO LAGO-AÇU;MA;Amazônia
+CURURUPU;MA;Amazônia
+CÂNDIDO MENDES;MA;Amazônia
+GODOFREDO VIANA;MA;Amazônia
+GOVERNADOR NEWTON BELLO;MA;Amazônia
+GOVERNADOR NUNES FREIRE;MA;Amazônia
+GRAJAÚ;MA;Amazônia
+GUIMARÃES;MA;Amazônia
+HUMBERTO DE CAMPOS;MA;Amazônia
+ICATU;MA;Amazônia
+IGARAPÉ DO MEIO;MA;Amazônia
+ITAIPAVA DO GRAJAÚ;MA;Amazônia
+ITAPECURU MIRIM;MA;Amazônia
+ITINGA DO MARANHÃO;MA;Amazônia
+JOÃO LISBOA;MA;Amazônia
+JUNCO DO MARANHÃO;MA;Amazônia
+LAGO DA PEDRA;MA;Amazônia
+LAGO DO JUNCO;MA;Amazônia
+LAGO DOS RODRIGUES;MA;Amazônia
+LUÍS DOMINGUES;MA;Amazônia
+MARACAÇUMÉ;MA;Amazônia
+MARAJÁ DO SENA;MA;Amazônia
+MARANHÃOZINHO;MA;Amazônia
+MATÕES DO NORTE;MA;Amazônia
+MIRANDA DO NORTE;MA;Amazônia
+MORROS;MA;Amazônia
+NINA RODRIGUES;MA;Amazônia
+NOVA OLINDA DO MARANHÃO;MA;Amazônia
+OLINDA NOVA DO MARANHÃO;MA;Amazônia
+PAULO RAMOS;MA;Amazônia
+PAÇO DO LUMIAR;MA;Amazônia
+PEDRO DO ROSÁRIO;MA;Amazônia
+PORTO RICO DO MARANHÃO;MA;Amazônia
+PRESIDENTE JUSCELINO;MA;Amazônia
+PRESIDENTE MÉDICI;MA;Amazônia
+PRESIDENTE SARNEY;MA;Amazônia
+PRESIDENTE VARGAS;MA;Amazônia
+PRIMEIRA CRUZ;MA;Amazônia
+RAPOSA;MA;Amazônia
+SANTA INÊS;MA;Amazônia
+SANTA LUZIA;MA;Amazônia
+SANTA LUZIA DO PARUÁ;MA;Amazônia
+SANTA RITA;MA;Amazônia
+SATUBINHA;MA;Amazônia
+SENADOR LA ROCQUE;MA;Amazônia
+SERRANO DO MARANHÃO;MA;Amazônia
+SÃO FRANCISCO DO BREJÃO;MA;Amazônia
+SÃO JOÃO BATISTA;MA;Amazônia
+SÃO LUÍS GONZAGA DO MARANHÃO;MA;Amazônia
+SÃO PEDRO DA ÁGUA BRANCA;MA;Amazônia
+TUFILÂNDIA;MA;Amazônia
+TURIAÇU;MA;Amazônia
+TURILÂNDIA;MA;Amazônia
+VILA NOVA DOS MARTÍRIOS;MA;Amazônia
+VITORINO FREIRE;MA;Amazônia
+ZÉ DOCA;MA;Amazônia
+ALTO BOA VISTA;MT;Amazônia
+ALTO PARAGUAI;MT;Amazônia
+ARAPUTANGA;MT;Amazônia
+ARENÁPOLIS;MT;Amazônia
+BARRA DO BUGRES;MT;Amazônia
+BOM JESUS DO ARAGUAIA;MT;Amazônia
+BRASNORTE;MT;Amazônia
+CAMPINÁPOLIS;MT;Amazônia
+CAMPO NOVO DO PARECIS;MT;Amazônia
+CANABRAVA DO NORTE;MT;Amazônia
+CANARANA;MT;Amazônia
+CARLINDA;MT;Amazônia
+CASTANHEIRA;MT;Amazônia
+COMODORO;MT;Amazônia
+CONFRESA;MT;Amazônia
+CONQUISTA D'OESTE;MT;Amazônia
+CURVELÂNDIA;MT;Amazônia
+CÁCERES;MT;Amazônia
+DENISE;MT;Amazônia
+DIAMANTINO;MT;Amazônia
+FELIZ NATAL;MT;Amazônia
+FIGUEIRÓPOLIS D'OESTE;MT;Amazônia
+GAÚCHA DO NORTE;MT;Amazônia
+GLÓRIA D'OESTE;MT;Amazônia
+GUARANTÃ DO NORTE;MT;Amazônia
+INDIAVAÍ;MT;Amazônia
+IPIRANGA DO NORTE;MT;Amazônia
+ITANHANGÁ;MT;Amazônia
+ITAÚBA;MT;Amazônia
+JAURU;MT;Amazônia
+JUARA;MT;Amazônia
+JURUENA;MT;Amazônia
+LAMBARI D'OESTE;MT;Amazônia
+LUCAS DO RIO VERDE;MT;Amazônia
+LUCIARA;MT;Amazônia
+MATUPÁ;MT;Amazônia
+MIRASSOL D'OESTE;MT;Amazônia
+NORTELÂNDIA;MT;Amazônia
+NOVA GUARITA;MT;Amazônia
+NOVA LACERDA;MT;Amazônia
+NOVA MARILÂNDIA;MT;Amazônia
+NOVA MONTE VERDE;MT;Amazônia
+NOVA MUTUM;MT;Amazônia
+NOVA OLÍMPIA;MT;Amazônia
+NOVA SANTA HELENA;MT;Amazônia
+NOVO HORIZONTE DO NORTE;MT;Amazônia
+NOVO SANTO ANTÔNIO;MT;Amazônia
+PARANATINGA;MT;Amazônia
+PARANAÍTA;MT;Amazônia
+PEIXOTO DE AZEVEDO;MT;Amazônia
+PORTO ALEGRE DO NORTE;MT;Amazônia
+PORTO ESTRELA;MT;Amazônia
+PORTO DOS GAÚCHOS;MT;Amazônia
+QUERÊNCIA;MT;Amazônia
+RESERVA DO CABAÇAL;MT;Amazônia
+RIBEIRÃO CASCALHEIRA;MT;Amazônia
+RIO BRANCO;MT;Amazônia
+SALTO DO CÉU;MT;Amazônia
+SANTA CARMEM;MT;Amazônia
+SANTA TEREZINHA;MT;Amazônia
+SANTO AFONSO;MT;Amazônia
+SAPEZAL;MT;Amazônia
+SERRA NOVA DOURADA;MT;Amazônia
+SORRISO;MT;Amazônia
+SÃO FÉLIX DO ARAGUAIA;MT;Amazônia
+SÃO JOSÉ DO RIO CLARO;MT;Amazônia
+SÃO JOSÉ DOS QUATRO MARCOS;MT;Amazônia
+TABAPORÃ;MT;Amazônia
+TANGARÁ DA SERRA;MT;Amazônia
+TAPURAH;MT;Amazônia
+UNIÃO DO SUL;MT;Amazônia
+VALE DE SÃO DOMINGOS;MT;Amazônia
+VERA;MT;Amazônia
+VILA RICA;MT;Amazônia
+ÁGUA BOA;MT;Amazônia
+ABAETETUBA;PA;Amazônia
+ABEL FIGUEIREDO;PA;Amazônia
+ACARÁ;PA;Amazônia
+ANAPU;PA;Amazônia
+AURORA DO PARÁ;PA;Amazônia
+BAGRE;PA;Amazônia
+BANNACH;PA;Amazônia
+BOM JESUS DO TOCANTINS;PA;Amazônia
+BONITO;PA;Amazônia
+BRASIL NOVO;PA;Amazônia
+BREJO GRANDE DO ARAGUAIA;PA;Amazônia
+BUJARU;PA;Amazônia
+CACHOEIRA DO PIRIÁ;PA;Amazônia
+CAPITÃO POÇO;PA;Amazônia
+COLARES;PA;Amazônia
+CONCEIÇÃO DO ARAGUAIA;PA;Amazônia
+CONCÓRDIA DO PARÁ;PA;Amazônia
+CUMARU DO NORTE;PA;Amazônia
+CURIONÓPOLIS;PA;Amazônia
+CURUÁ;PA;Amazônia
+DOM ELISEU;PA;Amazônia
+ELDORADO DO CARAJÁS;PA;Amazônia
+FLORESTA DO ARAGUAIA;PA;Amazônia
+GARRAFÃO DO NORTE;PA;Amazônia
+IGARAPÉ-AÇU;PA;Amazônia
+IGARAPÉ-MIRI;PA;Amazônia
+INHANGAPI;PA;Amazônia
+IPIXUNA DO PARÁ;PA;Amazônia
+IRITUIA;PA;Amazônia
+LIMOEIRO DO AJURU;PA;Amazônia
+MEDICILÂNDIA;PA;Amazônia
+MOCAJUBA;PA;Amazônia
+MOJUÍ DOS CAMPOS;PA;Amazônia
+MÃE DO RIO;PA;Amazônia
+NOVA ESPERANÇA DO PIRIÁ;PA;Amazônia
+NOVA TIMBOTEUA;PA;Amazônia
+OURILÂNDIA DO NORTE;PA;Amazônia
+OURÉM;PA;Amazônia
+PACAJÁ;PA;Amazônia
+PALESTINA DO PARÁ;PA;Amazônia
+PARAGOMINAS;PA;Amazônia
+PAU D'ARCO;PA;Amazônia
+PEIXE-BOI;PA;Amazônia
+PIÇARRA;PA;Amazônia
+PONTA DE PEDRAS;PA;Amazônia
+RIO MARIA;PA;Amazônia
+RONDON DO PARÁ;PA;Amazônia
+SANTA BÁRBARA DO PARÁ;PA;Amazônia
+SANTA LUZIA DO PARÁ;PA;Amazônia
+SANTA MARIA DAS BARREIRAS;PA;Amazônia
+SANTA MARIA DO PARÁ;PA;Amazônia
+SANTANA DO ARAGUAIA;PA;Amazônia
+SAPUCAIA;PA;Amazônia
+SÃO DOMINGOS DO ARAGUAIA;PA;Amazônia
+SÃO DOMINGOS DO CAPIM;PA;Amazônia
+SÃO FRANCISCO DO PARÁ;PA;Amazônia
+SÃO JOÃO DO ARAGUAIA;PA;Amazônia
+SÃO MIGUEL DO GUAMÁ;PA;Amazônia
+TAILÂNDIA;PA;Amazônia
+TERRA ALTA;PA;Amazônia
+TOMÉ-AÇU;PA;Amazônia
+TUCUMÃ;PA;Amazônia
+ULIANÓPOLIS;PA;Amazônia
+URUARÁ;PA;Amazônia
+VIGIA;PA;Amazônia
+VITÓRIA DO XINGU;PA;Amazônia
+XINGUARA;PA;Amazônia
+ALTO PARAÍSO;RO;Amazônia
+CABIXI;RO;Amazônia
+CACAULÂNDIA;RO;Amazônia
+CASTANHEIRAS;RO;Amazônia
+CHUPINGUAIA;RO;Amazônia
+CORUMBIARA;RO;Amazônia
+ESPIGÃO D'OESTE;RO;Amazônia
+JARU;RO;Amazônia
+MINISTRO ANDREAZZA;RO;Amazônia
+MONTE NEGRO;RO;Amazônia
+NOVA BRASILÂNDIA D'OESTE;RO;Amazônia
+NOVA UNIÃO;RO;Amazônia
+NOVO HORIZONTE DO OESTE;RO;Amazônia
+PARECIS;RO;Amazônia
+PRIMAVERA DE RONDÔNIA;RO;Amazônia
+RIO CRESPO;RO;Amazônia
+ROLIM DE MOURA;RO;Amazônia
+SANTA LUZIA D'OESTE;RO;Amazônia
+SERINGUEIRAS;RO;Amazônia
+SÃO FELIPE D'OESTE;RO;Amazônia
+THEOBROMA;RO;Amazônia
+URUPÁ;RO;Amazônia
+VALE DO PARAÍSO;RO;Amazônia
+VILHENA;RO;Amazônia
+BONFIM;RR;Amazônia
+CANTÁ;RR;Amazônia
+CAROEBE;RR;Amazônia
+IRACEMA;RR;Amazônia
+NORMANDIA;RR;Amazônia
+PACARAIMA;RR;Amazônia
+SÃO JOÃO DA BALIZA;RR;Amazônia
+SÃO LUIZ;RR;Amazônia
+ANGICO;TO;Amazônia
+ARAGOMINAS;TO;Amazônia
+ARAGUATINS;TO;Amazônia
+ARAGUAÍNA;TO;Amazônia
+ARAPOEMA;TO;Amazônia
+AUGUSTINÓPOLIS;TO;Amazônia
+BANDEIRANTES DO TOCANTINS;TO;Amazônia
+BERNARDO SAYÃO;TO;Amazônia
+BRASILÂNDIA DO TOCANTINS;TO;Amazônia
+CARMOLÂNDIA;TO;Amazônia
+COLINAS DO TOCANTINS;TO;Amazônia
+COLMÉIA;TO;Amazônia
+COUTO MAGALHÃES;TO;Amazônia
+DARCINÓPOLIS;TO;Amazônia
+DOIS IRMÃOS DO TOCANTINS;TO;Amazônia
+ESPERANTINA;TO;Amazônia
+GOIANORTE;TO;Amazônia
+GUARAÍ;TO;Amazônia
+ITAPORÃ DO TOCANTINS;TO;Amazônia
+JUARINA;TO;Amazônia
+MIRANORTE;TO;Amazônia
+MURICILÂNDIA;TO;Amazônia
+NOVA OLINDA;TO;Amazônia
+PAU D'ARCO;TO;Amazônia
+PEQUIZEIRO;TO;Amazônia
+PIRAQUÊ;TO;Amazônia
+PRESIDENTE KENNEDY;TO;Amazônia
+SANTA FÉ DO ARAGUAIA;TO;Amazônia
+SÃO BENTO DO TOCANTINS;TO;Amazônia
+SÃO SEBASTIÃO DO TOCANTINS;TO;Amazônia
+TABOCÃO;TO;Amazônia
+WANDERLÂNDIA;TO;Amazônia
+BATALHA;AL;Caatinga
+BELO MONTE;AL;Caatinga
+BELÉM;AL;Caatinga
+CACIMBINHAS;AL;Caatinga
+CAMPO GRANDE;AL;Caatinga
+CARNEIROS;AL;Caatinga
+COITÉ DO NÓIA;AL;Caatinga
+CRAÍBAS;AL;Caatinga
+DOIS RIACHOS;AL;Caatinga
+ESTRELA DE ALAGOAS;AL;Caatinga
+FEIRA GRANDE;AL;Caatinga
+GIRAU DO PONCIANO;AL;Caatinga
+IGACI;AL;Caatinga
+IGREJA NOVA;AL;Caatinga
+INHAPI;AL;Caatinga
+JACARÉ DOS HOMENS;AL;Caatinga
+JARAMATAIA;AL;Caatinga
+LAGOA DA CANOA;AL;Caatinga
+LIMOEIRO DE ANADIA;AL;Caatinga
+MAJOR ISIDORO;AL;Caatinga
+MAR VERMELHO;AL;Caatinga
+MATA GRANDE;AL;Caatinga
+MINADOR DO NEGRÃO;AL;Caatinga
+MONTEIRÓPOLIS;AL;Caatinga
+OLHO D'ÁGUA GRANDE;AL;Caatinga
+OLHO D'ÁGUA DAS FLORES;AL;Caatinga
+OLIVENÇA;AL;Caatinga
+PALESTINA;AL;Caatinga
+PALMEIRA DOS ÍNDIOS;AL;Caatinga
+PARICONHA;AL;Caatinga
+PORTO REAL DO COLÉGIO;AL;Caatinga
+SENADOR RUI PALMEIRA;AL;Caatinga
+SÃO BRÁS;AL;Caatinga
+SÃO SEBASTIÃO;AL;Caatinga
+TANQUE D'ARCA;AL;Caatinga
+TAQUARANA;AL;Caatinga
+TRAIPU;AL;Caatinga
+ABARÉ;BA;Caatinga
+ACAJUTIBA;BA;Caatinga
+ADUSTINA;BA;Caatinga
+AMARGOSA;BA;Caatinga
+AMÉRICA DOURADA;BA;Caatinga
+ANAGÉ;BA;Caatinga
+ANDORINHA;BA;Caatinga
+ANGICAL;BA;Caatinga
+ANTAS;BA;Caatinga
+ANTÔNIO GONÇALVES;BA;Caatinga
+APORÁ;BA;Caatinga
+ARACATU;BA;Caatinga
+ARACI;BA;Caatinga
+BAIXA GRANDE;BA;Caatinga
+BANZAÊ;BA;Caatinga
+BARRA DA ESTIVA;BA;Caatinga
+BARRA DO MENDES;BA;Caatinga
+BARREIRAS;BA;Caatinga
+BARRO ALTO;BA;Caatinga
+BARROCAS;BA;Caatinga
+BELO CAMPO;BA;Caatinga
+BIRITINGA;BA;Caatinga
+BOA NOVA;BA;Caatinga
+BOA VISTA DO TUPIM;BA;Caatinga
+BOM JESUS DA LAPA;BA;Caatinga
+BOM JESUS DA SERRA;BA;Caatinga
+BONINAL;BA;Caatinga
+BONITO;BA;Caatinga
+BOQUIRA;BA;Caatinga
+BOTUPORÃ;BA;Caatinga
+BREJOLÂNDIA;BA;Caatinga
+BREJÕES;BA;Caatinga
+BROTAS DE MACAÚBAS;BA;Caatinga
+BRUMADO;BA;Caatinga
+BURITIRAMA;BA;Caatinga
+CACULÉ;BA;Caatinga
+CAETANOS;BA;Caatinga
+CAETITÉ;BA;Caatinga
+CAFARNAUM;BA;Caatinga
+CALDEIRÃO GRANDE;BA;Caatinga
+CAMPO ALEGRE DE LOURDES;BA;Caatinga
+CANARANA;BA;Caatinga
+CANDEAL;BA;Caatinga
+CANSANÇÃO;BA;Caatinga
+CANUDOS;BA;Caatinga
+CANÁPOLIS;BA;Caatinga
+CAPELA DO ALTO ALEGRE;BA;Caatinga
+CAPIM GROSSO;BA;Caatinga
+CARAÍBAS;BA;Caatinga
+CASTRO ALVES;BA;Caatinga
+CATURAMA;BA;Caatinga
+CENTRAL;BA;Caatinga
+CHORROCHÓ;BA;Caatinga
+CIPÓ;BA;Caatinga
+COCOS;BA;Caatinga
+CONCEIÇÃO DO COITÉ;BA;Caatinga
+CONCEIÇÃO DO JACUÍPE;BA;Caatinga
+CONDEÚBA;BA;Caatinga
+CORAÇÃO DE MARIA;BA;Caatinga
+CORDEIROS;BA;Caatinga
+CORIBE;BA;Caatinga
+CORONEL JOÃO SÁ;BA;Caatinga
+CORRENTINA;BA;Caatinga
+COTEGIPE;BA;Caatinga
+CRISTÓPOLIS;BA;Caatinga
+CRISÓPOLIS;BA;Caatinga
+CÍCERO DANTAS;BA;Caatinga
+DOM BASÍLIO;BA;Caatinga
+EUCLIDES DA CUNHA;BA;Caatinga
+FEIRA DE SANTANA;BA;Caatinga
+FILADÉLFIA;BA;Caatinga
+FÁTIMA;BA;Caatinga
+GAVIÃO;BA;Caatinga
+GLÓRIA;BA;Caatinga
+GUAJERU;BA;Caatinga
+HELIÓPOLIS;BA;Caatinga
+IAÇU;BA;Caatinga
+IBIASSUCÊ;BA;Caatinga
+IBIPEBA;BA;Caatinga
+IBIPITANGA;BA;Caatinga
+IBIQUERA;BA;Caatinga
+IBITIARA;BA;Caatinga
+IBITITÁ;BA;Caatinga
+ICHU;BA;Caatinga
+IGAPORÃ;BA;Caatinga
+INHAMBUPE;BA;Caatinga
+IPECAETÁ;BA;Caatinga
+IPIRÁ;BA;Caatinga
+IPUPIARA;BA;Caatinga
+IRAJUBA;BA;Caatinga
+IRAMAIA;BA;Caatinga
+IRARÁ;BA;Caatinga
+ITAGUAÇU DA BAHIA;BA;Caatinga
+ITAPICURU;BA;Caatinga
+ITATIM;BA;Caatinga
+ITIRUÇU;BA;Caatinga
+ITIÚBA;BA;Caatinga
+ITUAÇU;BA;Caatinga
+IUIU;BA;Caatinga
+JABORANDI;BA;Caatinga
+JACARACI;BA;Caatinga
+JAGUAQUARA;BA;Caatinga
+JAGUARARI;BA;Caatinga
+JEQUIÉ;BA;Caatinga
+JUSSARA;BA;Caatinga
+JUSSIAPE;BA;Caatinga
+LAFAIETE COUTINHO;BA;Caatinga
+LAGOA REAL;BA;Caatinga
+LAJEDINHO;BA;Caatinga
+LAJEDO DO TABOCAL;BA;Caatinga
+LAMARÃO;BA;Caatinga
+LAPÃO;BA;Caatinga
+LICÍNIO DE ALMEIDA;BA;Caatinga
+LIVRAMENTO DE NOSSA SENHORA;BA;Caatinga
+MACAJUBA;BA;Caatinga
+MACAÚBAS;BA;Caatinga
+MACURURÉ;BA;Caatinga
+MAETINGA;BA;Caatinga
+MAIRI;BA;Caatinga
+MALHADA DE PEDRAS;BA;Caatinga
+MANOEL VITORINO;BA;Caatinga
+MANSIDÃO;BA;Caatinga
+MARACÁS;BA;Caatinga
+MARCIONÍLIO SOUZA;BA;Caatinga
+MATINA;BA;Caatinga
+MILAGRES;BA;Caatinga
+MIRANGABA;BA;Caatinga
+MIRANTE;BA;Caatinga
+MONTE SANTO;BA;Caatinga
+MORPARÁ;BA;Caatinga
+MORTUGABA;BA;Caatinga
+MULUNGU DO MORRO;BA;Caatinga
+MUNDO NOVO;BA;Caatinga
+MUQUÉM DO SÃO FRANCISCO;BA;Caatinga
+NORDESTINA;BA;Caatinga
+NOVA FÁTIMA;BA;Caatinga
+NOVA ITARANA;BA;Caatinga
+NOVA REDENÇÃO;BA;Caatinga
+NOVA SOURE;BA;Caatinga
+NOVO HORIZONTE;BA;Caatinga
+NOVO TRIUNFO;BA;Caatinga
+OLINDINA;BA;Caatinga
+OLIVEIRA DOS BREJINHOS;BA;Caatinga
+PARAMIRIM;BA;Caatinga
+PARATINGA;BA;Caatinga
+PARIPIRANGA;BA;Caatinga
+PEDRO ALEXANDRE;BA;Caatinga
+PINDOBAÇU;BA;Caatinga
+PINTADAS;BA;Caatinga
+PIRIPÁ;BA;Caatinga
+PIRITIBA;BA;Caatinga
+PLANALTINO;BA;Caatinga
+PLANALTO;BA;Caatinga
+PONTO NOVO;BA;Caatinga
+POÇÕES;BA;Caatinga
+PRESIDENTE DUTRA;BA;Caatinga
+PRESIDENTE JÂNIO QUADROS;BA;Caatinga
+PÉ DE SERRA;BA;Caatinga
+QUIJINGUE;BA;Caatinga
+QUIXABEIRA;BA;Caatinga
+RAFAEL JAMBEIRO;BA;Caatinga
+RETIROLÂNDIA;BA;Caatinga
+RIACHO DE SANTANA;BA;Caatinga
+RIACHÃO DO JACUÍPE;BA;Caatinga
+RIBEIRA DO AMPARO;BA;Caatinga
+RIO REAL;BA;Caatinga
+RIO DO ANTÔNIO;BA;Caatinga
+SANTA BRÍGIDA;BA;Caatinga
+SANTA BÁRBARA;BA;Caatinga
+SANTA MARIA DA VITÓRIA;BA;Caatinga
+SANTA TEREZINHA;BA;Caatinga
+SANTALUZ;BA;Caatinga
+SANTANÓPOLIS;BA;Caatinga
+SANTO AMARO;BA;Caatinga
+SANTO ESTÊVÃO;BA;Caatinga
+SENHOR DO BONFIM;BA;Caatinga
+SERRA DOURADA;BA;Caatinga
+SERRA PRETA;BA;Caatinga
+SERRA DO RAMALHO;BA;Caatinga
+SERRINHA;BA;Caatinga
+SERROLÂNDIA;BA;Caatinga
+SOUTO SOARES;BA;Caatinga
+SÁTIRO DIAS;BA;Caatinga
+SÃO DOMINGOS;BA;Caatinga
+SÃO FÉLIX DO CORIBE;BA;Caatinga
+SÃO GONÇALO DOS CAMPOS;BA;Caatinga
+SÃO JOSÉ DO JACUÍPE;BA;Caatinga
+SÍTIO DO MATO;BA;Caatinga
+SÍTIO DO QUINTO;BA;Caatinga
+TABOCAS DO BREJO VELHO;BA;Caatinga
+TANQUE NOVO;BA;Caatinga
+TANQUINHO;BA;Caatinga
+TAPIRAMUTÁ;BA;Caatinga
+TEOFILÂNDIA;BA;Caatinga
+TREMEDAL;BA;Caatinga
+TUCANO;BA;Caatinga
+UAUÁ;BA;Caatinga
+UIBAÍ;BA;Caatinga
+UTINGA;BA;Caatinga
+VALENTE;BA;Caatinga
+VITÓRIA DA CONQUISTA;BA;Caatinga
+VÁRZEA NOVA;BA;Caatinga
+VÁRZEA DA ROÇA;BA;Caatinga
+VÁRZEA DO POÇO;BA;Caatinga
+WAGNER;BA;Caatinga
+WANDERLEY;BA;Caatinga
+ÁGUA FRIA;BA;Caatinga
+ACARAPE;CE;Caatinga
+ACARAÚ;CE;Caatinga
+ACOPIARA;CE;Caatinga
+ARACOIABA;CE;Caatinga
+ARARENDÁ;CE;Caatinga
+ARNEIROZ;CE;Caatinga
+AURORA;CE;Caatinga
+BAIXIO;CE;Caatinga
+BANABUIÚ;CE;Caatinga
+BARREIRA;CE;Caatinga
+BARRO;CE;Caatinga
+BARROQUINHA;CE;Caatinga
+BELA CRUZ;CE;Caatinga
+BOA VIAGEM;CE;Caatinga
+CAMOCIM;CE;Caatinga
+CANINDÉ;CE;Caatinga
+CARIRIAÇU;CE;Caatinga
+CARIRÉ;CE;Caatinga
+CARIÚS;CE;Caatinga
+CARNAUBAL;CE;Caatinga
+CASCAVEL;CE;Caatinga
+CATARINA;CE;Caatinga
+CATUNDA;CE;Caatinga
+CEDRO;CE;Caatinga
+CHOROZINHO;CE;Caatinga
+CHORÓ;CE;Caatinga
+COREAÚ;CE;Caatinga
+CROATÁ;CE;Caatinga
+DEPUTADO IRAPUAN PINHEIRO;CE;Caatinga
+ERERÉ;CE;Caatinga
+FORQUILHA;CE;Caatinga
+FORTIM;CE;Caatinga
+GRANJEIRO;CE;Caatinga
+GRAÇA;CE;Caatinga
+GROAÍRAS;CE;Caatinga
+GUARACIABA DO NORTE;CE;Caatinga
+HIDROLÂNDIA;CE;Caatinga
+IBARETAMA;CE;Caatinga
+IBIAPINA;CE;Caatinga
+IBICUITINGA;CE;Caatinga
+ICÓ;CE;Caatinga
+IGUATU;CE;Caatinga
+IPAUMIRIM;CE;Caatinga
+IPUEIRAS;CE;Caatinga
+IRAUÇUBA;CE;Caatinga
+ITAIÇABA;CE;Caatinga
+ITAPIÚNA;CE;Caatinga
+ITAREMA;CE;Caatinga
+JAGUARETAMA;CE;Caatinga
+JAGUARIBE;CE;Caatinga
+JAGUARUANA;CE;Caatinga
+JUCÁS;CE;Caatinga
+LAVRAS DA MANGABEIRA;CE;Caatinga
+LIMOEIRO DO NORTE;CE;Caatinga
+MARCO;CE;Caatinga
+MARTINÓPOLE;CE;Caatinga
+MAURITI;CE;Caatinga
+MILAGRES;CE;Caatinga
+MILHÃ;CE;Caatinga
+MIRAÍMA;CE;Caatinga
+MOMBAÇA;CE;Caatinga
+MONSENHOR TABOSA;CE;Caatinga
+MORRINHOS;CE;Caatinga
+MUCAMBO;CE;Caatinga
+NOVA RUSSAS;CE;Caatinga
+OCARA;CE;Caatinga
+ORÓS;CE;Caatinga
+PACUJÁ;CE;Caatinga
+PALHANO;CE;Caatinga
+PALMÁCIA;CE;Caatinga
+PARAMOTI;CE;Caatinga
+PENTECOSTE;CE;Caatinga
+PEREIRO;CE;Caatinga
+PINDORETAMA;CE;Caatinga
+PIQUET CARNEIRO;CE;Caatinga
+PIRES FERREIRA;CE;Caatinga
+POTIRETAMA;CE;Caatinga
+QUITERIANÓPOLIS;CE;Caatinga
+QUIXELÔ;CE;Caatinga
+QUIXERÉ;CE;Caatinga
+RERIUTABA;CE;Caatinga
+RUSSAS;CE;Caatinga
+SANTA QUITÉRIA;CE;Caatinga
+SANTANA DO ACARAÚ;CE;Caatinga
+SENADOR POMPEU;CE;Caatinga
+SENADOR SÁ;CE;Caatinga
+SOLONÓPOLE;CE;Caatinga
+SÃO BENEDITO;CE;Caatinga
+SÃO JOÃO DO JAGUARIBE;CE;Caatinga
+SÃO LUÍS DO CURU;CE;Caatinga
+TABULEIRO DO NORTE;CE;Caatinga
+TAMBORIL;CE;Caatinga
+TARRAFAS;CE;Caatinga
+TEJUÇUOCA;CE;Caatinga
+TURURU;CE;Caatinga
+UMARI;CE;Caatinga
+UMIRIM;CE;Caatinga
+URUBURETAMA;CE;Caatinga
+URUOCA;CE;Caatinga
+VARJOTA;CE;Caatinga
+VÁRZEA ALEGRE;CE;Caatinga
+ARAIOSES;MA;Caatinga
+BRASÍLIA DE MINAS;MG;Caatinga
+CAPITÃO ENÉAS;MG;Caatinga
+CATUTI;MG;Caatinga
+CÔNEGO MARINHO;MG;Caatinga
+FRANCISCO SÁ;MG;Caatinga
+IBIRACATU;MG;Caatinga
+ICARAÍ DE MINAS;MG;Caatinga
+JANAÚBA;MG;Caatinga
+JAPONVAR;MG;Caatinga
+JUVENÍLIA;MG;Caatinga
+LONTRA;MG;Caatinga
+MATO VERDE;MG;Caatinga
+MIRABELA;MG;Caatinga
+MIRAVÂNIA;MG;Caatinga
+MONTALVÂNIA;MG;Caatinga
+MONTES CLAROS;MG;Caatinga
+MONTEZUMA;MG;Caatinga
+NOVA PORTEIRINHA;MG;Caatinga
+PAI PEDRO;MG;Caatinga
+PATIS;MG;Caatinga
+PINTÓPOLIS;MG;Caatinga
+PORTEIRINHA;MG;Caatinga
+RIACHO DOS MACHADOS;MG;Caatinga
+SERRANÓPOLIS DE MINAS;MG;Caatinga
+SÃO FRANCISCO;MG;Caatinga
+SÃO JOÃO DA PONTE;MG;Caatinga
+SÃO JOÃO DO PARAÍSO;MG;Caatinga
+VARZELÂNDIA;MG;Caatinga
+VERDELÂNDIA;MG;Caatinga
+AGUIAR;PB;Caatinga
+ALAGOA GRANDE;PB;Caatinga
+ALAGOA NOVA;PB;Caatinga
+ALAGOINHA;PB;Caatinga
+ALCANTIL;PB;Caatinga
+ALGODÃO DE JANDAÍRA;PB;Caatinga
+AMPARO;PB;Caatinga
+APARECIDA;PB;Caatinga
+ARARA;PB;Caatinga
+ARAÇAGI;PB;Caatinga
+AREIA;PB;Caatinga
+AREIA DE BARAÚNAS;PB;Caatinga
+AREIAL;PB;Caatinga
+AROEIRAS;PB;Caatinga
+ASSUNÇÃO;PB;Caatinga
+BANANEIRAS;PB;Caatinga
+BARAÚNA;PB;Caatinga
+BARRA DE SANTA ROSA;PB;Caatinga
+BARRA DE SANTANA;PB;Caatinga
+BARRA DE SÃO MIGUEL;PB;Caatinga
+BELÉM;PB;Caatinga
+BELÉM DO BREJO DO CRUZ;PB;Caatinga
+BERNARDINO BATISTA;PB;Caatinga
+BOA VENTURA;PB;Caatinga
+BOA VISTA;PB;Caatinga
+BOM JESUS;PB;Caatinga
+BOM SUCESSO;PB;Caatinga
+BONITO DE SANTA FÉ;PB;Caatinga
+BOQUEIRÃO;PB;Caatinga
+BORBOREMA;PB;Caatinga
+BREJO DO CRUZ;PB;Caatinga
+BREJO DOS SANTOS;PB;Caatinga
+CABACEIRAS;PB;Caatinga
+CACHOEIRA DOS ÍNDIOS;PB;Caatinga
+CACIMBA DE DENTRO;PB;Caatinga
+CACIMBAS;PB;Caatinga
+CAIÇARA;PB;Caatinga
+CAJAZEIRAS;PB;Caatinga
+CAJAZEIRINHAS;PB;Caatinga
+CALDAS BRANDÃO;PB;Caatinga
+CAMALAÚ;PB;Caatinga
+CAMPINA GRANDE;PB;Caatinga
+CAPIM;PB;Caatinga
+CARAÚBAS;PB;Caatinga
+CARRAPATEIRA;PB;Caatinga
+CASSERENGUE;PB;Caatinga
+CATOLÉ DO ROCHA;PB;Caatinga
+CATURITÉ;PB;Caatinga
+CONCEIÇÃO;PB;Caatinga
+CONDADO;PB;Caatinga
+CONGO;PB;Caatinga
+COREMAS;PB;Caatinga
+COXIXOLA;PB;Caatinga
+CRUZ DO ESPÍRITO SANTO;PB;Caatinga
+CUBATI;PB;Caatinga
+CUITEGI;PB;Caatinga
+CUITÉ;PB;Caatinga
+CUITÉ DE MAMANGUAPE;PB;Caatinga
+CURRAL VELHO;PB;Caatinga
+CURRAL DE CIMA;PB;Caatinga
+DAMIÃO;PB;Caatinga
+DESTERRO;PB;Caatinga
+DIAMANTE;PB;Caatinga
+DONA INÊS;PB;Caatinga
+DUAS ESTRADAS;PB;Caatinga
+ESPERANÇA;PB;Caatinga
+FAGUNDES;PB;Caatinga
+FREI MARTINHO;PB;Caatinga
+GADO BRAVO;PB;Caatinga
+GUARABIRA;PB;Caatinga
+GURINHÉM;PB;Caatinga
+GURJÃO;PB;Caatinga
+IBIARA;PB;Caatinga
+IGARACY;PB;Caatinga
+INGÁ;PB;Caatinga
+ITABAIANA;PB;Caatinga
+ITAPORANGA;PB;Caatinga
+ITAPOROROCA;PB;Caatinga
+ITATUBA;PB;Caatinga
+JACARAÚ;PB;Caatinga
+JERICÓ;PB;Caatinga
+JOCA CLAUDINO;PB;Caatinga
+JUAREZ TÁVORA;PB;Caatinga
+JUAZEIRINHO;PB;Caatinga
+JUNCO DO SERIDÓ;PB;Caatinga
+JURIPIRANGA;PB;Caatinga
+LAGOA;PB;Caatinga
+LAGOA SECA;PB;Caatinga
+LAGOA DE DENTRO;PB;Caatinga
+LASTRO;PB;Caatinga
+LIVRAMENTO;PB;Caatinga
+LOGRADOURO;PB;Caatinga
+MALTA;PB;Caatinga
+MAMANGUAPE;PB;Caatinga
+MANAÍRA;PB;Caatinga
+MARI;PB;Caatinga
+MARIZÓPOLIS;PB;Caatinga
+MASSARANDUBA;PB;Caatinga
+MATINHAS;PB;Caatinga
+MATO GROSSO;PB;Caatinga
+MOGEIRO;PB;Caatinga
+MONTADAS;PB;Caatinga
+MONTE HOREBE;PB;Caatinga
+MONTEIRO;PB;Caatinga
+MULUNGU;PB;Caatinga
+NATUBA;PB;Caatinga
+NAZAREZINHO;PB;Caatinga
+NOVA FLORESTA;PB;Caatinga
+NOVA OLINDA;PB;Caatinga
+NOVA PALMEIRA;PB;Caatinga
+OLIVEDOS;PB;Caatinga
+OURO VELHO;PB;Caatinga
+PARARI;PB;Caatinga
+PASSAGEM;PB;Caatinga
+PATOS;PB;Caatinga
+PAULISTA;PB;Caatinga
+PEDRA BRANCA;PB;Caatinga
+PEDRA LAVRADA;PB;Caatinga
+PEDRO RÉGIS;PB;Caatinga
+PIANCÓ;PB;Caatinga
+PICUÍ;PB;Caatinga
+PILAR;PB;Caatinga
+PILÕES;PB;Caatinga
+PILÕEZINHOS;PB;Caatinga
+PIRPIRITUBA;PB;Caatinga
+POCINHOS;PB;Caatinga
+POMBAL;PB;Caatinga
+POÇO DANTAS;PB;Caatinga
+POÇO DE JOSÉ DE MOURA;PB;Caatinga
+PRATA;PB;Caatinga
+PRINCESA ISABEL;PB;Caatinga
+PUXINANÃ;PB;Caatinga
+QUEIMADAS;PB;Caatinga
+QUIXABA;PB;Caatinga
+REMÍGIO;PB;Caatinga
+RIACHO DE SANTO ANTÔNIO;PB;Caatinga
+RIACHO DOS CAVALOS;PB;Caatinga
+RIACHÃO;PB;Caatinga
+RIACHÃO DO BACAMARTE;PB;Caatinga
+RIACHÃO DO POÇO;PB;Caatinga
+RIO TINTO;PB;Caatinga
+SALGADINHO;PB;Caatinga
+SALGADO DE SÃO FÉLIX;PB;Caatinga
+SANTA CECÍLIA;PB;Caatinga
+SANTA CRUZ;PB;Caatinga
+SANTA HELENA;PB;Caatinga
+SANTA INÊS;PB;Caatinga
+SANTA LUZIA;PB;Caatinga
+SANTANA DE MANGUEIRA;PB;Caatinga
+SANTO ANDRÉ;PB;Caatinga
+SAPÉ;PB;Caatinga
+SERRA BRANCA;PB;Caatinga
+SERRA GRANDE;PB;Caatinga
+SERRA REDONDA;PB;Caatinga
+SERRA DA RAIZ;PB;Caatinga
+SERRARIA;PB;Caatinga
+SERTÃOZINHO;PB;Caatinga
+SOBRADO;PB;Caatinga
+SOLEDADE;PB;Caatinga
+SOSSÊGO;PB;Caatinga
+SUMÉ;PB;Caatinga
+SÃO BENTINHO;PB;Caatinga
+SÃO BENTO;PB;Caatinga
+SÃO DOMINGOS;PB;Caatinga
+SÃO DOMINGOS DO CARIRI;PB;Caatinga
+SÃO FRANCISCO;PB;Caatinga
+SÃO JOSÉ DA LAGOA TAPADA;PB;Caatinga
+SÃO JOSÉ DE CAIANA;PB;Caatinga
+SÃO JOSÉ DE ESPINHARAS;PB;Caatinga
+SÃO JOSÉ DE PIRANHAS;PB;Caatinga
+SÃO JOSÉ DE PRINCESA;PB;Caatinga
+SÃO JOSÉ DO BREJO DO CRUZ;PB;Caatinga
+SÃO JOSÉ DO SABUGI;PB;Caatinga
+SÃO JOSÉ DOS RAMOS;PB;Caatinga
+SÃO JOÃO DO RIO DO PEIXE;PB;Caatinga
+SÃO MIGUEL DE TAIPU;PB;Caatinga
+SÃO SEBASTIÃO DE LAGOA DE ROÇA;PB;Caatinga
+SÃO SEBASTIÃO DO UMBUZEIRO;PB;Caatinga
+SÃO VICENTE DO SERIDÓ;PB;Caatinga
+TACIMA;PB;Caatinga
+TAPEROÁ;PB;Caatinga
+TAVARES;PB;Caatinga
+TENÓRIO;PB;Caatinga
+TRIUNFO;PB;Caatinga
+UIRAÚNA;PB;Caatinga
+UMBUZEIRO;PB;Caatinga
+VIEIRÓPOLIS;PB;Caatinga
+VISTA SERRANA;PB;Caatinga
+VÁRZEA;PB;Caatinga
+ZABELÊ;PB;Caatinga
+AFRÂNIO;PE;Caatinga
+ALAGOINHA;PE;Caatinga
+ANGELIM;PE;Caatinga
+ARCOVERDE;PE;Caatinga
+BELÉM DE MARIA;PE;Caatinga
+BEZERROS;PE;Caatinga
+BOM CONSELHO;PE;Caatinga
+BOM JARDIM;PE;Caatinga
+BONITO;PE;Caatinga
+BREJINHO;PE;Caatinga
+BREJÃO;PE;Caatinga
+CACHOEIRINHA;PE;Caatinga
+CAETÉS;PE;Caatinga
+CALUMBI;PE;Caatinga
+CALÇADO;PE;Caatinga
+CAMOCIM DE SÃO FÉLIX;PE;Caatinga
+CANHOTINHO;PE;Caatinga
+CAPOEIRAS;PE;Caatinga
+CARNAUBEIRA DA PENHA;PE;Caatinga
+CARUARU;PE;Caatinga
+CASINHAS;PE;Caatinga
+CATENDE;PE;Caatinga
+CHÃ GRANDE;PE;Caatinga
+CUMARU;PE;Caatinga
+CUPIRA;PE;Caatinga
+CUSTÓDIA;PE;Caatinga
+DORMENTES;PE;Caatinga
+FEIRA NOVA;PE;Caatinga
+FLORES;PE;Caatinga
+FREI MIGUELINHO;PE;Caatinga
+GARANHUNS;PE;Caatinga
+GRANITO;PE;Caatinga
+IATI;PE;Caatinga
+IBIRAJUBA;PE;Caatinga
+IGUARACY;PE;Caatinga
+INGAZEIRA;PE;Caatinga
+ITACURUBA;PE;Caatinga
+ITAPETIM;PE;Caatinga
+ITAÍBA;PE;Caatinga
+JATOBÁ;PE;Caatinga
+JOÃO ALFREDO;PE;Caatinga
+JUCATI;PE;Caatinga
+JUPI;PE;Caatinga
+JUREMA;PE;Caatinga
+LAGOA DOS GATOS;PE;Caatinga
+LIMOEIRO;PE;Caatinga
+MANARI;PE;Caatinga
+MIRANDIBA;PE;Caatinga
+OROBÓ;PE;Caatinga
+OROCÓ;PE;Caatinga
+OURICURI;PE;Caatinga
+PANELAS;PE;Caatinga
+PEDRA;PE;Caatinga
+PESQUEIRA;PE;Caatinga
+PETROLÂNDIA;PE;Caatinga
+QUIXABA;PE;Caatinga
+RIACHO DAS ALMAS;PE;Caatinga
+SAIRÉ;PE;Caatinga
+SALGADINHO;PE;Caatinga
+SANHARÓ;PE;Caatinga
+SANTA CRUZ;PE;Caatinga
+SANTA CRUZ DA BAIXA VERDE;PE;Caatinga
+SANTA CRUZ DO CAPIBARIBE;PE;Caatinga
+SANTA FILOMENA;PE;Caatinga
+SANTA MARIA DO CAMBUCÁ;PE;Caatinga
+SANTA TEREZINHA;PE;Caatinga
+SOLIDÃO;PE;Caatinga
+SURUBIM;PE;Caatinga
+SÃO BENTO DO UNA;PE;Caatinga
+SÃO JOAQUIM DO MONTE;PE;Caatinga
+SÃO JOSÉ DO BELMONTE;PE;Caatinga
+SÃO JOSÉ DO EGITO;PE;Caatinga
+SÃO JOÃO;PE;Caatinga
+TABIRA;PE;Caatinga
+TEREZINHA;PE;Caatinga
+TERRA NOVA;PE;Caatinga
+TORITAMA;PE;Caatinga
+TRIUNFO;PE;Caatinga
+TUPARETAMA;PE;Caatinga
+VENTUROSA;PE;Caatinga
+VERDEJANTE;PE;Caatinga
+VERTENTE DO LÉRIO;PE;Caatinga
+ÁGUAS BELAS;PE;Caatinga
+ALAGOINHA DO PIAUÍ;PI;Caatinga
+AMARANTE;PI;Caatinga
+ANÍSIO DE ABREU;PI;Caatinga
+AROEIRAS DO ITAIM;PI;Caatinga
+ARRAIAL;PI;Caatinga
+ASSUNÇÃO DO PIAUÍ;PI;Caatinga
+AVELINO LOPES;PI;Caatinga
+BELA VISTA DO PIAUÍ;PI;Caatinga
+BELÉM DO PIAUÍ;PI;Caatinga
+BETÂNIA DO PIAUÍ;PI;Caatinga
+BOCAINA;PI;Caatinga
+BONFIM DO PIAUÍ;PI;Caatinga
+CAJAZEIRAS DO PIAUÍ;PI;Caatinga
+CAMPINAS DO PIAUÍ;PI;Caatinga
+CAMPO ALEGRE DO FIDALGO;PI;Caatinga
+CAMPO GRANDE DO PIAUÍ;PI;Caatinga
+CAPITÃO GERVÁSIO OLIVEIRA;PI;Caatinga
+COCAL DOS ALVES;PI;Caatinga
+COLÔNIA DO GURGUÉIA;PI;Caatinga
+COLÔNIA DO PIAUÍ;PI;Caatinga
+CORRENTE;PI;Caatinga
+CRISTALÂNDIA DO PIAUÍ;PI;Caatinga
+DIRCEU ARCOVERDE;PI;Caatinga
+DOM EXPEDITO LOPES;PI;Caatinga
+DOM INOCÊNCIO;PI;Caatinga
+ELISEU MARTINS;PI;Caatinga
+FARTURA DO PIAUÍ;PI;Caatinga
+FLORES DO PIAUÍ;PI;Caatinga
+FLORESTA DO PIAUÍ;PI;Caatinga
+FLORIANO;PI;Caatinga
+FRANCISCO AYRES;PI;Caatinga
+FRANCISCO SANTOS;PI;Caatinga
+GEMINIANO;PI;Caatinga
+ILHA GRANDE;PI;Caatinga
+INHUMA;PI;Caatinga
+IPIRANGA DO PIAUÍ;PI;Caatinga
+ISAÍAS COELHO;PI;Caatinga
+ITAINÓPOLIS;PI;Caatinga
+ITAUEIRA;PI;Caatinga
+JACOBINA DO PIAUÍ;PI;Caatinga
+JAICÓS;PI;Caatinga
+JUAZEIRO DO PIAUÍ;PI;Caatinga
+JÚLIO BORGES;PI;Caatinga
+LAGOA DO BARRO DO PIAUÍ;PI;Caatinga
+LAGOA DO SÍTIO;PI;Caatinga
+MANOEL EMÍDIO;PI;Caatinga
+MASSAPÊ DO PIAUÍ;PI;Caatinga
+MILTON BRANDÃO;PI;Caatinga
+MONSENHOR HIPÓLITO;PI;Caatinga
+MORRO CABEÇA NO TEMPO;PI;Caatinga
+NOVA SANTA RITA;PI;Caatinga
+NOVO ORIENTE DO PIAUÍ;PI;Caatinga
+OEIRAS;PI;Caatinga
+PAES LANDIM;PI;Caatinga
+PAQUETÁ;PI;Caatinga
+PARNAGUÁ;PI;Caatinga
+PATOS DO PIAUÍ;PI;Caatinga
+PAVUSSU;PI;Caatinga
+PEDRO LAURENTINO;PI;Caatinga
+PICOS;PI;Caatinga
+PIMENTEIRAS;PI;Caatinga
+PIO IX;PI;Caatinga
+QUEIMADA NOVA;PI;Caatinga
+REGENERAÇÃO;PI;Caatinga
+RIACHO FRIO;PI;Caatinga
+RIBEIRA DO PIAUÍ;PI;Caatinga
+RIO GRANDE DO PIAUÍ;PI;Caatinga
+SANTA CRUZ DO PIAUÍ;PI;Caatinga
+SANTA ROSA DO PIAUÍ;PI;Caatinga
+SANTANA DO PIAUÍ;PI;Caatinga
+SANTO ANTÔNIO DE LISBOA;PI;Caatinga
+SANTO INÁCIO DO PIAUÍ;PI;Caatinga
+SEBASTIÃO BARROS;PI;Caatinga
+SIMPLÍCIO MENDES;PI;Caatinga
+SOCORRO DO PIAUÍ;PI;Caatinga
+SUSSUAPARA;PI;Caatinga
+SÃO FRANCISCO DE ASSIS DO PIAUÍ;PI;Caatinga
+SÃO JOSÉ DO PEIXE;PI;Caatinga
+SÃO JOSÉ DO PIAUÍ;PI;Caatinga
+SÃO JOÃO DA CANABRAVA;PI;Caatinga
+SÃO JOÃO DA FRONTEIRA;PI;Caatinga
+SÃO JOÃO DA VARJOTA;PI;Caatinga
+SÃO JOÃO DO PIAUÍ;PI;Caatinga
+SÃO LOURENÇO DO PIAUÍ;PI;Caatinga
+SÃO LUIS DO PIAUÍ;PI;Caatinga
+SÃO MIGUEL DO FIDALGO;PI;Caatinga
+SÃO MIGUEL DO TAPUIO;PI;Caatinga
+TANQUE DO PIAUÍ;PI;Caatinga
+VALENÇA DO PIAUÍ;PI;Caatinga
+VERA MENDES;PI;Caatinga
+VILA NOVA DO PIAUÍ;PI;Caatinga
+VÁRZEA BRANCA;PI;Caatinga
+WALL FERRAZ;PI;Caatinga
+AFONSO BEZERRA;RN;Caatinga
+ALEXANDRIA;RN;Caatinga
+ALMINO AFONSO;RN;Caatinga
+ALTO DO RODRIGUES;RN;Caatinga
+ANGICOS;RN;Caatinga
+ANTÔNIO MARTINS;RN;Caatinga
+APODI;RN;Caatinga
+BARCELONA;RN;Caatinga
+BENTO FERNANDES;RN;Caatinga
+BODÓ;RN;Caatinga
+BOM JESUS;RN;Caatinga
+BREJINHO;RN;Caatinga
+CAICÓ;RN;Caatinga
+CAIÇARA DO NORTE;RN;Caatinga
+CAIÇARA DO RIO DO VENTO;RN;Caatinga
+CAMPO GRANDE;RN;Caatinga
+CAMPO REDONDO;RN;Caatinga
+CANGUARETAMA;RN;Caatinga
+CARAÚBAS;RN;Caatinga
+CARNAÚBA DOS DANTAS;RN;Caatinga
+CERRO CORÁ;RN;Caatinga
+CORONEL EZEQUIEL;RN;Caatinga
+CORONEL JOÃO PESSOA;RN;Caatinga
+CRUZETA;RN;Caatinga
+CURRAIS NOVOS;RN;Caatinga
+DOUTOR SEVERIANO;RN;Caatinga
+ENCANTO;RN;Caatinga
+ESPÍRITO SANTO;RN;Caatinga
+EXTREMOZ;RN;Caatinga
+FELIPE GUERRA;RN;Caatinga
+FERNANDO PEDROZA;RN;Caatinga
+FLORÂNIA;RN;Caatinga
+FRANCISCO DANTAS;RN;Caatinga
+FRUTUOSO GOMES;RN;Caatinga
+GALINHOS;RN;Caatinga
+GOVERNADOR DIX-SEPT ROSADO;RN;Caatinga
+GROSSOS;RN;Caatinga
+IELMO MARINHO;RN;Caatinga
+IPANGUAÇU;RN;Caatinga
+IPUEIRA;RN;Caatinga
+ITAJÁ;RN;Caatinga
+ITAÚ;RN;Caatinga
+JANDAÍRA;RN;Caatinga
+JANDUÍS;RN;Caatinga
+JANUÁRIO CICCO;RN;Caatinga
+JAPI;RN;Caatinga
+JARDIM DE ANGICOS;RN;Caatinga
+JARDIM DE PIRANHAS;RN;Caatinga
+JARDIM DO SERIDÓ;RN;Caatinga
+JAÇANÃ;RN;Caatinga
+JOSÉ DA PENHA;RN;Caatinga
+JOÃO CÂMARA;RN;Caatinga
+JOÃO DIAS;RN;Caatinga
+JUNDIÁ;RN;Caatinga
+LAGOA NOVA;RN;Caatinga
+LAGOA SALGADA;RN;Caatinga
+LAGOA D'ANTA;RN;Caatinga
+LAGOA DE PEDRAS;RN;Caatinga
+LAGOA DE VELHOS;RN;Caatinga
+LAJES;RN;Caatinga
+LAJES PINTADAS;RN;Caatinga
+LUCRÉCIA;RN;Caatinga
+LUÍS GOMES;RN;Caatinga
+MACAÍBA;RN;Caatinga
+MAJOR SALES;RN;Caatinga
+MARCELINO VIEIRA;RN;Caatinga
+MAXARANGUAPE;RN;Caatinga
+MESSIAS TARGINO;RN;Caatinga
+MONTANHAS;RN;Caatinga
+MONTE ALEGRE;RN;Caatinga
+MONTE DAS GAMELEIRAS;RN;Caatinga
+NATAL;RN;Caatinga
+NOVA CRUZ;RN;Caatinga
+NÍSIA FLORESTA;RN;Caatinga
+OLHO D'ÁGUA DO BORGES;RN;Caatinga
+OURO BRANCO;RN;Caatinga
+PARANÁ;RN;Caatinga
+PARAZINHO;RN;Caatinga
+PARAÚ;RN;Caatinga
+PARELHAS;RN;Caatinga
+PARNAMIRIM;RN;Caatinga
+PASSA E FICA;RN;Caatinga
+PASSAGEM;RN;Caatinga
+PATU;RN;Caatinga
+PAU DOS FERROS;RN;Caatinga
+PEDRA GRANDE;RN;Caatinga
+PEDRA PRETA;RN;Caatinga
+PEDRO AVELINO;RN;Caatinga
+PEDRO VELHO;RN;Caatinga
+PENDÊNCIAS;RN;Caatinga
+PILÕES;RN;Caatinga
+PORTALEGRE;RN;Caatinga
+POÇO BRANCO;RN;Caatinga
+PUREZA;RN;Caatinga
+RAFAEL FERNANDES;RN;Caatinga
+RAFAEL GODEIRO;RN;Caatinga
+RIACHO DA CRUZ;RN;Caatinga
+RIACHO DE SANTANA;RN;Caatinga
+RIACHUELO;RN;Caatinga
+RIO DO FOGO;RN;Caatinga
+RODOLFO FERNANDES;RN;Caatinga
+RUY BARBOSA;RN;Caatinga
+SANTA CRUZ;RN;Caatinga
+SANTA MARIA;RN;Caatinga
+SANTANA DO MATOS;RN;Caatinga
+SANTANA DO SERIDÓ;RN;Caatinga
+SANTO ANTÔNIO;RN;Caatinga
+SENADOR ELÓI DE SOUZA;RN;Caatinga
+SERRA CAIADA;RN;Caatinga
+SERRA DE SÃO BENTO;RN;Caatinga
+SERRA DO MEL;RN;Caatinga
+SERRINHA;RN;Caatinga
+SERRINHA DOS PINTOS;RN;Caatinga
+SEVERIANO MELO;RN;Caatinga
+SÃO BENTO DO TRAIRÍ;RN;Caatinga
+SÃO FERNANDO;RN;Caatinga
+SÃO FRANCISCO DO OESTE;RN;Caatinga
+SÃO GONÇALO DO AMARANTE;RN;Caatinga
+SÃO JOSÉ DE MIPIBU;RN;Caatinga
+SÃO JOSÉ DO CAMPESTRE;RN;Caatinga
+SÃO JOSÉ DO SERIDÓ;RN;Caatinga
+SÃO JOÃO DO SABUGI;RN;Caatinga
+SÃO MIGUEL;RN;Caatinga
+SÃO MIGUEL DO GOSTOSO;RN;Caatinga
+SÃO PAULO DO POTENGI;RN;Caatinga
+SÃO PEDRO;RN;Caatinga
+SÃO RAFAEL;RN;Caatinga
+SÃO TOMÉ;RN;Caatinga
+SÃO VICENTE;RN;Caatinga
+SÍTIO NOVO;RN;Caatinga
+TABOLEIRO GRANDE;RN;Caatinga
+TAIPU;RN;Caatinga
+TANGARÁ;RN;Caatinga
+TENENTE ANANIAS;RN;Caatinga
+TENENTE LAURENTINO CRUZ;RN;Caatinga
+TIBAU;RN;Caatinga
+TIMBAÚBA DOS BATISTAS;RN;Caatinga
+TOUROS;RN;Caatinga
+TRIUNFO POTIGUAR;RN;Caatinga
+UMARIZAL;RN;Caatinga
+UPANEMA;RN;Caatinga
+VENHA-VER;RN;Caatinga
+VIÇOSA;RN;Caatinga
+VÁRZEA;RN;Caatinga
+ÁGUA NOVA;RN;Caatinga
+AMPARO DO SÃO FRANCISCO;SE;Caatinga
+AQUIDABÃ;SE;Caatinga
+CAMPO DO BRITO;SE;Caatinga
+CANHOBA;SE;Caatinga
+CEDRO DE SÃO JOÃO;SE;Caatinga
+CUMBE;SE;Caatinga
+FEIRA NOVA;SE;Caatinga
+FREI PAULO;SE;Caatinga
+GARARU;SE;Caatinga
+GRACHO CARDOSO;SE;Caatinga
+ITABAIANA;SE;Caatinga
+ITABI;SE;Caatinga
+LAGARTO;SE;Caatinga
+MACAMBIRA;SE;Caatinga
+MALHADA DOS BOIS;SE;Caatinga
+MOITA BONITA;SE;Caatinga
+MONTE ALEGRE DE SERGIPE;SE;Caatinga
+MURIBECA;SE;Caatinga
+NOSSA SENHORA APARECIDA;SE;Caatinga
+NOSSA SENHORA DA GLÓRIA;SE;Caatinga
+NOSSA SENHORA DAS DORES;SE;Caatinga
+NOSSA SENHORA DE LOURDES;SE;Caatinga
+PEDRA MOLE;SE;Caatinga
+PINHÃO;SE;Caatinga
+PORTO DA FOLHA;SE;Caatinga
+POÇO VERDE;SE;Caatinga
+RIACHÃO DO DANTAS;SE;Caatinga
+RIBEIRÓPOLIS;SE;Caatinga
+SIMÃO DIAS;SE;Caatinga
+SÃO DOMINGOS;SE;Caatinga
+SÃO MIGUEL DO ALEIXO;SE;Caatinga
+TELHA;SE;Caatinga
+TOBIAS BARRETO;SE;Caatinga
+TOMAR DO GERU;SE;Caatinga
+ANGICAL;BA;Cerrado
+BOM JESUS DA LAPA;BA;Cerrado
+BOQUIRA;BA;Cerrado
+BOTUPORÃ;BA;Cerrado
+BREJOLÂNDIA;BA;Cerrado
+CACULÉ;BA;Cerrado
+CAETITÉ;BA;Cerrado
+CANÁPOLIS;BA;Cerrado
+CATOLÂNDIA;BA;Cerrado
+CONDEÚBA;BA;Cerrado
+CORDEIROS;BA;Cerrado
+CORIBE;BA;Cerrado
+CORRENTINA;BA;Cerrado
+COTEGIPE;BA;Cerrado
+CRISTÓPOLIS;BA;Cerrado
+FEIRA DA MATA;BA;Cerrado
+GUANAMBI;BA;Cerrado
+IGAPORÃ;BA;Cerrado
+JACARACI;BA;Cerrado
+LAGOA REAL;BA;Cerrado
+LICÍNIO DE ALMEIDA;BA;Cerrado
+LIVRAMENTO DE NOSSA SENHORA;BA;Cerrado
+MACAÚBAS;BA;Cerrado
+MATINA;BA;Cerrado
+MORTUGABA;BA;Cerrado
+MUQUÉM DO SÃO FRANCISCO;BA;Cerrado
+OLIVEIRA DOS BREJINHOS;BA;Cerrado
+PARAMIRIM;BA;Cerrado
+PARATINGA;BA;Cerrado
+PILÃO ARCADO;BA;Cerrado
+PINDAÍ;BA;Cerrado
+PIRIPÁ;BA;Cerrado
+RIACHO DE SANTANA;BA;Cerrado
+RIACHÃO DAS NEVES;BA;Cerrado
+SANTA MARIA DA VITÓRIA;BA;Cerrado
+SANTANA;BA;Cerrado
+SERRA DOURADA;BA;Cerrado
+TABOCAS DO BREJO VELHO;BA;Cerrado
+TANQUE NOVO;BA;Cerrado
+TREMEDAL;BA;Cerrado
+URANDI;BA;Cerrado
+WANDERLEY;BA;Cerrado
+ABADIA DE GOIÁS;GO;Cerrado
+ABADIÂNIA;GO;Cerrado
+ALOÂNDIA;GO;Cerrado
+AMERICANO DO BRASIL;GO;Cerrado
+AMORINÓPOLIS;GO;Cerrado
+ANICUNS;GO;Cerrado
+APARECIDA DE GOIÂNIA;GO;Cerrado
+APARECIDA DO RIO DOCE;GO;Cerrado
+ARAGARÇAS;GO;Cerrado
+ARAGOIÂNIA;GO;Cerrado
+ARAGUAPAZ;GO;Cerrado
+ARAÇU;GO;Cerrado
+ARENÓPOLIS;GO;Cerrado
+AURILÂNDIA;GO;Cerrado
+AVELINÓPOLIS;GO;Cerrado
+BARRO ALTO;GO;Cerrado
+BELA VISTA DE GOIÁS;GO;Cerrado
+BOM JARDIM DE GOIÁS;GO;Cerrado
+BOM JESUS DE GOIÁS;GO;Cerrado
+BONFINÓPOLIS;GO;Cerrado
+BONÓPOLIS;GO;Cerrado
+BRAZABRANTES;GO;Cerrado
+BURITI ALEGRE;GO;Cerrado
+CABECEIRAS;GO;Cerrado
+CACHOEIRA ALTA;GO;Cerrado
+CACHOEIRA DOURADA;GO;Cerrado
+CACHOEIRA DE GOIÁS;GO;Cerrado
+CAMPINAÇU;GO;Cerrado
+CAMPINORTE;GO;Cerrado
+CAMPO ALEGRE DE GOIÁS;GO;Cerrado
+CAMPOS BELOS;GO;Cerrado
+CAMPOS VERDES;GO;Cerrado
+CARMO DO RIO VERDE;GO;Cerrado
+CATURAÍ;GO;Cerrado
+CAÇU;GO;Cerrado
+CERES;GO;Cerrado
+CEZARINA;GO;Cerrado
+CORUMBAÍBA;GO;Cerrado
+CROMÍNIA;GO;Cerrado
+CÓRREGO DO OURO;GO;Cerrado
+DAMOLÂNDIA;GO;Cerrado
+DIORAMA;GO;Cerrado
+DOVERLÂNDIA;GO;Cerrado
+EDEALINA;GO;Cerrado
+EDÉIA;GO;Cerrado
+ESTRELA DO NORTE;GO;Cerrado
+FAINA;GO;Cerrado
+FIRMINÓPOLIS;GO;Cerrado
+FLORES DE GOIÁS;GO;Cerrado
+FORMOSO;GO;Cerrado
+GOIANIRA;GO;Cerrado
+GOIANÉSIA;GO;Cerrado
+GOUVELÂNDIA;GO;Cerrado
+GUAPÓ;GO;Cerrado
+GUARAÍTA;GO;Cerrado
+GUARINOS;GO;Cerrado
+HEITORAÍ;GO;Cerrado
+HIDROLINA;GO;Cerrado
+IACIARA;GO;Cerrado
+INDIARA;GO;Cerrado
+INHUMAS;GO;Cerrado
+IPAMERI;GO;Cerrado
+IPIRANGA DE GOIÁS;GO;Cerrado
+IPORÁ;GO;Cerrado
+ISRAELÂNDIA;GO;Cerrado
+ITAGUARI;GO;Cerrado
+ITAGUARU;GO;Cerrado
+ITAJÁ;GO;Cerrado
+ITAPACI;GO;Cerrado
+ITAPIRAPUÃ;GO;Cerrado
+ITAPURANGA;GO;Cerrado
+ITARUMÃ;GO;Cerrado
+ITAUÇU;GO;Cerrado
+ITUMBIARA;GO;Cerrado
+IVOLÂNDIA;GO;Cerrado
+JANDAIA;GO;Cerrado
+JAUPACI;GO;Cerrado
+JESÚPOLIS;GO;Cerrado
+JOVIÂNIA;GO;Cerrado
+LEOPOLDO DE BULHÕES;GO;Cerrado
+LUZIÂNIA;GO;Cerrado
+MAIRIPOTABA;GO;Cerrado
+MARA ROSA;GO;Cerrado
+MARZAGÃO;GO;Cerrado
+MATRINCHÃ;GO;Cerrado
+MAURILÂNDIA;GO;Cerrado
+MOIPORÁ;GO;Cerrado
+MONTE ALEGRE DE GOIÁS;GO;Cerrado
+MONTES CLAROS DE GOIÁS;GO;Cerrado
+MONTIVIDIU;GO;Cerrado
+MONTIVIDIU DO NORTE;GO;Cerrado
+MORRINHOS;GO;Cerrado
+MORRO AGUDO DE GOIÁS;GO;Cerrado
+MOZARLÂNDIA;GO;Cerrado
+MUTUNÓPOLIS;GO;Cerrado
+NIQUELÂNDIA;GO;Cerrado
+NOVA AMÉRICA;GO;Cerrado
+NOVA GLÓRIA;GO;Cerrado
+NOVA IGUAÇU DE GOIÁS;GO;Cerrado
+NOVA VENEZA;GO;Cerrado
+NOVO GAMA;GO;Cerrado
+NOVO PLANALTO;GO;Cerrado
+PALESTINA DE GOIÁS;GO;Cerrado
+PALMINÓPOLIS;GO;Cerrado
+PARANAIGUARA;GO;Cerrado
+PEROLÂNDIA;GO;Cerrado
+PILAR DE GOIÁS;GO;Cerrado
+PIRANHAS;GO;Cerrado
+PIRES DO RIO;GO;Cerrado
+PONTALINA;GO;Cerrado
+PORANGATU;GO;Cerrado
+PORTEIRÃO;GO;Cerrado
+PORTELÂNDIA;GO;Cerrado
+PROFESSOR JAMIL;GO;Cerrado
+QUIRINÓPOLIS;GO;Cerrado
+RIALMA;GO;Cerrado
+RIANÁPOLIS;GO;Cerrado
+RIO VERDE;GO;Cerrado
+RUBIATABA;GO;Cerrado
+SANCLERLÂNDIA;GO;Cerrado
+SANTA CRUZ DE GOIÁS;GO;Cerrado
+SANTA FÉ DE GOIÁS;GO;Cerrado
+SANTA HELENA DE GOIÁS;GO;Cerrado
+SANTA ISABEL;GO;Cerrado
+SANTA RITA DO ARAGUAIA;GO;Cerrado
+SANTA RITA DO NOVO DESTINO;GO;Cerrado
+SANTA ROSA DE GOIÁS;GO;Cerrado
+SANTA TEREZA DE GOIÁS;GO;Cerrado
+SANTA TEREZINHA DE GOIÁS;GO;Cerrado
+SANTO ANTÔNIO DA BARRA;GO;Cerrado
+SANTO ANTÔNIO DE GOIÁS;GO;Cerrado
+SIMOLÂNDIA;GO;Cerrado
+SÃO FRANCISCO DE GOIÁS;GO;Cerrado
+SÃO JOÃO DA PARAÚNA;GO;Cerrado
+SÃO LUIZ DO NORTE;GO;Cerrado
+SÃO LUÍS DE MONTES BELOS;GO;Cerrado
+SÃO MIGUEL DO PASSA QUATRO;GO;Cerrado
+SÃO SIMÃO;GO;Cerrado
+SÍTIO D'ABADIA;GO;Cerrado
+TAQUARAL DE GOIÁS;GO;Cerrado
+TRINDADE;GO;Cerrado
+TRÊS RANCHOS;GO;Cerrado
+TURVELÂNDIA;GO;Cerrado
+TURVÂNIA;GO;Cerrado
+UIRAPURU;GO;Cerrado
+URUANA;GO;Cerrado
+URUAÇU;GO;Cerrado
+URUTAÍ;GO;Cerrado
+VALPARAÍSO DE GOIÁS;GO;Cerrado
+VIANÓPOLIS;GO;Cerrado
+VICENTINÓPOLIS;GO;Cerrado
+VILA BOA;GO;Cerrado
+VILA PROPÍCIO;GO;Cerrado
+ÁGUA FRIA DE GOIÁS;GO;Cerrado
+ÁGUA LIMPA;GO;Cerrado
+ALDEIAS ALTAS;MA;Cerrado
+ALTO ALEGRE DO MARANHÃO;MA;Cerrado
+AMARANTE DO MARANHÃO;MA;Cerrado
+ANAJATUBA;MA;Cerrado
+ARAME;MA;Cerrado
+ARARI;MA;Cerrado
+BARRA DO CORDA;MA;Cerrado
+BARÃO DE GRAJAÚ;MA;Cerrado
+BELÁGUA;MA;Cerrado
+BENEDITO LEITE;MA;Cerrado
+BERNARDO DO MEARIM;MA;Cerrado
+BOM LUGAR;MA;Cerrado
+BREJO;MA;Cerrado
+BREJO DE AREIA;MA;Cerrado
+BURITI BRAVO;MA;Cerrado
+BURITIRANA;MA;Cerrado
+CACHOEIRA GRANDE;MA;Cerrado
+CAMPESTRE DO MARANHÃO;MA;Cerrado
+CANTANHEDE;MA;Cerrado
+CAPINZAL DO NORTE;MA;Cerrado
+CAXIAS;MA;Cerrado
+CIDELÂNDIA;MA;Cerrado
+COLINAS;MA;Cerrado
+COROATÁ;MA;Cerrado
+DOM PEDRO;MA;Cerrado
+ESPERANTINÓPOLIS;MA;Cerrado
+FEIRA NOVA DO MARANHÃO;MA;Cerrado
+FORTALEZA DOS NOGUEIRAS;MA;Cerrado
+FORTUNA;MA;Cerrado
+GONÇALVES DIAS;MA;Cerrado
+GOVERNADOR ARCHER;MA;Cerrado
+GOVERNADOR EDISON LOBÃO;MA;Cerrado
+GOVERNADOR EUGÊNIO BARROS;MA;Cerrado
+GOVERNADOR LUIZ ROCHA;MA;Cerrado
+GRAJAÚ;MA;Cerrado
+GRAÇA ARANHA;MA;Cerrado
+IGARAPÉ GRANDE;MA;Cerrado
+IMPERATRIZ;MA;Cerrado
+ITAIPAVA DO GRAJAÚ;MA;Cerrado
+ITAPECURU MIRIM;MA;Cerrado
+JATOBÁ;MA;Cerrado
+JENIPAPO DOS VIEIRAS;MA;Cerrado
+JOSELÂNDIA;MA;Cerrado
+JOÃO LISBOA;MA;Cerrado
+LAGO DA PEDRA;MA;Cerrado
+LAGO DO JUNCO;MA;Cerrado
+LAGO DOS RODRIGUES;MA;Cerrado
+LAGOA GRANDE DO MARANHÃO;MA;Cerrado
+LAGOA DO MATO;MA;Cerrado
+LAJEADO NOVO;MA;Cerrado
+LIMA CAMPOS;MA;Cerrado
+LORETO;MA;Cerrado
+MAGALHÃES DE ALMEIDA;MA;Cerrado
+MARAJÁ DO SENA;MA;Cerrado
+MATA ROMA;MA;Cerrado
+MATÕES;MA;Cerrado
+MATÕES DO NORTE;MA;Cerrado
+MILAGRES DO MARANHÃO;MA;Cerrado
+MIRANDA DO NORTE;MA;Cerrado
+MONTES ALTOS;MA;Cerrado
+NINA RODRIGUES;MA;Cerrado
+NOVA COLINAS;MA;Cerrado
+NOVA IORQUE;MA;Cerrado
+PARAIBANO;MA;Cerrado
+PARNARAMA;MA;Cerrado
+PASSAGEM FRANCA;MA;Cerrado
+PASTOS BONS;MA;Cerrado
+PAULO RAMOS;MA;Cerrado
+PEDREIRAS;MA;Cerrado
+PERITORÓ;MA;Cerrado
+PIRAPEMAS;MA;Cerrado
+PORTO FRANCO;MA;Cerrado
+POÇÃO DE PEDRAS;MA;Cerrado
+PRESIDENTE DUTRA;MA;Cerrado
+PRESIDENTE VARGAS;MA;Cerrado
+RIBAMAR FIQUENE;MA;Cerrado
+SAMBAÍBA;MA;Cerrado
+SANTA FILOMENA DO MARANHÃO;MA;Cerrado
+SANTANA DO MARANHÃO;MA;Cerrado
+SANTO ANTÔNIO DOS LOPES;MA;Cerrado
+SENADOR ALEXANDRE COSTA;MA;Cerrado
+SUCUPIRA DO NORTE;MA;Cerrado
+SUCUPIRA DO RIACHÃO;MA;Cerrado
+SÃO DOMINGOS DO AZEITÃO;MA;Cerrado
+SÃO DOMINGOS DO MARANHÃO;MA;Cerrado
+SÃO FRANCISCO DO BREJÃO;MA;Cerrado
+SÃO FRANCISCO DO MARANHÃO;MA;Cerrado
+SÃO FÉLIX DE BALSAS;MA;Cerrado
+SÃO JOSÉ DOS BASÍLIOS;MA;Cerrado
+SÃO JOÃO DO PARAÍSO;MA;Cerrado
+SÃO JOÃO DO SOTER;MA;Cerrado
+SÃO JOÃO DOS PATOS;MA;Cerrado
+SÃO LUÍS GONZAGA DO MARANHÃO;MA;Cerrado
+SÃO MATEUS DO MARANHÃO;MA;Cerrado
+SÃO PEDRO DOS CRENTES;MA;Cerrado
+SÃO RAIMUNDO DAS MANGABEIRAS;MA;Cerrado
+SÃO RAIMUNDO DO DOCA BEZERRA;MA;Cerrado
+SÃO ROBERTO;MA;Cerrado
+SÍTIO NOVO;MA;Cerrado
+TASSO FRAGOSO;MA;Cerrado
+TIMBIRAS;MA;Cerrado
+TRIZIDELA DO VALE;MA;Cerrado
+TUNTUM;MA;Cerrado
+VARGEM GRANDE;MA;Cerrado
+ACORIZAL;MT;Cerrado
+ALTO BOA VISTA;MT;Cerrado
+ALTO GARÇAS;MT;Cerrado
+ARAGUAIANA;MT;Cerrado
+ARAGUAINHA;MT;Cerrado
+ARAPUTANGA;MT;Cerrado
+BARRA DO BUGRES;MT;Cerrado
+BARÃO DE MELGAÇO;MT;Cerrado
+BOM JESUS DO ARAGUAIA;MT;Cerrado
+BRASNORTE;MT;Cerrado
+CAMPINÁPOLIS;MT;Cerrado
+CAMPO NOVO DO PARECIS;MT;Cerrado
+CAMPOS DE JÚLIO;MT;Cerrado
+CANABRAVA DO NORTE;MT;Cerrado
+CANARANA;MT;Cerrado
+COMODORO;MT;Cerrado
+CONFRESA;MT;Cerrado
+CONQUISTA D'OESTE;MT;Cerrado
+DENISE;MT;Cerrado
+DOM AQUINO;MT;Cerrado
+GAÚCHA DO NORTE;MT;Cerrado
+GENERAL CARNEIRO;MT;Cerrado
+GUIRATINGA;MT;Cerrado
+INDIAVAÍ;MT;Cerrado
+IPIRANGA DO NORTE;MT;Cerrado
+ITIQUIRA;MT;Cerrado
+JANGADA;MT;Cerrado
+JAURU;MT;Cerrado
+JUSCIMEIRA;MT;Cerrado
+JUÍNA;MT;Cerrado
+LUCIARA;MT;Cerrado
+NORTELÂNDIA;MT;Cerrado
+NOSSA SENHORA DO LIVRAMENTO;MT;Cerrado
+NOVA MARILÂNDIA;MT;Cerrado
+NOVA MARINGÁ;MT;Cerrado
+NOVA NAZARÉ;MT;Cerrado
+NOVA UBIRATÃ;MT;Cerrado
+NOVA XAVANTINA;MT;Cerrado
+NOVO SÃO JOAQUIM;MT;Cerrado
+POCONÉ;MT;Cerrado
+PONTAL DO ARAGUAIA;MT;Cerrado
+PONTE BRANCA;MT;Cerrado
+PONTES E LACERDA;MT;Cerrado
+PORTO ALEGRE DO NORTE;MT;Cerrado
+POXORÉU;MT;Cerrado
+PRIMAVERA DO LESTE;MT;Cerrado
+QUERÊNCIA;MT;Cerrado
+RESERVA DO CABAÇAL;MT;Cerrado
+RIBEIRÃO CASCALHEIRA;MT;Cerrado
+SALTO DO CÉU;MT;Cerrado
+SANTA TEREZINHA;MT;Cerrado
+SANTO AFONSO;MT;Cerrado
+SANTO ANTÔNIO DO LESTE;MT;Cerrado
+SERRA NOVA DOURADA;MT;Cerrado
+SÃO FÉLIX DO ARAGUAIA;MT;Cerrado
+SÃO JOSÉ DO POVO;MT;Cerrado
+SÃO JOSÉ DO RIO CLARO;MT;Cerrado
+SÃO PEDRO DA CIPA;MT;Cerrado
+TANGARÁ DA SERRA;MT;Cerrado
+TAPURAH;MT;Cerrado
+TESOURO;MT;Cerrado
+TORIXORÉU;MT;Cerrado
+VALE DE SÃO DOMINGOS;MT;Cerrado
+VERA;MT;Cerrado
+VILA RICA;MT;Cerrado
+ANASTÁCIO;MS;Cerrado
+ANAURILÂNDIA;MS;Cerrado
+ANTÔNIO JOÃO;MS;Cerrado
+APARECIDA DO TABOADO;MS;Cerrado
+ARAL MOREIRA;MS;Cerrado
+BATAYPORÃ;MS;Cerrado
+BRASILÂNDIA;MS;Cerrado
+CAARAPÓ;MS;Cerrado
+CARACOL;MS;Cerrado
+CORONEL SAPUCAIA;MS;Cerrado
+CORUMBÁ;MS;Cerrado
+DOURADINA;MS;Cerrado
+DOURADOS;MS;Cerrado
+FIGUEIRÃO;MS;Cerrado
+GUIA LOPES DA LAGUNA;MS;Cerrado
+INOCÊNCIA;MS;Cerrado
+ITAPORÃ;MS;Cerrado
+JARAGUARI;MS;Cerrado
+LAGUNA CARAPÃ;MS;Cerrado
+MARACAJU;MS;Cerrado
+MIRANDA;MS;Cerrado
+NIOAQUE;MS;Cerrado
+NOVA ALVORADA DO SUL;MS;Cerrado
+PARANAÍBA;MS;Cerrado
+PEDRO GOMES;MS;Cerrado
+RIO BRILHANTE;MS;Cerrado
+RIO NEGRO;MS;Cerrado
+ROCHEDO;MS;Cerrado
+SANTA RITA DO PARDO;MS;Cerrado
+SELVÍRIA;MS;Cerrado
+SETE QUEDAS;MS;Cerrado
+SIDROLÂNDIA;MS;Cerrado
+SONORA;MS;Cerrado
+TACURU;MS;Cerrado
+TERENOS;MS;Cerrado
+ÁGUA CLARA;MS;Cerrado
+ABADIA DOS DOURADOS;MG;Cerrado
+ABAETÉ;MG;Cerrado
+AGUANIL;MG;Cerrado
+ALFENAS;MG;Cerrado
+ALPINÓPOLIS;MG;Cerrado
+ANGELÂNDIA;MG;Cerrado
+ARAPORÃ;MG;Cerrado
+ARAPUÁ;MG;Cerrado
+ARAÇAÍ;MG;Cerrado
+ARAÇUAÍ;MG;Cerrado
+ARAÚJOS;MG;Cerrado
+ARICANDUVA;MG;Cerrado
+AUGUSTO DE LIMA;MG;Cerrado
+BALDIM;MG;Cerrado
+BAMBUÍ;MG;Cerrado
+BARÃO DE COCAIS;MG;Cerrado
+BERILO;MG;Cerrado
+BIQUINHAS;MG;Cerrado
+BOM DESPACHO;MG;Cerrado
+BOM JESUS DO AMPARO;MG;Cerrado
+BONFINÓPOLIS DE MINAS;MG;Cerrado
+BRASILÂNDIA DE MINAS;MG;Cerrado
+BRASÍLIA DE MINAS;MG;Cerrado
+BURITIS;MG;Cerrado
+BURITIZEIRO;MG;Cerrado
+CABECEIRA GRANDE;MG;Cerrado
+CACHOEIRA DA PRATA;MG;Cerrado
+CAETANÓPOLIS;MG;Cerrado
+CAMPO AZUL;MG;Cerrado
+CAMPO BELO;MG;Cerrado
+CAMPO FLORIDO;MG;Cerrado
+CAMPO DO MEIO;MG;Cerrado
+CAMPOS GERAIS;MG;Cerrado
+CANDEIAS;MG;Cerrado
+CANÁPOLIS;MG;Cerrado
+CAPELINHA;MG;Cerrado
+CAPETINGA;MG;Cerrado
+CAPIM BRANCO;MG;Cerrado
+CAPINÓPOLIS;MG;Cerrado
+CARBONITA;MG;Cerrado
+CARMO DA MATA;MG;Cerrado
+CARMO DO CAJURU;MG;Cerrado
+CARMO DO PARANAÍBA;MG;Cerrado
+CARMO DO RIO CLARO;MG;Cerrado
+CARNEIRINHO;MG;Cerrado
+CASCALHO RICO;MG;Cerrado
+CEDRO DO ABAETÉ;MG;Cerrado
+CENTRALINA;MG;Cerrado
+CHAPADA DO NORTE;MG;Cerrado
+CLARAVAL;MG;Cerrado
+CLARO DOS POÇÕES;MG;Cerrado
+COMENDADOR GOMES;MG;Cerrado
+CONCEIÇÃO DAS ALAGOAS;MG;Cerrado
+CONGONHAS DO NORTE;MG;Cerrado
+CONQUISTA;MG;Cerrado
+COQUEIRAL;MG;Cerrado
+CORONEL MURTA;MG;Cerrado
+CRISTAIS;MG;Cerrado
+CRISTÁLIA;MG;Cerrado
+CRUZEIRO DA FORTALEZA;MG;Cerrado
+CURRAL DE DENTRO;MG;Cerrado
+CURVELO;MG;Cerrado
+CÁSSIA;MG;Cerrado
+CÓRREGO DANTA;MG;Cerrado
+CÓRREGO FUNDO;MG;Cerrado
+DATAS;MG;Cerrado
+DIVINÓPOLIS;MG;Cerrado
+DORES DO INDAIÁ;MG;Cerrado
+DORESÓPOLIS;MG;Cerrado
+DOURADOQUARA;MG;Cerrado
+ENGENHEIRO NAVARRO;MG;Cerrado
+ESMERALDAS;MG;Cerrado
+ESPINOSA;MG;Cerrado
+ESTRELA DO INDAIÁ;MG;Cerrado
+ESTRELA DO SUL;MG;Cerrado
+FELIXLÂNDIA;MG;Cerrado
+FLORESTAL;MG;Cerrado
+FORMIGA;MG;Cerrado
+FORTUNA DE MINAS;MG;Cerrado
+FRANCISCO BADARÓ;MG;Cerrado
+FRANCISCO DUMONT;MG;Cerrado
+FRANCISCO SÁ;MG;Cerrado
+FRONTEIRA;MG;Cerrado
+FRUTA DE LEITE;MG;Cerrado
+GLAUCILÂNDIA;MG;Cerrado
+GOUVEIA;MG;Cerrado
+GRUPIARA;MG;Cerrado
+GUAPÉ;MG;Cerrado
+GUARACIAMA;MG;Cerrado
+GUARDA-MOR;MG;Cerrado
+GUIMARÂNIA;MG;Cerrado
+IBIAÍ;MG;Cerrado
+IBIRACATU;MG;Cerrado
+IBIRACI;MG;Cerrado
+ICARAÍ DE MINAS;MG;Cerrado
+IGARAPÉ;MG;Cerrado
+IGUATAMA;MG;Cerrado
+ILICÍNEA;MG;Cerrado
+INDAIABIRA;MG;Cerrado
+INDIANÓPOLIS;MG;Cerrado
+INHAÚMA;MG;Cerrado
+INIMUTABA;MG;Cerrado
+IRAÍ DE MINAS;MG;Cerrado
+ITAGUARA;MG;Cerrado
+ITAMOGI;MG;Cerrado
+ITAPAGIPE;MG;Cerrado
+ITAPECERICA;MG;Cerrado
+ITAÚ DE MINAS;MG;Cerrado
+ITAÚNA;MG;Cerrado
+ITURAMA;MG;Cerrado
+JANAÚBA;MG;Cerrado
+JAPARAÍBA;MG;Cerrado
+JAPONVAR;MG;Cerrado
+JENIPAPO DE MINAS;MG;Cerrado
+JEQUITAÍ;MG;Cerrado
+JOSENÓPOLIS;MG;Cerrado
+JOSÉ GONÇALVES DE MINAS;MG;Cerrado
+JOÃO PINHEIRO;MG;Cerrado
+JUATUBA;MG;Cerrado
+LAGAMAR;MG;Cerrado
+LAGOA FORMOSA;MG;Cerrado
+LAGOA GRANDE;MG;Cerrado
+LAGOA DOS PATOS;MG;Cerrado
+LEANDRO FERREIRA;MG;Cerrado
+LIMEIRA DO OESTE;MG;Cerrado
+LONTRA;MG;Cerrado
+LUISLÂNDIA;MG;Cerrado
+MANGA;MG;Cerrado
+MARAVILHAS;MG;Cerrado
+MARTINHO CAMPOS;MG;Cerrado
+MATEUS LEME;MG;Cerrado
+MATO VERDE;MG;Cerrado
+MATUTINA;MG;Cerrado
+MEDEIROS;MG;Cerrado
+MINAS NOVAS;MG;Cerrado
+MIRABELA;MG;Cerrado
+MIRAVÂNIA;MG;Cerrado
+MOEMA;MG;Cerrado
+MONJOLOS;MG;Cerrado
+MONTALVÂNIA;MG;Cerrado
+MONTE AZUL;MG;Cerrado
+MONTE CARMELO;MG;Cerrado
+MONTE SANTO DE MINAS;MG;Cerrado
+MORRO DA GARÇA;MG;Cerrado
+NATALÂNDIA;MG;Cerrado
+NEPOMUCENO;MG;Cerrado
+NINHEIRA;MG;Cerrado
+NOVA SERRANA;MG;Cerrado
+NOVO CRUZEIRO;MG;Cerrado
+NOVORIZONTE;MG;Cerrado
+ONÇA DE PITANGUI;MG;Cerrado
+PADRE CARVALHO;MG;Cerrado
+PAPAGAIOS;MG;Cerrado
+PARÁ DE MINAS;MG;Cerrado
+PASSOS;MG;Cerrado
+PATIS;MG;Cerrado
+PATOS DE MINAS;MG;Cerrado
+PEDRAS DE MARIA DA CRUZ;MG;Cerrado
+PEDRINÓPOLIS;MG;Cerrado
+PEQUI;MG;Cerrado
+PERDIGÃO;MG;Cerrado
+PIMENTA;MG;Cerrado
+PINTÓPOLIS;MG;Cerrado
+PIRAJUBA;MG;Cerrado
+PITANGUI;MG;Cerrado
+PIUMHI;MG;Cerrado
+PLANURA;MG;Cerrado
+POMPÉU;MG;Cerrado
+PRATINHA;MG;Cerrado
+PRATÁPOLIS;MG;Cerrado
+PRESIDENTE JUSCELINO;MG;Cerrado
+PRESIDENTE KUBITSCHEK;MG;Cerrado
+QUARTEL GERAL;MG;Cerrado
+RIACHINHO;MG;Cerrado
+RIBEIRÃO DAS NEVES;MG;Cerrado
+RIO PARANAÍBA;MG;Cerrado
+ROMARIA;MG;Cerrado
+RUBELITA;MG;Cerrado
+SABARÁ;MG;Cerrado
+SALINAS;MG;Cerrado
+SANTA CRUZ DE SALINAS;MG;Cerrado
+SANTA FÉ DE MINAS;MG;Cerrado
+SANTA JULIANA;MG;Cerrado
+SANTA MARIA DE ITABIRA;MG;Cerrado
+SANTA ROSA DA SERRA;MG;Cerrado
+SANTANA DA VARGEM;MG;Cerrado
+SANTANA DE PIRAPAMA;MG;Cerrado
+SANTO ANTÔNIO DO MONTE;MG;Cerrado
+SANTO ANTÔNIO DO RETIRO;MG;Cerrado
+SERRA DA SAUDADE;MG;Cerrado
+SETUBINHA;MG;Cerrado
+SÃO FRANCISCO;MG;Cerrado
+SÃO FRANCISCO DE PAULA;MG;Cerrado
+SÃO FRANCISCO DE SALES;MG;Cerrado
+SÃO GONÇALO DO ABAETÉ;MG;Cerrado
+SÃO GONÇALO DO PARÁ;MG;Cerrado
+SÃO GONÇALO DO RIO ABAIXO;MG;Cerrado
+SÃO GOTARDO;MG;Cerrado
+SÃO JOAQUIM DE BICAS;MG;Cerrado
+SÃO JOSÉ DA BARRA;MG;Cerrado
+SÃO JOSÉ DA VARGINHA;MG;Cerrado
+SÃO JOÃO DA LAGOA;MG;Cerrado
+SÃO JOÃO DA PONTE;MG;Cerrado
+SÃO JOÃO DAS MISSÕES;MG;Cerrado
+SÃO JOÃO DO PACUÍ;MG;Cerrado
+SÃO JOÃO DO PARAÍSO;MG;Cerrado
+SÃO ROMÃO;MG;Cerrado
+SÃO SEBASTIÃO DO OESTE;MG;Cerrado
+SÃO SEBASTIÃO DO PARAÍSO;MG;Cerrado
+SÃO SEBASTIÃO DO RIO PRETO;MG;Cerrado
+SÃO TOMÁS DE AQUINO;MG;Cerrado
+TAIOBEIRAS;MG;Cerrado
+TAPIRA;MG;Cerrado
+TAPIRAÍ;MG;Cerrado
+TIROS;MG;Cerrado
+TRÊS MARIAS;MG;Cerrado
+TRÊS PONTAS;MG;Cerrado
+UBAÍ;MG;Cerrado
+UNIÃO DE MINAS;MG;Cerrado
+VARJÃO DE MINAS;MG;Cerrado
+VARZELÂNDIA;MG;Cerrado
+VAZANTE;MG;Cerrado
+VEREDINHA;MG;Cerrado
+VERÍSSIMO;MG;Cerrado
+VESPASIANO;MG;Cerrado
+VIRGEM DA LAPA;MG;Cerrado
+VÁRZEA DA PALMA;MG;Cerrado
+ÁGUA BOA;MG;Cerrado
+ÁGUA COMPRIDA;MG;Cerrado
+ARAPOTI;PR;Cerrado
+CASTRO;PR;Cerrado
+PIRAÍ DO SUL;PR;Cerrado
+SÃO JOSÉ DA BOA VISTA;PR;Cerrado
+TELÊMACO BORBA;PR;Cerrado
+VENTANIA;PR;Cerrado
+WENCESLAU BRAZ;PR;Cerrado
+CONCEIÇÃO DO ARAGUAIA;PA;Cerrado
+FLORESTA DO ARAGUAIA;PA;Cerrado
+PAU D'ARCO;PA;Cerrado
+REDENÇÃO;PA;Cerrado
+RIO MARIA;PA;Cerrado
+SANTA MARIA DAS BARREIRAS;PA;Cerrado
+SANTANA DO ARAGUAIA;PA;Cerrado
+AGRICOLÂNDIA;PI;Cerrado
+ALVORADA DO GURGUÉIA;PI;Cerrado
+AMARANTE;PI;Cerrado
+ANGICAL DO PIAUÍ;PI;Cerrado
+ANTÔNIO ALMEIDA;PI;Cerrado
+AROAZES;PI;Cerrado
+ARRAIAL;PI;Cerrado
+BARRA D'ALCÂNTARA;PI;Cerrado
+BARRAS;PI;Cerrado
+BARRO DURO;PI;Cerrado
+BENEDITINOS;PI;Cerrado
+BERTOLÍNIA;PI;Cerrado
+BOA HORA;PI;Cerrado
+BOQUEIRÃO DO PIAUÍ;PI;Cerrado
+BURITI DOS LOPES;PI;Cerrado
+BURITI DOS MONTES;PI;Cerrado
+CABECEIRAS DO PIAUÍ;PI;Cerrado
+CAMPO LARGO DO PIAUÍ;PI;Cerrado
+CANAVIEIRA;PI;Cerrado
+CAPITÃO DE CAMPOS;PI;Cerrado
+CARAÚBAS DO PIAUÍ;PI;Cerrado
+CASTELO DO PIAUÍ;PI;Cerrado
+CAXINGÓ;PI;Cerrado
+COCAL;PI;Cerrado
+COCAL DE TELHA;PI;Cerrado
+COCAL DOS ALVES;PI;Cerrado
+COIVARAS;PI;Cerrado
+COLÔNIA DO GURGUÉIA;PI;Cerrado
+CRISTALÂNDIA DO PIAUÍ;PI;Cerrado
+CRISTINO CASTRO;PI;Cerrado
+CURIMATÁ;PI;Cerrado
+CURRAIS;PI;Cerrado
+CURRALINHOS;PI;Cerrado
+DEMERVAL LOBÃO;PI;Cerrado
+ELESBÃO VELOSO;PI;Cerrado
+ELISEU MARTINS;PI;Cerrado
+FLORES DO PIAUÍ;PI;Cerrado
+FLORIANO;PI;Cerrado
+FRANCINÓPOLIS;PI;Cerrado
+FRANCISCO AYRES;PI;Cerrado
+GUADALUPE;PI;Cerrado
+GUARIBAS;PI;Cerrado
+HUGO NAPOLEÃO;PI;Cerrado
+INHUMA;PI;Cerrado
+IPIRANGA DO PIAUÍ;PI;Cerrado
+ITAUEIRA;PI;Cerrado
+JARDIM DO MULATO;PI;Cerrado
+JATOBÁ DO PIAUÍ;PI;Cerrado
+JERUMENHA;PI;Cerrado
+JOAQUIM PIRES;PI;Cerrado
+JOCA MARQUES;PI;Cerrado
+JOSÉ DE FREITAS;PI;Cerrado
+JUAZEIRO DO PIAUÍ;PI;Cerrado
+JÚLIO BORGES;PI;Cerrado
+LAGOA ALEGRE;PI;Cerrado
+LAGOA DE SÃO FRANCISCO;PI;Cerrado
+LAGOA DO PIAUÍ;PI;Cerrado
+LAGOA DO SÍTIO;PI;Cerrado
+LAGOINHA DO PIAUÍ;PI;Cerrado
+LANDRI SALES;PI;Cerrado
+LUZILÂNDIA;PI;Cerrado
+MADEIRO;PI;Cerrado
+MANOEL EMÍDIO;PI;Cerrado
+MARCOS PARENTE;PI;Cerrado
+MATIAS OLÍMPIO;PI;Cerrado
+MIGUEL ALVES;PI;Cerrado
+MIGUEL LEÃO;PI;Cerrado
+MILTON BRANDÃO;PI;Cerrado
+MONSENHOR GIL;PI;Cerrado
+MORRO CABEÇA NO TEMPO;PI;Cerrado
+MORRO DO CHAPÉU DO PIAUÍ;PI;Cerrado
+MURICI DOS PORTELAS;PI;Cerrado
+NAZARÉ DO PIAUÍ;PI;Cerrado
+NAZÁRIA;PI;Cerrado
+NOSSA SENHORA DE NAZARÉ;PI;Cerrado
+NOSSA SENHORA DOS REMÉDIOS;PI;Cerrado
+NOVO ORIENTE DO PIAUÍ;PI;Cerrado
+NOVO SANTO ANTÔNIO;PI;Cerrado
+OEIRAS;PI;Cerrado
+OLHO D'ÁGUA DO PIAUÍ;PI;Cerrado
+PALMEIRA DO PIAUÍ;PI;Cerrado
+PALMEIRAIS;PI;Cerrado
+PARNAGUÁ;PI;Cerrado
+PASSAGEM FRANCA DO PIAUÍ;PI;Cerrado
+PAU D'ARCO DO PIAUÍ;PI;Cerrado
+PEDRO II;PI;Cerrado
+PIMENTEIRAS;PI;Cerrado
+PIRIPIRI;PI;Cerrado
+PORTO;PI;Cerrado
+PORTO ALEGRE DO PIAUÍ;PI;Cerrado
+PRATA DO PIAUÍ;PI;Cerrado
+REDENÇÃO DO GURGUÉIA;PI;Cerrado
+REGENERAÇÃO;PI;Cerrado
+RIACHO FRIO;PI;Cerrado
+RIBEIRA DO PIAUÍ;PI;Cerrado
+RIBEIRO GONÇALVES;PI;Cerrado
+SANTA CRUZ DOS MILAGRES;PI;Cerrado
+SANTA LUZ;PI;Cerrado
+SANTA ROSA DO PIAUÍ;PI;Cerrado
+SANTO ANTÔNIO DOS MILAGRES;PI;Cerrado
+SEBASTIÃO BARROS;PI;Cerrado
+SEBASTIÃO LEAL;PI;Cerrado
+SIGEFREDO PACHECO;PI;Cerrado
+SÃO FRANCISCO DO PIAUÍ;PI;Cerrado
+SÃO FÉLIX DO PIAUÍ;PI;Cerrado
+SÃO GONÇALO DO PIAUÍ;PI;Cerrado
+SÃO JOSÉ DO DIVINO;PI;Cerrado
+SÃO JOSÉ DO PEIXE;PI;Cerrado
+SÃO JOÃO DA SERRA;PI;Cerrado
+SÃO JOÃO DO ARRAIAL;PI;Cerrado
+SÃO MIGUEL DA BAIXA GRANDE;PI;Cerrado
+SÃO MIGUEL DO TAPUIO;PI;Cerrado
+SÃO PEDRO DO PIAUÍ;PI;Cerrado
+TANQUE DO PIAUÍ;PI;Cerrado
+UNIÃO;PI;Cerrado
+URUÇUÍ;PI;Cerrado
+VALENÇA DO PIAUÍ;PI;Cerrado
+VÁRZEA GRANDE;PI;Cerrado
+ÁGUA BRANCA;PI;Cerrado
+VILHENA;RO;Cerrado
+AGUAÍ;SP;Cerrado
+ALAMBARI;SP;Cerrado
+ALTAIR;SP;Cerrado
+ALTINÓPOLIS;SP;Cerrado
+ALVINLÂNDIA;SP;Cerrado
+AMÉRICO BRASILIENSE;SP;Cerrado
+AMÉRICO DE CAMPOS;SP;Cerrado
+ANALÂNDIA;SP;Cerrado
+ANHUMAS;SP;Cerrado
+ARAMINA;SP;Cerrado
+ARANDU;SP;Cerrado
+ARARAS;SP;Cerrado
+AREALVA;SP;Cerrado
+AREIÓPOLIS;SP;Cerrado
+AVAÍ;SP;Cerrado
+BARIRI;SP;Cerrado
+BARRETOS;SP;Cerrado
+BATATAIS;SP;Cerrado
+BEBEDOURO;SP;Cerrado
+BOA ESPERANÇA DO SUL;SP;Cerrado
+BOCAINA;SP;Cerrado
+BOM SUCESSO DE ITARARÉ;SP;Cerrado
+BOREBI;SP;Cerrado
+BORÁ;SP;Cerrado
+BRODOWSKI;SP;Cerrado
+BURITIZAL;SP;Cerrado
+CABRÁLIA PAULISTA;SP;Cerrado
+CAJURU;SP;Cerrado
+CAMPINA DO MONTE ALEGRE;SP;Cerrado
+CAMPOS NOVOS PAULISTA;SP;Cerrado
+CARDOSO;SP;Cerrado
+CASA BRANCA;SP;Cerrado
+CHARQUEADA;SP;Cerrado
+COLINA;SP;Cerrado
+CONCHAL;SP;Cerrado
+CONCHAS;SP;Cerrado
+CORONEL MACEDO;SP;Cerrado
+CORUMBATAÍ;SP;Cerrado
+COSMORAMA;SP;Cerrado
+CRAVINHOS;SP;Cerrado
+CRISTAIS PAULISTA;SP;Cerrado
+CÁSSIA DOS COQUEIROS;SP;Cerrado
+CÂNDIDO MOTA;SP;Cerrado
+DESCALVADO;SP;Cerrado
+DOURADO;SP;Cerrado
+DUARTINA;SP;Cerrado
+ECHAPORÃ;SP;Cerrado
+ENGENHEIRO COELHO;SP;Cerrado
+ESPÍRITO SANTO DO TURVO;SP;Cerrado
+ESTIVA GERBI;SP;Cerrado
+ESTRELA DO NORTE;SP;Cerrado
+FERNÃO;SP;Cerrado
+FRANCA;SP;Cerrado
+GAVIÃO PEIXOTO;SP;Cerrado
+GUARACI;SP;Cerrado
+GUARIBA;SP;Cerrado
+GUARÁ;SP;Cerrado
+GUAÍRA;SP;Cerrado
+GÁLIA;SP;Cerrado
+IACANGA;SP;Cerrado
+IARAS;SP;Cerrado
+IBATÉ;SP;Cerrado
+IBIRAREMA;SP;Cerrado
+IBITINGA;SP;Cerrado
+ICÉM;SP;Cerrado
+IEPÊ;SP;Cerrado
+IGARAPAVA;SP;Cerrado
+ILHA SOLTEIRA;SP;Cerrado
+INDIANA;SP;Cerrado
+IPEÚNA;SP;Cerrado
+ITABERÁ;SP;Cerrado
+ITAPETININGA;SP;Cerrado
+ITAPEVA;SP;Cerrado
+ITAPORANGA;SP;Cerrado
+ITAÍ;SP;Cerrado
+ITIRAPUÃ;SP;Cerrado
+ITUVERAVA;SP;Cerrado
+JABORANDI;SP;Cerrado
+JABOTICABAL;SP;Cerrado
+JARDINÓPOLIS;SP;Cerrado
+JAÚ;SP;Cerrado
+JERIQUARA;SP;Cerrado
+JOÃO RAMALHO;SP;Cerrado
+LEME;SP;Cerrado
+LENÇÓIS PAULISTA;SP;Cerrado
+LUCIANÓPOLIS;SP;Cerrado
+LUPÉRCIO;SP;Cerrado
+LUTÉCIA;SP;Cerrado
+MACATUBA;SP;Cerrado
+MACEDÔNIA;SP;Cerrado
+MANDURI;SP;Cerrado
+MARACAÍ;SP;Cerrado
+MARTINÓPOLIS;SP;Cerrado
+MARÍLIA;SP;Cerrado
+MATÃO;SP;Cerrado
+MIGUELÓPOLIS;SP;Cerrado
+MINEIROS DO TIETÊ;SP;Cerrado
+MIRA ESTRELA;SP;Cerrado
+MIRANTE DO PARANAPANEMA;SP;Cerrado
+MOCOCA;SP;Cerrado
+MOGI MIRIM;SP;Cerrado
+MONTE AZUL PAULISTA;SP;Cerrado
+MORRO AGUDO;SP;Cerrado
+MOTUCA;SP;Cerrado
+NANTES;SP;Cerrado
+NARANDIBA;SP;Cerrado
+NOVA CAMPINA;SP;Cerrado
+NOVA EUROPA;SP;Cerrado
+NOVA GRANADA;SP;Cerrado
+NUPORANGA;SP;Cerrado
+OCAUÇU;SP;Cerrado
+OLÍMPIA;SP;Cerrado
+ORINDIÚVA;SP;Cerrado
+ORLÂNDIA;SP;Cerrado
+OSCAR BRESSANE;SP;Cerrado
+PALESTINA;SP;Cerrado
+PALMITAL;SP;Cerrado
+PARAGUAÇU PAULISTA;SP;Cerrado
+PARISI;SP;Cerrado
+PATROCÍNIO PAULISTA;SP;Cerrado
+PAULISTÂNIA;SP;Cerrado
+PAULO DE FARIA;SP;Cerrado
+PEDRANÓPOLIS;SP;Cerrado
+PEDREGULHO;SP;Cerrado
+PIRAJU;SP;Cerrado
+PIRAPOZINHO;SP;Cerrado
+PIRASSUNUNGA;SP;Cerrado
+PIRATININGA;SP;Cerrado
+PITANGUEIRAS;SP;Cerrado
+PLATINA;SP;Cerrado
+PONTES GESTAL;SP;Cerrado
+PORANGABA;SP;Cerrado
+PORTO FERREIRA;SP;Cerrado
+PRADÓPOLIS;SP;Cerrado
+PRATÂNIA;SP;Cerrado
+PRESIDENTE BERNARDES;SP;Cerrado
+QUATÁ;SP;Cerrado
+RANCHARIA;SP;Cerrado
+REGENTE FEIJÓ;SP;Cerrado
+REGINÓPOLIS;SP;Cerrado
+RESTINGA;SP;Cerrado
+RIBEIRÃO BRANCO;SP;Cerrado
+RIBEIRÃO CORRENTE;SP;Cerrado
+RIBEIRÃO DO SUL;SP;Cerrado
+RIFAINA;SP;Cerrado
+RINCÃO;SP;Cerrado
+RIO CLARO;SP;Cerrado
+RIOLÂNDIA;SP;Cerrado
+RUBINÉIA;SP;Cerrado
+SALES OLIVEIRA;SP;Cerrado
+SANDOVALINA;SP;Cerrado
+SANTA CLARA D'OESTE;SP;Cerrado
+SANTA CRUZ DA CONCEIÇÃO;SP;Cerrado
+SANTA CRUZ DA ESPERANÇA;SP;Cerrado
+SANTA CRUZ DAS PALMEIRAS;SP;Cerrado
+SANTA CRUZ DO RIO PARDO;SP;Cerrado
+SANTA LÚCIA;SP;Cerrado
+SANTA ROSA DE VITERBO;SP;Cerrado
+SANTO ANTÔNIO DA ALEGRIA;SP;Cerrado
+SARAPUÍ;SP;Cerrado
+SERRANA;SP;Cerrado
+SÃO CARLOS;SP;Cerrado
+SÃO JOAQUIM DA BARRA;SP;Cerrado
+SÃO JOSÉ DA BELA VISTA;SP;Cerrado
+SÃO PEDRO DO TURVO;SP;Cerrado
+TABATINGA;SP;Cerrado
+TACIBA;SP;Cerrado
+TAIÚVA;SP;Cerrado
+TAMBAÚ;SP;Cerrado
+TANABI;SP;Cerrado
+TAQUARAL;SP;Cerrado
+TAQUARITUBA;SP;Cerrado
+TAQUARIVAÍ;SP;Cerrado
+TARABAI;SP;Cerrado
+TARUMÃ;SP;Cerrado
+TEJUPÁ;SP;Cerrado
+TERRA ROXA;SP;Cerrado
+TORRINHA;SP;Cerrado
+TRABIJU;SP;Cerrado
+UBIRAJARA;SP;Cerrado
+VARGEM GRANDE DO SUL;SP;Cerrado
+VIRADOURO;SP;Cerrado
+ÁGUAS DE SÃO PEDRO;SP;Cerrado
+ÁLVARES FLORENCE;SP;Cerrado
+ÓLEO;SP;Cerrado
+AGUIARNÓPOLIS;TO;Cerrado
+ALIANÇA DO TOCANTINS;TO;Cerrado
+ALVORADA;TO;Cerrado
+ANANÁS;TO;Cerrado
+ANGICO;TO;Cerrado
+ARAGUATINS;TO;Cerrado
+ARAGUAÇU;TO;Cerrado
+ARRAIAS;TO;Cerrado
+AUGUSTINÓPOLIS;TO;Cerrado
+AXIXÁ DO TOCANTINS;TO;Cerrado
+BANDEIRANTES DO TOCANTINS;TO;Cerrado
+BARRA DO OURO;TO;Cerrado
+BARROLÂNDIA;TO;Cerrado
+BOM JESUS DO TOCANTINS;TO;Cerrado
+BRASILÂNDIA DO TOCANTINS;TO;Cerrado
+BREJINHO DE NAZARÉ;TO;Cerrado
+CACHOEIRINHA;TO;Cerrado
+CAMPOS LINDOS;TO;Cerrado
+CARIRI DO TOCANTINS;TO;Cerrado
+CENTENÁRIO;TO;Cerrado
+CHAPADA DA NATIVIDADE;TO;Cerrado
+COLINAS DO TOCANTINS;TO;Cerrado
+COLMÉIA;TO;Cerrado
+COMBINADO;TO;Cerrado
+CONCEIÇÃO DO TOCANTINS;TO;Cerrado
+COUTO MAGALHÃES;TO;Cerrado
+CRISTALÂNDIA;TO;Cerrado
+CRIXÁS DO TOCANTINS;TO;Cerrado
+DARCINÓPOLIS;TO;Cerrado
+DUERÉ;TO;Cerrado
+FIGUEIRÓPOLIS;TO;Cerrado
+FÁTIMA;TO;Cerrado
+GOIANORTE;TO;Cerrado
+GOIATINS;TO;Cerrado
+GUARAÍ;TO;Cerrado
+GURUPI;TO;Cerrado
+IPUEIRAS;TO;Cerrado
+ITACAJÁ;TO;Cerrado
+ITAGUATINS;TO;Cerrado
+ITAPIRATINS;TO;Cerrado
+JAÚ DO TOCANTINS;TO;Cerrado
+JUARINA;TO;Cerrado
+LAGOA DO TOCANTINS;TO;Cerrado
+LAVANDEIRA;TO;Cerrado
+LUZINÓPOLIS;TO;Cerrado
+MAURILÂNDIA DO TOCANTINS;TO;Cerrado
+MIRACEMA DO TOCANTINS;TO;Cerrado
+MIRANORTE;TO;Cerrado
+MONTE DO CARMO;TO;Cerrado
+NATIVIDADE;TO;Cerrado
+NAZARÉ;TO;Cerrado
+NOVA OLINDA;TO;Cerrado
+NOVA ROSALÂNDIA;TO;Cerrado
+NOVO ALEGRE;TO;Cerrado
+NOVO JARDIM;TO;Cerrado
+OLIVEIRA DE FÁTIMA;TO;Cerrado
+PALMEIRANTE;TO;Cerrado
+PALMEIRAS DO TOCANTINS;TO;Cerrado
+PARAÍSO DO TOCANTINS;TO;Cerrado
+PAU D'ARCO;TO;Cerrado
+PEDRO AFONSO;TO;Cerrado
+PEQUIZEIRO;TO;Cerrado
+PINDORAMA DO TOCANTINS;TO;Cerrado
+PIRAQUÊ;TO;Cerrado
+PONTE ALTA DO BOM JESUS;TO;Cerrado
+PORTO ALEGRE DO TOCANTINS;TO;Cerrado
+PRAIA NORTE;TO;Cerrado
+PRESIDENTE KENNEDY;TO;Cerrado
+PUGMIL;TO;Cerrado
+RECURSOLÂNDIA;TO;Cerrado
+RIACHINHO;TO;Cerrado
+RIO SONO;TO;Cerrado
+RIO DOS BOIS;TO;Cerrado
+SAMPAIO;TO;Cerrado
+SANTA MARIA DO TOCANTINS;TO;Cerrado
+SANTA RITA DO TOCANTINS;TO;Cerrado
+SANTA ROSA DO TOCANTINS;TO;Cerrado
+SANTA TEREZA DO TOCANTINS;TO;Cerrado
+SANTA TEREZINHA DO TOCANTINS;TO;Cerrado
+SILVANÓPOLIS;TO;Cerrado
+SUCUPIRA;TO;Cerrado
+SÃO BENTO DO TOCANTINS;TO;Cerrado
+SÃO MIGUEL DO TOCANTINS;TO;Cerrado
+SÃO VALÉRIO;TO;Cerrado
+SÍTIO NOVO DO TOCANTINS;TO;Cerrado
+TABOCÃO;TO;Cerrado
+TAGUATINGA;TO;Cerrado
+TAIPAS DO TOCANTINS;TO;Cerrado
+TALISMÃ;TO;Cerrado
+TOCANTINÓPOLIS;TO;Cerrado
+TUPIRAMA;TO;Cerrado
+TUPIRATINS;TO;Cerrado
+ANADIA;AL;Mata Atlântica
+ARAPIRACA;AL;Mata Atlântica
+BELÉM;AL;Mata Atlântica
+CAJUEIRO;AL;Mata Atlântica
+CAMPESTRE;AL;Mata Atlântica
+CAPELA;AL;Mata Atlântica
+ESTRELA DE ALAGOAS;AL;Mata Atlântica
+FEIRA GRANDE;AL;Mata Atlântica
+IGREJA NOVA;AL;Mata Atlântica
+JACUÍPE;AL;Mata Atlântica
+JEQUIÁ DA PRAIA;AL;Mata Atlântica
+JUNDIÁ;AL;Mata Atlântica
+LIMOEIRO DE ANADIA;AL;Mata Atlântica
+MAR VERMELHO;AL;Mata Atlântica
+MARAGOGI;AL;Mata Atlântica
+MARIBONDO;AL;Mata Atlântica
+MATRIZ DE CAMARAGIBE;AL;Mata Atlântica
+PALMEIRA DOS ÍNDIOS;AL;Mata Atlântica
+PARIPUEIRA;AL;Mata Atlântica
+PASSO DE CAMARAGIBE;AL;Mata Atlântica
+PAULO JACINTO;AL;Mata Atlântica
+PINDOBA;AL;Mata Atlântica
+PORTO REAL DO COLÉGIO;AL;Mata Atlântica
+ROTEIRO;AL;Mata Atlântica
+SANTANA DO MUNDAÚ;AL;Mata Atlântica
+SÃO BRÁS;AL;Mata Atlântica
+SÃO MIGUEL DOS MILAGRES;AL;Mata Atlântica
+SÃO SEBASTIÃO;AL;Mata Atlântica
+TAQUARANA;AL;Mata Atlântica
+VIÇOSA;AL;Mata Atlântica
+ACAJUTIBA;BA;Mata Atlântica
+AIQUARA;BA;Mata Atlântica
+ALAGOINHAS;BA;Mata Atlântica
+ALCOBAÇA;BA;Mata Atlântica
+AMARGOSA;BA;Mata Atlântica
+AMÉLIA RODRIGUES;BA;Mata Atlântica
+ANAGÉ;BA;Mata Atlântica
+ANGUERA;BA;Mata Atlântica
+APORÁ;BA;Mata Atlântica
+APUAREMA;BA;Mata Atlântica
+ARAMARI;BA;Mata Atlântica
+ARATUÍPE;BA;Mata Atlântica
+ARAÇÁS;BA;Mata Atlântica
+AURELINO LEAL;BA;Mata Atlântica
+BARRA DO ROCHA;BA;Mata Atlântica
+BARRO PRETO;BA;Mata Atlântica
+BELO CAMPO;BA;Mata Atlântica
+BREJÕES;BA;Mata Atlântica
+BUERAREMA;BA;Mata Atlântica
+CAATIBA;BA;Mata Atlântica
+CANAVIEIRAS;BA;Mata Atlântica
+CANDEAL;BA;Mata Atlântica
+CARDEAL DA SILVA;BA;Mata Atlântica
+CASTRO ALVES;BA;Mata Atlântica
+CONCEIÇÃO DO ALMEIDA;BA;Mata Atlântica
+CONCEIÇÃO DO JACUÍPE;BA;Mata Atlântica
+CORAÇÃO DE MARIA;BA;Mata Atlântica
+CRAVOLÂNDIA;BA;Mata Atlântica
+CRUZ DAS ALMAS;BA;Mata Atlântica
+CÂNDIDO SALES;BA;Mata Atlântica
+DOM MACEDO COSTA;BA;Mata Atlântica
+ELÍSIO MEDRADO;BA;Mata Atlântica
+ENCRUZILHADA;BA;Mata Atlântica
+EUNÁPOLIS;BA;Mata Atlântica
+FIRMINO ALVES;BA;Mata Atlântica
+FLORESTA AZUL;BA;Mata Atlântica
+GANDU;BA;Mata Atlântica
+GONGOGI;BA;Mata Atlântica
+IBICUÍ;BA;Mata Atlântica
+IBIRAPUÃ;BA;Mata Atlântica
+IBIRATAIA;BA;Mata Atlântica
+INHAMBUPE;BA;Mata Atlântica
+IPECAETÁ;BA;Mata Atlântica
+IPIAÚ;BA;Mata Atlântica
+IRAJUBA;BA;Mata Atlântica
+IRARÁ;BA;Mata Atlântica
+ITABELA;BA;Mata Atlântica
+ITABUNA;BA;Mata Atlântica
+ITAGI;BA;Mata Atlântica
+ITAGIBÁ;BA;Mata Atlântica
+ITAGIMIRIM;BA;Mata Atlântica
+ITAJU DO COLÔNIA;BA;Mata Atlântica
+ITAMARAJU;BA;Mata Atlântica
+ITAMARI;BA;Mata Atlântica
+ITAMBÉ;BA;Mata Atlântica
+ITANHÉM;BA;Mata Atlântica
+ITAPETINGA;BA;Mata Atlântica
+ITAPICURU;BA;Mata Atlântica
+ITAPITANGA;BA;Mata Atlântica
+ITAPÉ;BA;Mata Atlântica
+ITAQUARA;BA;Mata Atlântica
+ITARANTIM;BA;Mata Atlântica
+ITATIM;BA;Mata Atlântica
+ITIRUÇU;BA;Mata Atlântica
+ITORORÓ;BA;Mata Atlântica
+JAGUAQUARA;BA;Mata Atlântica
+JEQUIÉ;BA;Mata Atlântica
+JITAÚNA;BA;Mata Atlântica
+JUCURUÇU;BA;Mata Atlântica
+LAFAIETE COUTINHO;BA;Mata Atlântica
+LAJE;BA;Mata Atlântica
+LAJEDO DO TABOCAL;BA;Mata Atlântica
+LAJEDÃO;BA;Mata Atlântica
+MACARANI;BA;Mata Atlântica
+MAIQUINIQUE;BA;Mata Atlântica
+MASCOTE;BA;Mata Atlântica
+MEDEIROS NETO;BA;Mata Atlântica
+MILAGRES;BA;Mata Atlântica
+MUNIZ FERREIRA;BA;Mata Atlântica
+MUTUÍPE;BA;Mata Atlântica
+NAZARÉ;BA;Mata Atlântica
+NOVA CANAÃ;BA;Mata Atlântica
+NOVA IBIÁ;BA;Mata Atlântica
+NOVA ITARANA;BA;Mata Atlântica
+NOVA VIÇOSA;BA;Mata Atlântica
+OURIÇANGAS;BA;Mata Atlântica
+PEDRÃO;BA;Mata Atlântica
+PIRIPÁ;BA;Mata Atlântica
+PLANALTINO;BA;Mata Atlântica
+PLANALTO;BA;Mata Atlântica
+POTIRAGUÁ;BA;Mata Atlântica
+POÇÕES;BA;Mata Atlântica
+PRESIDENTE TANCREDO NEVES;BA;Mata Atlântica
+RAFAEL JAMBEIRO;BA;Mata Atlântica
+RIACHÃO DO JACUÍPE;BA;Mata Atlântica
+RIBEIRÃO DO LARGO;BA;Mata Atlântica
+RIO REAL;BA;Mata Atlântica
+SANTA BÁRBARA;BA;Mata Atlântica
+SANTA CRUZ DA VITÓRIA;BA;Mata Atlântica
+SANTA INÊS;BA;Mata Atlântica
+SANTA LUZIA;BA;Mata Atlântica
+SANTA TEREZINHA;BA;Mata Atlântica
+SANTO ANTÔNIO DE JESUS;BA;Mata Atlântica
+SAPEAÇU;BA;Mata Atlântica
+SERRA PRETA;BA;Mata Atlântica
+SÁTIRO DIAS;BA;Mata Atlântica
+SÃO FELIPE;BA;Mata Atlântica
+SÃO MIGUEL DAS MATAS;BA;Mata Atlântica
+TANQUINHO;BA;Mata Atlântica
+TEIXEIRA DE FREITAS;BA;Mata Atlântica
+TEODORO SAMPAIO;BA;Mata Atlântica
+TERRA NOVA;BA;Mata Atlântica
+TREMEDAL;BA;Mata Atlântica
+UBAITABA;BA;Mata Atlântica
+UBATÃ;BA;Mata Atlântica
+VEREDA;BA;Mata Atlântica
+VITÓRIA DA CONQUISTA;BA;Mata Atlântica
+ÁGUA FRIA;BA;Mata Atlântica
+BRASÍLIA;DF;Mata Atlântica
+ALTO RIO NOVO;ES;Mata Atlântica
+APIACÁ;ES;Mata Atlântica
+ATÍLIO VIVÁCQUA;ES;Mata Atlântica
+BARRA DE SÃO FRANCISCO;ES;Mata Atlântica
+BOA ESPERANÇA;ES;Mata Atlântica
+BOM JESUS DO NORTE;ES;Mata Atlântica
+COLATINA;ES;Mata Atlântica
+CONCEIÇÃO DO CASTELO;ES;Mata Atlântica
+ECOPORANGA;ES;Mata Atlântica
+GOVERNADOR LINDENBERG;ES;Mata Atlântica
+IBATIBA;ES;Mata Atlântica
+ICONHA;ES;Mata Atlântica
+ITARANA;ES;Mata Atlântica
+JERÔNIMO MONTEIRO;ES;Mata Atlântica
+JOÃO NEIVA;ES;Mata Atlântica
+LARANJA DA TERRA;ES;Mata Atlântica
+MANTENÓPOLIS;ES;Mata Atlântica
+MARILÂNDIA;ES;Mata Atlântica
+MUCURICI;ES;Mata Atlântica
+PEDRO CANÁRIO;ES;Mata Atlântica
+PONTO BELO;ES;Mata Atlântica
+RIO BANANAL;ES;Mata Atlântica
+RIO NOVO DO SUL;ES;Mata Atlântica
+SÃO DOMINGOS DO NORTE;ES;Mata Atlântica
+SÃO GABRIEL DA PALHA;ES;Mata Atlântica
+SÃO JOSÉ DO CALÇADO;ES;Mata Atlântica
+SÃO MATEUS;ES;Mata Atlântica
+SÃO ROQUE DO CANAÃ;ES;Mata Atlântica
+VENDA NOVA DO IMIGRANTE;ES;Mata Atlântica
+VILA PAVÃO;ES;Mata Atlântica
+ÁGUA DOCE DO NORTE;ES;Mata Atlântica
+BURITI ALEGRE;GO;Mata Atlântica
+CACHOEIRA ALTA;GO;Mata Atlântica
+CACHOEIRA DOURADA;GO;Mata Atlântica
+CALDAS NOVAS;GO;Mata Atlântica
+CAÇU;GO;Mata Atlântica
+CORUMBAÍBA;GO;Mata Atlântica
+CUMARI;GO;Mata Atlântica
+GOUVELÂNDIA;GO;Mata Atlântica
+INACIOLÂNDIA;GO;Mata Atlântica
+ITAJÁ;GO;Mata Atlântica
+ITARUMÃ;GO;Mata Atlântica
+ITUMBIARA;GO;Mata Atlântica
+MORRINHOS;GO;Mata Atlântica
+PARANAIGUARA;GO;Mata Atlântica
+QUIRINÓPOLIS;GO;Mata Atlântica
+RIO QUENTE;GO;Mata Atlântica
+SÃO SIMÃO;GO;Mata Atlântica
+ANAURILÂNDIA;MS;Mata Atlântica
+ANGÉLICA;MS;Mata Atlântica
+ARAL MOREIRA;MS;Mata Atlântica
+BATAGUASSU;MS;Mata Atlântica
+CAARAPÓ;MS;Mata Atlântica
+CORONEL SAPUCAIA;MS;Mata Atlântica
+DEODÁPOLIS;MS;Mata Atlântica
+DOURADINA;MS;Mata Atlântica
+FÁTIMA DO SUL;MS;Mata Atlântica
+ITAPORÃ;MS;Mata Atlântica
+JUTI;MS;Mata Atlântica
+LAGUNA CARAPÃ;MS;Mata Atlântica
+MARACAJU;MS;Mata Atlântica
+NOVA ALVORADA DO SUL;MS;Mata Atlântica
+PARANAÍBA;MS;Mata Atlântica
+PARANHOS;MS;Mata Atlântica
+SANTA RITA DO PARDO;MS;Mata Atlântica
+SELVÍRIA;MS;Mata Atlântica
+VICENTINA;MS;Mata Atlântica
+ABRE CAMPO;MG;Mata Atlântica
+ACAIACA;MG;Mata Atlântica
+AGUANIL;MG;Mata Atlântica
+AIMORÉS;MG;Mata Atlântica
+ALBERTINA;MG;Mata Atlântica
+ALFREDO VASCONCELOS;MG;Mata Atlântica
+ALPERCATA;MG;Mata Atlântica
+ALPINÓPOLIS;MG;Mata Atlântica
+ALTEROSA;MG;Mata Atlântica
+ALTO RIO DOCE;MG;Mata Atlântica
+ALVARENGA;MG;Mata Atlântica
+ALVINÓPOLIS;MG;Mata Atlântica
+ALVORADA DE MINAS;MG;Mata Atlântica
+ALÉM PARAÍBA;MG;Mata Atlântica
+AMPARO DO SERRA;MG;Mata Atlântica
+ANDRADAS;MG;Mata Atlântica
+ANGELÂNDIA;MG;Mata Atlântica
+ANTÔNIO CARLOS;MG;Mata Atlântica
+ANTÔNIO PRADO DE MINAS;MG;Mata Atlântica
+ARACITABA;MG;Mata Atlântica
+ARAGUARI;MG;Mata Atlântica
+ARANTINA;MG;Mata Atlântica
+ARAPORÃ;MG;Mata Atlântica
+ARAÇUAÍ;MG;Mata Atlântica
+ARCEBURGO;MG;Mata Atlântica
+ARCOS;MG;Mata Atlântica
+AREADO;MG;Mata Atlântica
+ARGIRITA;MG;Mata Atlântica
+ARICANDUVA;MG;Mata Atlântica
+ASTOLFO DUTRA;MG;Mata Atlântica
+ATALÉIA;MG;Mata Atlântica
+BANDEIRA DO SUL;MG;Mata Atlântica
+BARRA LONGA;MG;Mata Atlântica
+BARROSO;MG;Mata Atlântica
+BARÃO DE MONTE ALTO;MG;Mata Atlântica
+BELA VISTA DE MINAS;MG;Mata Atlântica
+BELMIRO BRAGA;MG;Mata Atlântica
+BELO ORIENTE;MG;Mata Atlântica
+BELO VALE;MG;Mata Atlântica
+BERIZAL;MG;Mata Atlântica
+BERTÓPOLIS;MG;Mata Atlântica
+BIAS FORTES;MG;Mata Atlântica
+BICAS;MG;Mata Atlântica
+BOA ESPERANÇA;MG;Mata Atlântica
+BOM JARDIM DE MINAS;MG;Mata Atlântica
+BOM JESUS DA PENHA;MG;Mata Atlântica
+BOM JESUS DO AMPARO;MG;Mata Atlântica
+BOM REPOUSO;MG;Mata Atlântica
+BORDA DA MATA;MG;Mata Atlântica
+BOTELHOS;MG;Mata Atlântica
+BRAÚNAS;MG;Mata Atlântica
+BRÁS PIRES;MG;Mata Atlântica
+BUGRE;MG;Mata Atlântica
+CABO VERDE;MG;Mata Atlântica
+CACHOEIRA DOURADA;MG;Mata Atlântica
+CACHOEIRA DE MINAS;MG;Mata Atlântica
+CACHOEIRA DE PAJEÚ;MG;Mata Atlântica
+CAIANA;MG;Mata Atlântica
+CAJURI;MG;Mata Atlântica
+CALDAS;MG;Mata Atlântica
+CAMACHO;MG;Mata Atlântica
+CAMBUQUIRA;MG;Mata Atlântica
+CAMPANHA;MG;Mata Atlântica
+CAMPANÁRIO;MG;Mata Atlântica
+CAMPINA VERDE;MG;Mata Atlântica
+CAMPO BELO;MG;Mata Atlântica
+CAMPO FLORIDO;MG;Mata Atlântica
+CAMPO DO MEIO;MG;Mata Atlântica
+CAMPOS GERAIS;MG;Mata Atlântica
+CANA VERDE;MG;Mata Atlântica
+CANAÃ;MG;Mata Atlântica
+CANDEIAS;MG;Mata Atlântica
+CANTAGALO;MG;Mata Atlântica
+CANÁPOLIS;MG;Mata Atlântica
+CAPELA NOVA;MG;Mata Atlântica
+CAPELINHA;MG;Mata Atlântica
+CAPETINGA;MG;Mata Atlântica
+CAPINÓPOLIS;MG;Mata Atlântica
+CAPITÃO ANDRADE;MG;Mata Atlântica
+CAPUTIRA;MG;Mata Atlântica
+CARANAÍBA;MG;Mata Atlântica
+CARANDAÍ;MG;Mata Atlântica
+CARANGOLA;MG;Mata Atlântica
+CAREAÇU;MG;Mata Atlântica
+CARLOS CHAGAS;MG;Mata Atlântica
+CARMO DA CACHOEIRA;MG;Mata Atlântica
+CARMO DA MATA;MG;Mata Atlântica
+CARMO DO CAJURU;MG;Mata Atlântica
+CARMO DO RIO CLARO;MG;Mata Atlântica
+CARMÉSIA;MG;Mata Atlântica
+CARNEIRINHO;MG;Mata Atlântica
+CARVALHOS;MG;Mata Atlântica
+CASA GRANDE;MG;Mata Atlântica
+CATAS ALTAS DA NORUEGA;MG;Mata Atlântica
+CENTRAL DE MINAS;MG;Mata Atlântica
+CENTRALINA;MG;Mata Atlântica
+CHALÉ;MG;Mata Atlântica
+CHAPADA DO NORTE;MG;Mata Atlântica
+CHIADOR;MG;Mata Atlântica
+CHÁCARA;MG;Mata Atlântica
+CIPOTÂNEA;MG;Mata Atlântica
+CLARAVAL;MG;Mata Atlântica
+COIMBRA;MG;Mata Atlântica
+COLUNA;MG;Mata Atlântica
+COMERCINHO;MG;Mata Atlântica
+CONCEIÇÃO DA APARECIDA;MG;Mata Atlântica
+CONCEIÇÃO DA BARRA DE MINAS;MG;Mata Atlântica
+CONCEIÇÃO DAS ALAGOAS;MG;Mata Atlântica
+CONCEIÇÃO DAS PEDRAS;MG;Mata Atlântica
+CONCEIÇÃO DE IPANEMA;MG;Mata Atlântica
+CONCEIÇÃO DO PARÁ;MG;Mata Atlântica
+CONCEIÇÃO DO RIO VERDE;MG;Mata Atlântica
+CONCEIÇÃO DOS OUROS;MG;Mata Atlântica
+CONGONHAS DO NORTE;MG;Mata Atlântica
+CONQUISTA;MG;Mata Atlântica
+CONSELHEIRO LAFAIETE;MG;Mata Atlântica
+CONSOLAÇÃO;MG;Mata Atlântica
+COQUEIRAL;MG;Mata Atlântica
+CORDISLÂNDIA;MG;Mata Atlântica
+COROACI;MG;Mata Atlântica
+CORONEL MURTA;MG;Mata Atlântica
+CORONEL PACHECO;MG;Mata Atlântica
+COUTO DE MAGALHÃES DE MINAS;MG;Mata Atlântica
+CRISTAIS;MG;Mata Atlântica
+CRISTIANO OTONI;MG;Mata Atlântica
+CRISTINA;MG;Mata Atlântica
+CRUCILÂNDIA;MG;Mata Atlântica
+CRUZÍLIA;MG;Mata Atlântica
+CUPARAQUE;MG;Mata Atlântica
+CURRAL DE DENTRO;MG;Mata Atlântica
+CÁSSIA;MG;Mata Atlântica
+CÓRREGO FUNDO;MG;Mata Atlântica
+CÓRREGO NOVO;MG;Mata Atlântica
+CÓRREGO DO BOM JESUS;MG;Mata Atlântica
+DATAS;MG;Mata Atlântica
+DELTA;MG;Mata Atlântica
+DESTERRO DE ENTRE RIOS;MG;Mata Atlântica
+DESTERRO DO MELO;MG;Mata Atlântica
+DIOGO DE VASCONCELOS;MG;Mata Atlântica
+DIVINO DAS LARANJEIRAS;MG;Mata Atlântica
+DIVINOLÂNDIA DE MINAS;MG;Mata Atlântica
+DIVINÉSIA;MG;Mata Atlântica
+DIVINÓPOLIS;MG;Mata Atlântica
+DIVISA ALEGRE;MG;Mata Atlântica
+DIVISA NOVA;MG;Mata Atlântica
+DIVISÓPOLIS;MG;Mata Atlântica
+DOM CAVATI;MG;Mata Atlântica
+DOM JOAQUIM;MG;Mata Atlântica
+DOM SILVÉRIO;MG;Mata Atlântica
+DOM VIÇOSO;MG;Mata Atlântica
+DONA EUZÉBIA;MG;Mata Atlântica
+DORES DE CAMPOS;MG;Mata Atlântica
+DORES DO TURVO;MG;Mata Atlântica
+DURANDÉ;MG;Mata Atlântica
+ELÓI MENDES;MG;Mata Atlântica
+ENGENHEIRO CALDAS;MG;Mata Atlântica
+ENTRE FOLHAS;MG;Mata Atlântica
+ENTRE RIOS DE MINAS;MG;Mata Atlântica
+ESMERALDAS;MG;Mata Atlântica
+ESTRELA DALVA;MG;Mata Atlântica
+EUGENÓPOLIS;MG;Mata Atlântica
+EWBANK DA CÂMARA;MG;Mata Atlântica
+FARIA LEMOS;MG;Mata Atlântica
+FELISBURGO;MG;Mata Atlântica
+FELÍCIO DOS SANTOS;MG;Mata Atlântica
+FERNANDES TOURINHO;MG;Mata Atlântica
+FERROS;MG;Mata Atlântica
+FLORESTAL;MG;Mata Atlântica
+FORMIGA;MG;Mata Atlântica
+FORTALEZA DE MINAS;MG;Mata Atlântica
+FRANCISCO BADARÓ;MG;Mata Atlântica
+FRANCISCÓPOLIS;MG;Mata Atlântica
+FREI GASPAR;MG;Mata Atlântica
+FREI INOCÊNCIO;MG;Mata Atlântica
+FREI LAGONEGRO;MG;Mata Atlântica
+FRONTEIRA;MG;Mata Atlântica
+FRONTEIRA DOS VALES;MG;Mata Atlântica
+FRUTA DE LEITE;MG;Mata Atlântica
+FRUTAL;MG;Mata Atlântica
+GALILÉIA;MG;Mata Atlântica
+GOIABEIRA;MG;Mata Atlântica
+GOIANÁ;MG;Mata Atlântica
+GONZAGA;MG;Mata Atlântica
+GUARANI;MG;Mata Atlântica
+GUARANÉSIA;MG;Mata Atlântica
+GUARARÁ;MG;Mata Atlântica
+GUAXUPÉ;MG;Mata Atlântica
+GUIDOVAL;MG;Mata Atlântica
+GUIRICEMA;MG;Mata Atlântica
+GURINHATÃ;MG;Mata Atlântica
+HELIODORA;MG;Mata Atlântica
+IAPU;MG;Mata Atlântica
+IBERTIOGA;MG;Mata Atlântica
+IBIRACI;MG;Mata Atlântica
+IBITIÚRA DE MINAS;MG;Mata Atlântica
+IBITURUNA;MG;Mata Atlântica
+IGARAPÉ;MG;Mata Atlântica
+IGARATINGA;MG;Mata Atlântica
+IMBÉ DE MINAS;MG;Mata Atlântica
+INCONFIDENTES;MG;Mata Atlântica
+INDAIABIRA;MG;Mata Atlântica
+INGAÍ;MG;Mata Atlântica
+INHAPIM;MG;Mata Atlântica
+IPANEMA;MG;Mata Atlântica
+IPATINGA;MG;Mata Atlântica
+IPIAÇU;MG;Mata Atlântica
+ITABIRINHA;MG;Mata Atlântica
+ITAGUARA;MG;Mata Atlântica
+ITAJUBÁ;MG;Mata Atlântica
+ITAMARANDIBA;MG;Mata Atlântica
+ITAMBACURI;MG;Mata Atlântica
+ITAMBÉ DO MATO DENTRO;MG;Mata Atlântica
+ITAMOGI;MG;Mata Atlântica
+ITANHOMI;MG;Mata Atlântica
+ITAOBIM;MG;Mata Atlântica
+ITAPAGIPE;MG;Mata Atlântica
+ITAPECERICA;MG;Mata Atlântica
+ITATIAIUÇU;MG;Mata Atlântica
+ITAÚ DE MINAS;MG;Mata Atlântica
+ITAÚNA;MG;Mata Atlântica
+ITINGA;MG;Mata Atlântica
+ITUIUTABA;MG;Mata Atlântica
+ITUMIRIM;MG;Mata Atlântica
+ITURAMA;MG;Mata Atlântica
+ITUTINGA;MG;Mata Atlântica
+JACINTO;MG;Mata Atlântica
+JACUÍ;MG;Mata Atlântica
+JAGUARAÇU;MG;Mata Atlântica
+JAMPRUCA;MG;Mata Atlântica
+JAPARAÍBA;MG;Mata Atlântica
+JENIPAPO DE MINAS;MG;Mata Atlântica
+JEQUERI;MG;Mata Atlântica
+JESUÂNIA;MG;Mata Atlântica
+JOANÉSIA;MG;Mata Atlântica
+JOAÍMA;MG;Mata Atlântica
+JORDÂNIA;MG;Mata Atlântica
+JOSÉ RAYDAN;MG;Mata Atlântica
+JUATUBA;MG;Mata Atlântica
+JURUAIA;MG;Mata Atlântica
+LAGOA DOURADA;MG;Mata Atlântica
+LAGOA DA PRATA;MG;Mata Atlântica
+LAJINHA;MG;Mata Atlântica
+LAMIM;MG;Mata Atlântica
+LARANJAL;MG;Mata Atlântica
+LAVRAS;MG;Mata Atlântica
+LEANDRO FERREIRA;MG;Mata Atlântica
+LIMEIRA DO OESTE;MG;Mata Atlântica
+LUMINÁRIAS;MG;Mata Atlântica
+MACHACALIS;MG;Mata Atlântica
+MADRE DE DEUS DE MINAS;MG;Mata Atlântica
+MANHUAÇU;MG;Mata Atlântica
+MANHUMIRIM;MG;Mata Atlântica
+MANTENA;MG;Mata Atlântica
+MARAVILHAS;MG;Mata Atlântica
+MARIA DA FÉ;MG;Mata Atlântica
+MARILAC;MG;Mata Atlântica
+MARIPÁ DE MINAS;MG;Mata Atlântica
+MARTINS SOARES;MG;Mata Atlântica
+MATA VERDE;MG;Mata Atlântica
+MATERLÂNDIA;MG;Mata Atlântica
+MATEUS LEME;MG;Mata Atlântica
+MATHIAS LOBATO;MG;Mata Atlântica
+MATIAS BARBOSA;MG;Mata Atlântica
+MATIPÓ;MG;Mata Atlântica
+MEDINA;MG;Mata Atlântica
+MENDES PIMENTEL;MG;Mata Atlântica
+MERCÊS;MG;Mata Atlântica
+MESQUITA;MG;Mata Atlântica
+MINAS NOVAS;MG;Mata Atlântica
+MINDURI;MG;Mata Atlântica
+MIRAÍ;MG;Mata Atlântica
+MONSENHOR PAULO;MG;Mata Atlântica
+MONTE ALEGRE DE MINAS;MG;Mata Atlântica
+MONTE BELO;MG;Mata Atlântica
+MONTE FORMOSO;MG;Mata Atlântica
+MONTE SANTO DE MINAS;MG;Mata Atlântica
+MUNHOZ;MG;Mata Atlântica
+MUTUM;MG;Mata Atlântica
+MUZAMBINHO;MG;Mata Atlântica
+NACIP RAYDAN;MG;Mata Atlântica
+NANUQUE;MG;Mata Atlântica
+NAQUE;MG;Mata Atlântica
+NATÉRCIA;MG;Mata Atlântica
+NEPOMUCENO;MG;Mata Atlântica
+NINHEIRA;MG;Mata Atlântica
+NOVA BELÉM;MG;Mata Atlântica
+NOVA MÓDICA;MG;Mata Atlântica
+NOVA RESENDE;MG;Mata Atlântica
+NOVA UNIÃO;MG;Mata Atlântica
+NOVO ORIENTE DE MINAS;MG;Mata Atlântica
+NOVORIZONTE;MG;Mata Atlântica
+OLIVEIRA;MG;Mata Atlântica
+OLIVEIRA FORTES;MG;Mata Atlântica
+OLÍMPIO NORONHA;MG;Mata Atlântica
+ONÇA DE PITANGUI;MG;Mata Atlântica
+ORATÓRIOS;MG;Mata Atlântica
+ORIZÂNIA;MG;Mata Atlântica
+OURO FINO;MG;Mata Atlântica
+OURO VERDE DE MINAS;MG;Mata Atlântica
+PAIVA;MG;Mata Atlântica
+PALMA;MG;Mata Atlântica
+PALMÓPOLIS;MG;Mata Atlântica
+PAPAGAIOS;MG;Mata Atlântica
+PASSA TEMPO;MG;Mata Atlântica
+PASSABÉM;MG;Mata Atlântica
+PATROCÍNIO DO MURIAÉ;MG;Mata Atlântica
+PAULA CÂNDIDO;MG;Mata Atlântica
+PAULISTAS;MG;Mata Atlântica
+PAVÃO;MG;Mata Atlântica
+PEDRA AZUL;MG;Mata Atlântica
+PEDRA DOURADA;MG;Mata Atlântica
+PEDRA DO INDAIÁ;MG;Mata Atlântica
+PEDRALVA;MG;Mata Atlântica
+PEDRO TEIXEIRA;MG;Mata Atlântica
+PEQUERI;MG;Mata Atlântica
+PEQUI;MG;Mata Atlântica
+PERDIGÃO;MG;Mata Atlântica
+PERIQUITO;MG;Mata Atlântica
+PESCADOR;MG;Mata Atlântica
+PEÇANHA;MG;Mata Atlântica
+PIAU;MG;Mata Atlântica
+PIEDADE DE CARATINGA;MG;Mata Atlântica
+PIEDADE DE PONTE NOVA;MG;Mata Atlântica
+PIEDADE DO RIO GRANDE;MG;Mata Atlântica
+PIEDADE DOS GERAIS;MG;Mata Atlântica
+PINGO-D'ÁGUA;MG;Mata Atlântica
+PIRAJUBA;MG;Mata Atlântica
+PIRANGUINHO;MG;Mata Atlântica
+PIRAPETINGA;MG;Mata Atlântica
+PIRAÚBA;MG;Mata Atlântica
+PITANGUI;MG;Mata Atlântica
+PLANURA;MG;Mata Atlântica
+POCRANE;MG;Mata Atlântica
+PONTO DOS VOLANTES;MG;Mata Atlântica
+PORTO FIRME;MG;Mata Atlântica
+PRATÁPOLIS;MG;Mata Atlântica
+PRESIDENTE BERNARDES;MG;Mata Atlântica
+PRESIDENTE KUBITSCHEK;MG;Mata Atlântica
+QUELUZITO;MG;Mata Atlântica
+RAUL SOARES;MG;Mata Atlântica
+RECREIO;MG;Mata Atlântica
+REDUTO;MG;Mata Atlântica
+RESENDE COSTA;MG;Mata Atlântica
+RESSAQUINHA;MG;Mata Atlântica
+RIBEIRÃO VERMELHO;MG;Mata Atlântica
+RIO CASCA;MG;Mata Atlântica
+RIO DOCE;MG;Mata Atlântica
+RIO ESPERA;MG;Mata Atlântica
+RIO MANSO;MG;Mata Atlântica
+RIO POMBA;MG;Mata Atlântica
+RIO VERMELHO;MG;Mata Atlântica
+RIO DO PRADO;MG;Mata Atlântica
+ROCHEDO DE MINAS;MG;Mata Atlântica
+RODEIRO;MG;Mata Atlântica
+RUBELITA;MG;Mata Atlântica
+RUBIM;MG;Mata Atlântica
+SABINÓPOLIS;MG;Mata Atlântica
+SACRAMENTO;MG;Mata Atlântica
+SALINAS;MG;Mata Atlântica
+SANTA BÁRBARA DO LESTE;MG;Mata Atlântica
+SANTA BÁRBARA DO TUGÚRIO;MG;Mata Atlântica
+SANTA CRUZ DE SALINAS;MG;Mata Atlântica
+SANTA CRUZ DO ESCALVADO;MG;Mata Atlântica
+SANTA EFIGÊNIA DE MINAS;MG;Mata Atlântica
+SANTA HELENA DE MINAS;MG;Mata Atlântica
+SANTA LUZIA;MG;Mata Atlântica
+SANTA MARIA DO SUAÇUÍ;MG;Mata Atlântica
+SANTA RITA DE CALDAS;MG;Mata Atlântica
+SANTA RITA DE IBITIPOCA;MG;Mata Atlântica
+SANTA RITA DE MINAS;MG;Mata Atlântica
+SANTA VITÓRIA;MG;Mata Atlântica
+SANTANA DA VARGEM;MG;Mata Atlântica
+SANTANA DO DESERTO;MG;Mata Atlântica
+SANTANA DO GARAMBÉU;MG;Mata Atlântica
+SANTANA DO JACARÉ;MG;Mata Atlântica
+SANTANA DO MANHUAÇU;MG;Mata Atlântica
+SANTANA DO RIACHO;MG;Mata Atlântica
+SANTANA DOS MONTES;MG;Mata Atlântica
+SANTO ANTÔNIO DO AMPARO;MG;Mata Atlântica
+SANTO ANTÔNIO DO AVENTUREIRO;MG;Mata Atlântica
+SANTO ANTÔNIO DO ITAMBÉ;MG;Mata Atlântica
+SANTO ANTÔNIO DO JACINTO;MG;Mata Atlântica
+SANTO ANTÔNIO DO MONTE;MG;Mata Atlântica
+SANTO ANTÔNIO DO RIO ABAIXO;MG;Mata Atlântica
+SARDOÁ;MG;Mata Atlântica
+SEM-PEIXE;MG;Mata Atlântica
+SENADOR AMARAL;MG;Mata Atlântica
+SENADOR CORTES;MG;Mata Atlântica
+SENADOR JOSÉ BENTO;MG;Mata Atlântica
+SENADOR MODESTINO GONÇALVES;MG;Mata Atlântica
+SENHORA DE OLIVEIRA;MG;Mata Atlântica
+SENHORA DO PORTO;MG;Mata Atlântica
+SENHORA DOS REMÉDIOS;MG;Mata Atlântica
+SERITINGA;MG;Mata Atlântica
+SERRA AZUL DE MINAS;MG;Mata Atlântica
+SERRA DOS AIMORÉS;MG;Mata Atlântica
+SERRANIA;MG;Mata Atlântica
+SERRANOS;MG;Mata Atlântica
+SERRO;MG;Mata Atlântica
+SETUBINHA;MG;Mata Atlântica
+SILVEIRÂNIA;MG;Mata Atlântica
+SILVIANÓPOLIS;MG;Mata Atlântica
+SIMÃO PEREIRA;MG;Mata Atlântica
+SOBRÁLIA;MG;Mata Atlântica
+SÃO BENTO ABADE;MG;Mata Atlântica
+SÃO BRÁS DO SUAÇUÍ;MG;Mata Atlântica
+SÃO DOMINGOS DAS DORES;MG;Mata Atlântica
+SÃO FRANCISCO DE PAULA;MG;Mata Atlântica
+SÃO FRANCISCO DE SALES;MG;Mata Atlântica
+SÃO FRANCISCO DO GLÓRIA;MG;Mata Atlântica
+SÃO FÉLIX DE MINAS;MG;Mata Atlântica
+SÃO GERALDO;MG;Mata Atlântica
+SÃO GERALDO DA PIEDADE;MG;Mata Atlântica
+SÃO GERALDO DO BAIXIO;MG;Mata Atlântica
+SÃO GONÇALO DO SAPUCAÍ;MG;Mata Atlântica
+SÃO JOAQUIM DE BICAS;MG;Mata Atlântica
+SÃO JOSÉ DA SAFIRA;MG;Mata Atlântica
+SÃO JOSÉ DA VARGINHA;MG;Mata Atlântica
+SÃO JOSÉ DO ALEGRE;MG;Mata Atlântica
+SÃO JOSÉ DO DIVINO;MG;Mata Atlântica
+SÃO JOSÉ DO GOIABAL;MG;Mata Atlântica
+SÃO JOSÉ DO JACURI;MG;Mata Atlântica
+SÃO JOSÉ DO MANTIMENTO;MG;Mata Atlântica
+SÃO JOÃO EVANGELISTA;MG;Mata Atlântica
+SÃO JOÃO DO MANTENINHA;MG;Mata Atlântica
+SÃO JOÃO DO ORIENTE;MG;Mata Atlântica
+SÃO JOÃO DO PARAÍSO;MG;Mata Atlântica
+SÃO LOURENÇO;MG;Mata Atlântica
+SÃO MIGUEL DO ANTA;MG;Mata Atlântica
+SÃO PEDRO DA UNIÃO;MG;Mata Atlântica
+SÃO PEDRO DOS FERROS;MG;Mata Atlântica
+SÃO SEBASTIÃO DA BELA VISTA;MG;Mata Atlântica
+SÃO SEBASTIÃO DA VARGEM ALEGRE;MG;Mata Atlântica
+SÃO SEBASTIÃO DO ANTA;MG;Mata Atlântica
+SÃO SEBASTIÃO DO MARANHÃO;MG;Mata Atlântica
+SÃO SEBASTIÃO DO OESTE;MG;Mata Atlântica
+SÃO SEBASTIÃO DO PARAÍSO;MG;Mata Atlântica
+SÃO SEBASTIÃO DO RIO PRETO;MG;Mata Atlântica
+SÃO SEBASTIÃO DO RIO VERDE;MG;Mata Atlântica
+SÃO TIAGO;MG;Mata Atlântica
+SÃO TOMÁS DE AQUINO;MG;Mata Atlântica
+SÃO TOMÉ DAS LETRAS;MG;Mata Atlântica
+SÃO VICENTE DE MINAS;MG;Mata Atlântica
+TABULEIRO;MG;Mata Atlântica
+TAIOBEIRAS;MG;Mata Atlântica
+TAQUARAÇU DE MINAS;MG;Mata Atlântica
+TARUMIRIM;MG;Mata Atlântica
+TEIXEIRAS;MG;Mata Atlântica
+TOCANTINS;MG;Mata Atlântica
+TOCOS DO MOJI;MG;Mata Atlântica
+TRÊS CORAÇÕES;MG;Mata Atlântica
+TRÊS PONTAS;MG;Mata Atlântica
+TUMIRITINGA;MG;Mata Atlântica
+TUPACIGUARA;MG;Mata Atlântica
+TURVOLÂNDIA;MG;Mata Atlântica
+UBAPORANGA;MG;Mata Atlântica
+UBERABA;MG;Mata Atlântica
+UBERLÂNDIA;MG;Mata Atlântica
+UBÁ;MG;Mata Atlântica
+UMBURATIBA;MG;Mata Atlântica
+URUCÂNIA;MG;Mata Atlântica
+VARGEM ALEGRE;MG;Mata Atlântica
+VARGINHA;MG;Mata Atlântica
+VEREDINHA;MG;Mata Atlântica
+VERMELHO NOVO;MG;Mata Atlântica
+VERÍSSIMO;MG;Mata Atlântica
+VIEIRAS;MG;Mata Atlântica
+VIRGEM DA LAPA;MG;Mata Atlântica
+VIRGINÓPOLIS;MG;Mata Atlântica
+VIRGOLÂNDIA;MG;Mata Atlântica
+VISCONDE DO RIO BRANCO;MG;Mata Atlântica
+VOLTA GRANDE;MG;Mata Atlântica
+ÁGUA BOA;MG;Mata Atlântica
+ÁGUA COMPRIDA;MG;Mata Atlântica
+ÁGUAS FORMOSAS;MG;Mata Atlântica
+ÁGUAS VERMELHAS;MG;Mata Atlântica
+ABATIÁ;PR;Mata Atlântica
+AGUDOS DO SUL;PR;Mata Atlântica
+ALTAMIRA DO PARANÁ;PR;Mata Atlântica
+ALTO PARANÁ;PR;Mata Atlântica
+ALTO PIQUIRI;PR;Mata Atlântica
+ALVORADA DO SUL;PR;Mata Atlântica
+AMPÉRE;PR;Mata Atlântica
+ANAHY;PR;Mata Atlântica
+ANDIRÁ;PR;Mata Atlântica
+ANTÔNIO OLINTO;PR;Mata Atlântica
+APUCARANA;PR;Mata Atlântica
+ARAPONGAS;PR;Mata Atlântica
+ARAPUÃ;PR;Mata Atlântica
+ARARUNA;PR;Mata Atlântica
+ARIRANHA DO IVAÍ;PR;Mata Atlântica
+ASSAÍ;PR;Mata Atlântica
+ASSIS CHATEAUBRIAND;PR;Mata Atlântica
+ASTORGA;PR;Mata Atlântica
+ATALAIA;PR;Mata Atlântica
+BANDEIRANTES;PR;Mata Atlântica
+BARBOSA FERRAZ;PR;Mata Atlântica
+BARRA DO JACARÉ;PR;Mata Atlântica
+BARRACÃO;PR;Mata Atlântica
+BELA VISTA DA CAROBA;PR;Mata Atlântica
+BELA VISTA DO PARAÍSO;PR;Mata Atlântica
+BITURUNA;PR;Mata Atlântica
+BOA ESPERANÇA;PR;Mata Atlântica
+BOA ESPERANÇA DO IGUAÇU;PR;Mata Atlântica
+BOA VENTURA DE SÃO ROQUE;PR;Mata Atlântica
+BOA VISTA DA APARECIDA;PR;Mata Atlântica
+BOM JESUS DO SUL;PR;Mata Atlântica
+BOM SUCESSO;PR;Mata Atlântica
+BOM SUCESSO DO SUL;PR;Mata Atlântica
+BORRAZÓPOLIS;PR;Mata Atlântica
+BRAGANEY;PR;Mata Atlântica
+BRASILÂNDIA DO SUL;PR;Mata Atlântica
+CAFEARA;PR;Mata Atlântica
+CAFELÂNDIA;PR;Mata Atlântica
+CAFEZAL DO SUL;PR;Mata Atlântica
+CALIFÓRNIA;PR;Mata Atlântica
+CAMBARÁ;PR;Mata Atlântica
+CAMBIRA;PR;Mata Atlântica
+CAMPINA DA LAGOA;PR;Mata Atlântica
+CAMPINA DO SIMÃO;PR;Mata Atlântica
+CAMPO BONITO;PR;Mata Atlântica
+CAMPO DO TENENTE;PR;Mata Atlântica
+CANTAGALO;PR;Mata Atlântica
+CAPANEMA;PR;Mata Atlântica
+CAPITÃO LEÔNIDAS MARQUES;PR;Mata Atlântica
+CARLÓPOLIS;PR;Mata Atlântica
+CASCAVEL;PR;Mata Atlântica
+CATANDUVAS;PR;Mata Atlântica
+CHOPINZINHO;PR;Mata Atlântica
+CIDADE GAÚCHA;PR;Mata Atlântica
+COLORADO;PR;Mata Atlântica
+CONGONHINHAS;PR;Mata Atlântica
+CONSELHEIRO MAIRINCK;PR;Mata Atlântica
+CONTENDA;PR;Mata Atlântica
+CORBÉLIA;PR;Mata Atlântica
+CORONEL DOMINGOS SOARES;PR;Mata Atlântica
+CORONEL VIVIDA;PR;Mata Atlântica
+CORUMBATAÍ DO SUL;PR;Mata Atlântica
+CRUZEIRO DO IGUAÇU;PR;Mata Atlântica
+CRUZEIRO DO OESTE;PR;Mata Atlântica
+CRUZEIRO DO SUL;PR;Mata Atlântica
+CRUZMALTINA;PR;Mata Atlântica
+CURIÚVA;PR;Mata Atlântica
+CÂNDIDO DE ABREU;PR;Mata Atlântica
+DIAMANTE D'OESTE;PR;Mata Atlântica
+DIAMANTE DO SUL;PR;Mata Atlântica
+DOIS VIZINHOS;PR;Mata Atlântica
+DOURADINA;PR;Mata Atlântica
+DOUTOR CAMARGO;PR;Mata Atlântica
+DOUTOR ULYSSES;PR;Mata Atlântica
+ENGENHEIRO BELTRÃO;PR;Mata Atlântica
+ENTRE RIOS DO OESTE;PR;Mata Atlântica
+ENÉAS MARQUES;PR;Mata Atlântica
+ESPERANÇA NOVA;PR;Mata Atlântica
+ESPIGÃO ALTO DO IGUAÇU;PR;Mata Atlântica
+FAROL;PR;Mata Atlântica
+FAXINAL;PR;Mata Atlântica
+FIGUEIRA;PR;Mata Atlântica
+FLOR DA SERRA DO SUL;PR;Mata Atlântica
+FLORAÍ;PR;Mata Atlântica
+FLORESTA;PR;Mata Atlântica
+FLORESTÓPOLIS;PR;Mata Atlântica
+FLÓRIDA;PR;Mata Atlântica
+FORMOSA DO OESTE;PR;Mata Atlântica
+FRANCISCO ALVES;PR;Mata Atlântica
+FRANCISCO BELTRÃO;PR;Mata Atlântica
+FÊNIX;PR;Mata Atlântica
+GODOY MOREIRA;PR;Mata Atlântica
+GOIOERÊ;PR;Mata Atlântica
+GOIOXIM;PR;Mata Atlântica
+GRANDES RIOS;PR;Mata Atlântica
+GUAIRAÇÁ;PR;Mata Atlântica
+GUAMIRANGA;PR;Mata Atlântica
+GUAPIRAMA;PR;Mata Atlântica
+GUAPOREMA;PR;Mata Atlântica
+GUARACI;PR;Mata Atlântica
+GUARANIAÇU;PR;Mata Atlântica
+IBAITI;PR;Mata Atlântica
+IBEMA;PR;Mata Atlântica
+IGUARAÇU;PR;Mata Atlântica
+IGUATU;PR;Mata Atlântica
+IMBAÚ;PR;Mata Atlântica
+INAJÁ;PR;Mata Atlântica
+INDIANÓPOLIS;PR;Mata Atlântica
+IPORÃ;PR;Mata Atlântica
+IRACEMA DO OESTE;PR;Mata Atlântica
+IRETAMA;PR;Mata Atlântica
+ITAGUAJÉ;PR;Mata Atlântica
+ITAIPULÂNDIA;PR;Mata Atlântica
+ITAMBARACÁ;PR;Mata Atlântica
+ITAMBÉ;PR;Mata Atlântica
+ITAPEJARA D'OESTE;PR;Mata Atlântica
+ITAPERUÇU;PR;Mata Atlântica
+ITAÚNA DO SUL;PR;Mata Atlântica
+IVAIPORÃ;PR;Mata Atlântica
+IVATUBA;PR;Mata Atlântica
+IVAÍ;PR;Mata Atlântica
+JABOTI;PR;Mata Atlântica
+JACAREZINHO;PR;Mata Atlântica
+JAGUAPITÃ;PR;Mata Atlântica
+JANDAIA DO SUL;PR;Mata Atlântica
+JANIÓPOLIS;PR;Mata Atlântica
+JAPIRA;PR;Mata Atlântica
+JAPURÁ;PR;Mata Atlântica
+JARDIM ALEGRE;PR;Mata Atlântica
+JARDIM OLINDA;PR;Mata Atlântica
+JATAIZINHO;PR;Mata Atlântica
+JESUÍTAS;PR;Mata Atlântica
+JOAQUIM TÁVORA;PR;Mata Atlântica
+JUNDIAÍ DO SUL;PR;Mata Atlântica
+JURANDA;PR;Mata Atlântica
+JUSSARA;PR;Mata Atlântica
+KALORÉ;PR;Mata Atlântica
+LARANJAL;PR;Mata Atlântica
+LARANJEIRAS DO SUL;PR;Mata Atlântica
+LEÓPOLIS;PR;Mata Atlântica
+LIDIANÓPOLIS;PR;Mata Atlântica
+LINDOESTE;PR;Mata Atlântica
+LOANDA;PR;Mata Atlântica
+LOBATO;PR;Mata Atlântica
+LUNARDELLI;PR;Mata Atlântica
+LUPIONÓPOLIS;PR;Mata Atlântica
+MAMBORÊ;PR;Mata Atlântica
+MANDAGUARI;PR;Mata Atlântica
+MANDAGUAÇU;PR;Mata Atlântica
+MANDIRITUBA;PR;Mata Atlântica
+MANFRINÓPOLIS;PR;Mata Atlântica
+MANGUEIRINHA;PR;Mata Atlântica
+MANOEL RIBAS;PR;Mata Atlântica
+MARECHAL CÂNDIDO RONDON;PR;Mata Atlântica
+MARIA HELENA;PR;Mata Atlântica
+MARIALVA;PR;Mata Atlântica
+MARILUZ;PR;Mata Atlântica
+MARILÂNDIA DO SUL;PR;Mata Atlântica
+MARINGÁ;PR;Mata Atlântica
+MARIPÁ;PR;Mata Atlântica
+MARIÓPOLIS;PR;Mata Atlântica
+MARMELEIRO;PR;Mata Atlântica
+MARQUINHO;PR;Mata Atlântica
+MARUMBI;PR;Mata Atlântica
+MATO RICO;PR;Mata Atlântica
+MAUÁ DA SERRA;PR;Mata Atlântica
+MERCEDES;PR;Mata Atlântica
+MIRADOR;PR;Mata Atlântica
+MIRASELVA;PR;Mata Atlântica
+MISSAL;PR;Mata Atlântica
+MOREIRA SALES;PR;Mata Atlântica
+MUNHOZ DE MELO;PR;Mata Atlântica
+NOSSA SENHORA DAS GRAÇAS;PR;Mata Atlântica
+NOVA ALIANÇA DO IVAÍ;PR;Mata Atlântica
+NOVA AMÉRICA DA COLINA;PR;Mata Atlântica
+NOVA AURORA;PR;Mata Atlântica
+NOVA CANTU;PR;Mata Atlântica
+NOVA ESPERANÇA;PR;Mata Atlântica
+NOVA ESPERANÇA DO SUDOESTE;PR;Mata Atlântica
+NOVA FÁTIMA;PR;Mata Atlântica
+NOVA LARANJEIRAS;PR;Mata Atlântica
+NOVA OLÍMPIA;PR;Mata Atlântica
+NOVA PRATA DO IGUAÇU;PR;Mata Atlântica
+NOVA SANTA BÁRBARA;PR;Mata Atlântica
+NOVA SANTA ROSA;PR;Mata Atlântica
+NOVA TEBAS;PR;Mata Atlântica
+NOVO ITACOLOMI;PR;Mata Atlântica
+ORTIGUEIRA;PR;Mata Atlântica
+OURIZONA;PR;Mata Atlântica
+OURO VERDE DO OESTE;PR;Mata Atlântica
+PAIÇANDU;PR;Mata Atlântica
+PALMITAL;PR;Mata Atlântica
+PARANACITY;PR;Mata Atlântica
+PARANAPOEMA;PR;Mata Atlântica
+PARANAVAÍ;PR;Mata Atlântica
+PARAÍSO DO NORTE;PR;Mata Atlântica
+PATO BRAGADO;PR;Mata Atlântica
+PEABIRU;PR;Mata Atlântica
+PEROBAL;PR;Mata Atlântica
+PINHAL DE SÃO BENTO;PR;Mata Atlântica
+PINHALÃO;PR;Mata Atlântica
+PITANGUEIRAS;PR;Mata Atlântica
+PIÊN;PR;Mata Atlântica
+PLANALTINA DO PARANÁ;PR;Mata Atlântica
+PLANALTO;PR;Mata Atlântica
+PORECATU;PR;Mata Atlântica
+PORTO BARREIRO;PR;Mata Atlântica
+PORTO VITÓRIA;PR;Mata Atlântica
+PRADO FERREIRA;PR;Mata Atlântica
+PRANCHITA;PR;Mata Atlântica
+PRESIDENTE CASTELO BRANCO;PR;Mata Atlântica
+PRIMEIRO DE MAIO;PR;Mata Atlântica
+PÉROLA;PR;Mata Atlântica
+PÉROLA D'OESTE;PR;Mata Atlântica
+QUARTO CENTENÁRIO;PR;Mata Atlântica
+QUATIGUÁ;PR;Mata Atlântica
+QUATRO PONTES;PR;Mata Atlântica
+QUINTA DO SOL;PR;Mata Atlântica
+QUITANDINHA;PR;Mata Atlântica
+RAMILÂNDIA;PR;Mata Atlântica
+RANCHO ALEGRE;PR;Mata Atlântica
+RANCHO ALEGRE D'OESTE;PR;Mata Atlântica
+REALEZA;PR;Mata Atlântica
+REBOUÇAS;PR;Mata Atlântica
+RENASCENÇA;PR;Mata Atlântica
+RESERVA;PR;Mata Atlântica
+RIBEIRÃO CLARO;PR;Mata Atlântica
+RIBEIRÃO DO PINHAL;PR;Mata Atlântica
+RIO BOM;PR;Mata Atlântica
+RIO BONITO DO IGUAÇU;PR;Mata Atlântica
+RIO BRANCO DO IVAÍ;PR;Mata Atlântica
+RIO NEGRO;PR;Mata Atlântica
+ROLÂNDIA;PR;Mata Atlântica
+RONDON;PR;Mata Atlântica
+ROSÁRIO DO IVAÍ;PR;Mata Atlântica
+SABÁUDIA;PR;Mata Atlântica
+SALGADO FILHO;PR;Mata Atlântica
+SALTO DO ITARARÉ;PR;Mata Atlântica
+SALTO DO LONTRA;PR;Mata Atlântica
+SANTA AMÉLIA;PR;Mata Atlântica
+SANTA CECÍLIA DO PAVÃO;PR;Mata Atlântica
+SANTA FÉ;PR;Mata Atlântica
+SANTA HELENA;PR;Mata Atlântica
+SANTA INÊS;PR;Mata Atlântica
+SANTA ISABEL DO IVAÍ;PR;Mata Atlântica
+SANTA IZABEL DO OESTE;PR;Mata Atlântica
+SANTA LÚCIA;PR;Mata Atlântica
+SANTA MARIA DO OESTE;PR;Mata Atlântica
+SANTA MÔNICA;PR;Mata Atlântica
+SANTA TEREZA DO OESTE;PR;Mata Atlântica
+SANTA TEREZINHA DE ITAIPU;PR;Mata Atlântica
+SANTANA DO ITARARÉ;PR;Mata Atlântica
+SANTO ANTÔNIO DA PLATINA;PR;Mata Atlântica
+SANTO ANTÔNIO DO CAIUÁ;PR;Mata Atlântica
+SANTO ANTÔNIO DO PARAÍSO;PR;Mata Atlântica
+SANTO ANTÔNIO DO SUDOESTE;PR;Mata Atlântica
+SANTO INÁCIO;PR;Mata Atlântica
+SAPOPEMA;PR;Mata Atlântica
+SARANDI;PR;Mata Atlântica
+SAUDADE DO IGUAÇU;PR;Mata Atlântica
+SERRANÓPOLIS DO IGUAÇU;PR;Mata Atlântica
+SERTANEJA;PR;Mata Atlântica
+SERTANÓPOLIS;PR;Mata Atlântica
+SIQUEIRA CAMPOS;PR;Mata Atlântica
+SULINA;PR;Mata Atlântica
+SÃO CARLOS DO IVAÍ;PR;Mata Atlântica
+SÃO JORGE D'OESTE;PR;Mata Atlântica
+SÃO JORGE DO IVAÍ;PR;Mata Atlântica
+SÃO JOSÉ DA BOA VISTA;PR;Mata Atlântica
+SÃO JOSÉ DAS PALMEIRAS;PR;Mata Atlântica
+SÃO JOÃO;PR;Mata Atlântica
+SÃO JOÃO DO CAIUÁ;PR;Mata Atlântica
+SÃO JOÃO DO IVAÍ;PR;Mata Atlântica
+SÃO JOÃO DO TRIUNFO;PR;Mata Atlântica
+SÃO MANOEL DO PARANÁ;PR;Mata Atlântica
+SÃO MATEUS DO SUL;PR;Mata Atlântica
+SÃO PEDRO DO IVAÍ;PR;Mata Atlântica
+SÃO SEBASTIÃO DA AMOREIRA;PR;Mata Atlântica
+SÃO TOMÉ;PR;Mata Atlântica
+TAMARANA;PR;Mata Atlântica
+TAMBOARA;PR;Mata Atlântica
+TAPEJARA;PR;Mata Atlântica
+TAPIRA;PR;Mata Atlântica
+TELÊMACO BORBA;PR;Mata Atlântica
+TERRA BOA;PR;Mata Atlântica
+TERRA RICA;PR;Mata Atlântica
+TOLEDO;PR;Mata Atlântica
+TOMAZINA;PR;Mata Atlântica
+TUPÃSSI;PR;Mata Atlântica
+UBIRATÃ;PR;Mata Atlântica
+UMUARAMA;PR;Mata Atlântica
+UNIFLOR;PR;Mata Atlântica
+URAÍ;PR;Mata Atlântica
+VENTANIA;PR;Mata Atlântica
+VERA CRUZ DO OESTE;PR;Mata Atlântica
+VERÊ;PR;Mata Atlântica
+VIRMOND;PR;Mata Atlântica
+VITORINO;PR;Mata Atlântica
+WENCESLAU BRAZ;PR;Mata Atlântica
+XAMBRÊ;PR;Mata Atlântica
+ÂNGULO;PR;Mata Atlântica
+CAPIM;PB;Mata Atlântica
+CRUZ DO ESPÍRITO SANTO;PB;Mata Atlântica
+CUITÉ DE MAMANGUAPE;PB;Mata Atlântica
+ITABAIANA;PB;Mata Atlântica
+ITAPOROROCA;PB;Mata Atlântica
+JACARAÚ;PB;Mata Atlântica
+JURIPIRANGA;PB;Mata Atlântica
+MARI;PB;Mata Atlântica
+NATUBA;PB;Mata Atlântica
+PEDRAS DE FOGO;PB;Mata Atlântica
+PILAR;PB;Mata Atlântica
+SALGADO DE SÃO FÉLIX;PB;Mata Atlântica
+SÃO MIGUEL DE TAIPU;PB;Mata Atlântica
+UMBUZEIRO;PB;Mata Atlântica
+AGRESTINA;PE;Mata Atlântica
+ALIANÇA;PE;Mata Atlântica
+ALTINHO;PE;Mata Atlântica
+AMARAJI;PE;Mata Atlântica
+ANGELIM;PE;Mata Atlântica
+BARRA DE GUABIRABA;PE;Mata Atlântica
+BELÉM DE MARIA;PE;Mata Atlântica
+BEZERROS;PE;Mata Atlântica
+BOM CONSELHO;PE;Mata Atlântica
+BOM JARDIM;PE;Mata Atlântica
+BONITO;PE;Mata Atlântica
+BREJÃO;PE;Mata Atlântica
+BUENOS AIRES;PE;Mata Atlântica
+CAMOCIM DE SÃO FÉLIX;PE;Mata Atlântica
+CAMUTANGA;PE;Mata Atlântica
+CANHOTINHO;PE;Mata Atlântica
+CARPINA;PE;Mata Atlântica
+CASINHAS;PE;Mata Atlântica
+CATENDE;PE;Mata Atlântica
+CHÃ GRANDE;PE;Mata Atlântica
+CHÃ DE ALEGRIA;PE;Mata Atlântica
+CONDADO;PE;Mata Atlântica
+CORTÊS;PE;Mata Atlântica
+CUPIRA;PE;Mata Atlântica
+ESCADA;PE;Mata Atlântica
+FEIRA NOVA;PE;Mata Atlântica
+FERNANDO DE NORONHA;PE;Mata Atlântica
+FERREIROS;PE;Mata Atlântica
+GAMELEIRA;PE;Mata Atlântica
+GARANHUNS;PE;Mata Atlântica
+GLÓRIA DO GOITÁ;PE;Mata Atlântica
+ITAMBÉ;PE;Mata Atlântica
+ITAQUITINGA;PE;Mata Atlântica
+JOAQUIM NABUCO;PE;Mata Atlântica
+JOÃO ALFREDO;PE;Mata Atlântica
+JUREMA;PE;Mata Atlântica
+LAGOA DE ITAENGA;PE;Mata Atlântica
+LAGOA DO CARRO;PE;Mata Atlântica
+LIMOEIRO;PE;Mata Atlântica
+MACHADOS;PE;Mata Atlântica
+MARAIAL;PE;Mata Atlântica
+NAZARÉ DA MATA;PE;Mata Atlântica
+OROBÓ;PE;Mata Atlântica
+PALMARES;PE;Mata Atlântica
+PALMEIRINA;PE;Mata Atlântica
+PANELAS;PE;Mata Atlântica
+PASSIRA;PE;Mata Atlântica
+POMBOS;PE;Mata Atlântica
+PRIMAVERA;PE;Mata Atlântica
+RIBEIRÃO;PE;Mata Atlântica
+SAIRÉ;PE;Mata Atlântica
+SALOÁ;PE;Mata Atlântica
+SÃO BENEDITO DO SUL;PE;Mata Atlântica
+SÃO CAITANO;PE;Mata Atlântica
+SÃO JOAQUIM DO MONTE;PE;Mata Atlântica
+SÃO JOSÉ DA COROA GRANDE;PE;Mata Atlântica
+SÃO JOÃO;PE;Mata Atlântica
+TEREZINHA;PE;Mata Atlântica
+TRACUNHAÉM;PE;Mata Atlântica
+VITÓRIA DE SANTO ANTÃO;PE;Mata Atlântica
+XEXÉU;PE;Mata Atlântica
+ÁGUA PRETA;PE;Mata Atlântica
+CEARÁ-MIRIM;RN;Mata Atlântica
+JUNDIÁ;RN;Mata Atlântica
+MAXARANGUAPE;RN;Mata Atlântica
+MONTANHAS;RN;Mata Atlântica
+MONTE ALEGRE;RN;Mata Atlântica
+PARNAMIRIM;RN;Mata Atlântica
+RIO DO FOGO;RN;Mata Atlântica
+SÃO GONÇALO DO AMARANTE;RN;Mata Atlântica
+TOUROS;RN;Mata Atlântica
+VILA FLOR;RN;Mata Atlântica
+AJURICABA;RS;Mata Atlântica
+ALECRIM;RS;Mata Atlântica
+ALEGRIA;RS;Mata Atlântica
+ALMIRANTE TAMANDARÉ DO SUL;RS;Mata Atlântica
+ALPESTRE;RS;Mata Atlântica
+ALTO ALEGRE;RS;Mata Atlântica
+ALTO FELIZ;RS;Mata Atlântica
+AMETISTA DO SUL;RS;Mata Atlântica
+ANDRÉ DA ROCHA;RS;Mata Atlântica
+ANTA GORDA;RS;Mata Atlântica
+ANTÔNIO PRADO;RS;Mata Atlântica
+ARATIBA;RS;Mata Atlântica
+ARROIO DO MEIO;RS;Mata Atlântica
+ARROIO DO SAL;RS;Mata Atlântica
+ARROIO DO TIGRE;RS;Mata Atlântica
+ARVOREZINHA;RS;Mata Atlântica
+AUGUSTO PESTANA;RS;Mata Atlântica
+BARRA FUNDA;RS;Mata Atlântica
+BARRA DO GUARITA;RS;Mata Atlântica
+BARRA DO RIO AZUL;RS;Mata Atlântica
+BARROS CASSAL;RS;Mata Atlântica
+BARÃO;RS;Mata Atlântica
+BARÃO DE COTEGIPE;RS;Mata Atlântica
+BENJAMIN CONSTANT DO SUL;RS;Mata Atlântica
+BOA VISTA DAS MISSÕES;RS;Mata Atlântica
+BOA VISTA DO BURICÁ;RS;Mata Atlântica
+BOA VISTA DO CADEADO;RS;Mata Atlântica
+BOA VISTA DO SUL;RS;Mata Atlântica
+BOM PRINCÍPIO;RS;Mata Atlântica
+BOM PROGRESSO;RS;Mata Atlântica
+BOM RETIRO DO SUL;RS;Mata Atlântica
+BOQUEIRÃO DO LEÃO;RS;Mata Atlântica
+BOZANO;RS;Mata Atlântica
+BRAGA;RS;Mata Atlântica
+BROCHIER;RS;Mata Atlântica
+CACIQUE DOBLE;RS;Mata Atlântica
+CAIBATÉ;RS;Mata Atlântica
+CAIÇARA;RS;Mata Atlântica
+CAMARGO;RS;Mata Atlântica
+CAMPESTRE DA SERRA;RS;Mata Atlântica
+CAMPINA DAS MISSÕES;RS;Mata Atlântica
+CAMPINAS DO SUL;RS;Mata Atlântica
+CAMPO NOVO;RS;Mata Atlântica
+CAMPOS BORGES;RS;Mata Atlântica
+CANDELÁRIA;RS;Mata Atlântica
+CANUDOS DO VALE;RS;Mata Atlântica
+CAPELA DE SANTANA;RS;Mata Atlântica
+CAPITÃO;RS;Mata Atlântica
+CAPÃO BONITO DO SUL;RS;Mata Atlântica
+CAPÃO DA CANOA;RS;Mata Atlântica
+CARAZINHO;RS;Mata Atlântica
+CARAÁ;RS;Mata Atlântica
+CARLOS BARBOSA;RS;Mata Atlântica
+CARLOS GOMES;RS;Mata Atlântica
+CASCA;RS;Mata Atlântica
+CASEIROS;RS;Mata Atlântica
+CATUÍPE;RS;Mata Atlântica
+CENTENÁRIO;RS;Mata Atlântica
+CERRO BRANCO;RS;Mata Atlântica
+CERRO GRANDE;RS;Mata Atlântica
+CERRO LARGO;RS;Mata Atlântica
+CHAPADA;RS;Mata Atlântica
+CHARRUA;RS;Mata Atlântica
+CHIAPETTA;RS;Mata Atlântica
+CIRÍACO;RS;Mata Atlântica
+COLINAS;RS;Mata Atlântica
+COLORADO;RS;Mata Atlântica
+CONDOR;RS;Mata Atlântica
+CONSTANTINA;RS;Mata Atlântica
+COQUEIRO BAIXO;RS;Mata Atlântica
+COQUEIROS DO SUL;RS;Mata Atlântica
+CORONEL BARROS;RS;Mata Atlântica
+CORONEL BICACO;RS;Mata Atlântica
+CORONEL PILAR;RS;Mata Atlântica
+COTIPORÃ;RS;Mata Atlântica
+COXILHA;RS;Mata Atlântica
+CRISSIUMAL;RS;Mata Atlântica
+CRISTAL DO SUL;RS;Mata Atlântica
+CRUZ ALTA;RS;Mata Atlântica
+CRUZALTENSE;RS;Mata Atlântica
+CRUZEIRO DO SUL;RS;Mata Atlântica
+CÂNDIDO GODÓI;RS;Mata Atlântica
+DAVID CANABARRO;RS;Mata Atlântica
+DEZESSEIS DE NOVEMBRO;RS;Mata Atlântica
+DOIS IRMÃOS;RS;Mata Atlântica
+DOIS IRMÃOS DAS MISSÕES;RS;Mata Atlântica
+DOIS LAJEADOS;RS;Mata Atlântica
+DONA FRANCISCA;RS;Mata Atlântica
+DOUTOR MAURÍCIO CARDOSO;RS;Mata Atlântica
+DOUTOR RICARDO;RS;Mata Atlântica
+ENCANTADO;RS;Mata Atlântica
+ENGENHO VELHO;RS;Mata Atlântica
+ENTRE RIOS DO SUL;RS;Mata Atlântica
+ENTRE-IJUÍS;RS;Mata Atlântica
+EREBANGO;RS;Mata Atlântica
+ERECHIM;RS;Mata Atlântica
+ERNESTINA;RS;Mata Atlântica
+ERVAL GRANDE;RS;Mata Atlântica
+ERVAL SECO;RS;Mata Atlântica
+ESMERALDA;RS;Mata Atlântica
+ESPERANÇA DO SUL;RS;Mata Atlântica
+ESPUMOSO;RS;Mata Atlântica
+ESTAÇÃO;RS;Mata Atlântica
+ESTRELA;RS;Mata Atlântica
+ESTRELA VELHA;RS;Mata Atlântica
+ESTÂNCIA VELHA;RS;Mata Atlântica
+EUGÊNIO DE CASTRO;RS;Mata Atlântica
+FAGUNDES VARELA;RS;Mata Atlântica
+FARROUPILHA;RS;Mata Atlântica
+FAXINAL DO SOTURNO;RS;Mata Atlântica
+FAXINALZINHO;RS;Mata Atlântica
+FAZENDA VILANOVA;RS;Mata Atlântica
+FELIZ;RS;Mata Atlântica
+FLORES DA CUNHA;RS;Mata Atlântica
+FLORIANO PEIXOTO;RS;Mata Atlântica
+FONTOURA XAVIER;RS;Mata Atlântica
+FORQUETINHA;RS;Mata Atlântica
+FORTALEZA DOS VALOS;RS;Mata Atlântica
+FREDERICO WESTPHALEN;RS;Mata Atlântica
+GARIBALDI;RS;Mata Atlântica
+GAURAMA;RS;Mata Atlântica
+GENERAL CÂMARA;RS;Mata Atlântica
+GENTIL;RS;Mata Atlântica
+GETÚLIO VARGAS;RS;Mata Atlântica
+GIRUÁ;RS;Mata Atlântica
+GLORINHA;RS;Mata Atlântica
+GRAMADO XAVIER;RS;Mata Atlântica
+GRAMADO DOS LOUREIROS;RS;Mata Atlântica
+GRAVATAÍ;RS;Mata Atlântica
+GUABIJU;RS;Mata Atlântica
+GUAPORÉ;RS;Mata Atlântica
+GUARANI DAS MISSÕES;RS;Mata Atlântica
+HARMONIA;RS;Mata Atlântica
+HERVEIRAS;RS;Mata Atlântica
+IBIAÇÁ;RS;Mata Atlântica
+IBIRAIARAS;RS;Mata Atlântica
+IBIRAPUITÃ;RS;Mata Atlântica
+IBIRUBÁ;RS;Mata Atlântica
+IGREJINHA;RS;Mata Atlântica
+IJUÍ;RS;Mata Atlântica
+ILÓPOLIS;RS;Mata Atlântica
+IMIGRANTE;RS;Mata Atlântica
+INDEPENDÊNCIA;RS;Mata Atlântica
+INHACORÁ;RS;Mata Atlântica
+IPIRANGA DO SUL;RS;Mata Atlântica
+IPÊ;RS;Mata Atlântica
+IRAÍ;RS;Mata Atlântica
+ITAPUCA;RS;Mata Atlântica
+ITATIBA DO SUL;RS;Mata Atlântica
+IVORÁ;RS;Mata Atlântica
+IVOTI;RS;Mata Atlântica
+JABOTICABA;RS;Mata Atlântica
+JACUIZINHO;RS;Mata Atlântica
+JACUTINGA;RS;Mata Atlântica
+JAGUARI;RS;Mata Atlântica
+JARI;RS;Mata Atlântica
+JÚLIO DE CASTILHOS;RS;Mata Atlântica
+LAGOA BONITA DO SUL;RS;Mata Atlântica
+LAGOA VERMELHA;RS;Mata Atlântica
+LAGOA DOS TRÊS CANTOS;RS;Mata Atlântica
+LAGOÃO;RS;Mata Atlântica
+LAJEADO;RS;Mata Atlântica
+LAJEADO DO BUGRE;RS;Mata Atlântica
+LIBERATO SALZANO;RS;Mata Atlântica
+LINDOLFO COLLOR;RS;Mata Atlântica
+LINHA NOVA;RS;Mata Atlântica
+MACHADINHO;RS;Mata Atlântica
+MAMPITUBA;RS;Mata Atlântica
+MARATÁ;RS;Mata Atlântica
+MARAU;RS;Mata Atlântica
+MARIANO MORO;RS;Mata Atlântica
+MARQUES DE SOUZA;RS;Mata Atlântica
+MATA;RS;Mata Atlântica
+MATO LEITÃO;RS;Mata Atlântica
+MATO QUEIMADO;RS;Mata Atlântica
+MAXIMILIANO DE ALMEIDA;RS;Mata Atlântica
+MIRAGUAÍ;RS;Mata Atlântica
+MONTAURI;RS;Mata Atlântica
+MONTE ALEGRE DOS CAMPOS;RS;Mata Atlântica
+MONTE BELO DO SUL;RS;Mata Atlântica
+MONTENEGRO;RS;Mata Atlântica
+MORMAÇO;RS;Mata Atlântica
+MORRINHOS DO SUL;RS;Mata Atlântica
+MORRO REUTER;RS;Mata Atlântica
+MULITERNO;RS;Mata Atlântica
+MUÇUM;RS;Mata Atlântica
+NICOLAU VERGUEIRO;RS;Mata Atlântica
+NONOAI;RS;Mata Atlântica
+NOVA ALVORADA;RS;Mata Atlântica
+NOVA ARAÇÁ;RS;Mata Atlântica
+NOVA BASSANO;RS;Mata Atlântica
+NOVA BOA VISTA;RS;Mata Atlântica
+NOVA BRÉSCIA;RS;Mata Atlântica
+NOVA CANDELÁRIA;RS;Mata Atlântica
+NOVA ESPERANÇA DO SUL;RS;Mata Atlântica
+NOVA HARTZ;RS;Mata Atlântica
+NOVA PALMA;RS;Mata Atlântica
+NOVA PETRÓPOLIS;RS;Mata Atlântica
+NOVA PRATA;RS;Mata Atlântica
+NOVA PÁDUA;RS;Mata Atlântica
+NOVA RAMADA;RS;Mata Atlântica
+NOVA ROMA DO SUL;RS;Mata Atlântica
+NOVA SANTA RITA;RS;Mata Atlântica
+NOVO BARREIRO;RS;Mata Atlântica
+NOVO CABRAIS;RS;Mata Atlântica
+NOVO HAMBURGO;RS;Mata Atlântica
+NOVO MACHADO;RS;Mata Atlântica
+NOVO TIRADENTES;RS;Mata Atlântica
+NOVO XINGU;RS;Mata Atlântica
+NÃO-ME-TOQUE;RS;Mata Atlântica
+PAIM FILHO;RS;Mata Atlântica
+PALMEIRA DAS MISSÕES;RS;Mata Atlântica
+PALMITINHO;RS;Mata Atlântica
+PANAMBI;RS;Mata Atlântica
+PARAÍ;RS;Mata Atlântica
+PARAÍSO DO SUL;RS;Mata Atlântica
+PARECI NOVO;RS;Mata Atlântica
+PAROBÉ;RS;Mata Atlântica
+PASSA SETE;RS;Mata Atlântica
+PASSO FUNDO;RS;Mata Atlântica
+PASSO DO SOBRADO;RS;Mata Atlântica
+PAULO BENTO;RS;Mata Atlântica
+PAVERAMA;RS;Mata Atlântica
+PEJUÇARA;RS;Mata Atlântica
+PICADA CAFÉ;RS;Mata Atlântica
+PINHAL;RS;Mata Atlântica
+PINHAL GRANDE;RS;Mata Atlântica
+PINHAL DA SERRA;RS;Mata Atlântica
+PINHEIRINHO DO VALE;RS;Mata Atlântica
+PINTO BANDEIRA;RS;Mata Atlântica
+PIRAPÓ;RS;Mata Atlântica
+PLANALTO;RS;Mata Atlântica
+PONTE PRETA;RS;Mata Atlântica
+PONTÃO;RS;Mata Atlântica
+PORTO LUCENA;RS;Mata Atlântica
+PORTO MAUÁ;RS;Mata Atlântica
+PORTO VERA CRUZ;RS;Mata Atlântica
+PORTO XAVIER;RS;Mata Atlântica
+PORTÃO;RS;Mata Atlântica
+POUSO NOVO;RS;Mata Atlântica
+POÇO DAS ANTAS;RS;Mata Atlântica
+PRESIDENTE LUCENA;RS;Mata Atlântica
+PROGRESSO;RS;Mata Atlântica
+PROTÁSIO ALVES;RS;Mata Atlântica
+PUTINGA;RS;Mata Atlântica
+QUATRO IRMÃOS;RS;Mata Atlântica
+QUEVEDOS;RS;Mata Atlântica
+QUINZE DE NOVEMBRO;RS;Mata Atlântica
+REDENTORA;RS;Mata Atlântica
+RELVADO;RS;Mata Atlântica
+RESTINGA SÊCA;RS;Mata Atlântica
+RIO PARDO;RS;Mata Atlântica
+RIO DOS ÍNDIOS;RS;Mata Atlântica
+RIOZINHO;RS;Mata Atlântica
+ROCA SALES;RS;Mata Atlântica
+RODEIO BONITO;RS;Mata Atlântica
+ROLADOR;RS;Mata Atlântica
+ROLANTE;RS;Mata Atlântica
+RONDA ALTA;RS;Mata Atlântica
+RONDINHA;RS;Mata Atlântica
+ROQUE GONZALES;RS;Mata Atlântica
+SAGRADA FAMÍLIA;RS;Mata Atlântica
+SALDANHA MARINHO;RS;Mata Atlântica
+SALTO DO JACUÍ;RS;Mata Atlântica
+SALVADOR DAS MISSÕES;RS;Mata Atlântica
+SALVADOR DO SUL;RS;Mata Atlântica
+SANANDUVA;RS;Mata Atlântica
+SANTA BÁRBARA DO SUL;RS;Mata Atlântica
+SANTA CECÍLIA DO SUL;RS;Mata Atlântica
+SANTA CLARA DO SUL;RS;Mata Atlântica
+SANTA CRUZ DO SUL;RS;Mata Atlântica
+SANTA MARIA DO HERVAL;RS;Mata Atlântica
+SANTA ROSA;RS;Mata Atlântica
+SANTA TEREZA;RS;Mata Atlântica
+SANTIAGO;RS;Mata Atlântica
+SANTO ANTÔNIO DO PALMA;RS;Mata Atlântica
+SANTO ANTÔNIO DO PLANALTO;RS;Mata Atlântica
+SANTO AUGUSTO;RS;Mata Atlântica
+SANTO CRISTO;RS;Mata Atlântica
+SANTO EXPEDITO DO SUL;RS;Mata Atlântica
+SANTO ÂNGELO;RS;Mata Atlântica
+SEBERI;RS;Mata Atlântica
+SEDE NOVA;RS;Mata Atlântica
+SEGREDO;RS;Mata Atlântica
+SELBACH;RS;Mata Atlântica
+SENADOR SALGADO FILHO;RS;Mata Atlântica
+SERAFINA CORRÊA;RS;Mata Atlântica
+SETE DE SETEMBRO;RS;Mata Atlântica
+SILVEIRA MARTINS;RS;Mata Atlântica
+SOBRADINHO;RS;Mata Atlântica
+SOLEDADE;RS;Mata Atlântica
+SÃO DOMINGOS DO SUL;RS;Mata Atlântica
+SÃO FRANCISCO DE ASSIS;RS;Mata Atlântica
+SÃO JORGE;RS;Mata Atlântica
+SÃO JOSÉ DAS MISSÕES;RS;Mata Atlântica
+SÃO JOSÉ DO HORTÊNCIO;RS;Mata Atlântica
+SÃO JOSÉ DO INHACORÁ;RS;Mata Atlântica
+SÃO JOSÉ DO OURO;RS;Mata Atlântica
+SÃO JOSÉ DO SUL;RS;Mata Atlântica
+SÃO JOSÉ DOS AUSENTES;RS;Mata Atlântica
+SÃO JOÃO DA URTIGA;RS;Mata Atlântica
+SÃO JOÃO DO POLÊSINE;RS;Mata Atlântica
+SÃO LUIZ GONZAGA;RS;Mata Atlântica
+SÃO MARCOS;RS;Mata Atlântica
+SÃO MARTINHO;RS;Mata Atlântica
+SÃO MIGUEL DAS MISSÕES;RS;Mata Atlântica
+SÃO NICOLAU;RS;Mata Atlântica
+SÃO PAULO DAS MISSÕES;RS;Mata Atlântica
+SÃO PEDRO DA SERRA;RS;Mata Atlântica
+SÃO PEDRO DAS MISSÕES;RS;Mata Atlântica
+SÃO PEDRO DO BUTIÁ;RS;Mata Atlântica
+SÃO PEDRO DO SUL;RS;Mata Atlântica
+SÃO SEBASTIÃO DO CAÍ;RS;Mata Atlântica
+SÃO VALENTIM;RS;Mata Atlântica
+SÃO VALENTIM DO SUL;RS;Mata Atlântica
+SÃO VALÉRIO DO SUL;RS;Mata Atlântica
+SÃO VENDELINO;RS;Mata Atlântica
+SÃO VICENTE DO SUL;RS;Mata Atlântica
+SÉRIO;RS;Mata Atlântica
+TABAÍ;RS;Mata Atlântica
+TAPEJARA;RS;Mata Atlântica
+TAPERA;RS;Mata Atlântica
+TAQUARA;RS;Mata Atlântica
+TAQUARI;RS;Mata Atlântica
+TENENTE PORTELA;RS;Mata Atlântica
+TEUTÔNIA;RS;Mata Atlântica
+TIO HUGO;RS;Mata Atlântica
+TIRADENTES DO SUL;RS;Mata Atlântica
+TOROPI;RS;Mata Atlântica
+TRAVESSEIRO;RS;Mata Atlântica
+TRINDADE DO SUL;RS;Mata Atlântica
+TRIUNFO;RS;Mata Atlântica
+TRÊS ARROIOS;RS;Mata Atlântica
+TRÊS CACHOEIRAS;RS;Mata Atlântica
+TRÊS COROAS;RS;Mata Atlântica
+TRÊS PALMEIRAS;RS;Mata Atlântica
+TRÊS PASSOS;RS;Mata Atlântica
+TRÊS DE MAIO;RS;Mata Atlântica
+TUCUNDUVA;RS;Mata Atlântica
+TUNAS;RS;Mata Atlântica
+TUPANCI DO SUL;RS;Mata Atlântica
+TUPANDI;RS;Mata Atlântica
+TUPARENDI;RS;Mata Atlântica
+UBIRETAMA;RS;Mata Atlântica
+UNIÃO DA SERRA;RS;Mata Atlântica
+VALE REAL;RS;Mata Atlântica
+VALE VERDE;RS;Mata Atlântica
+VALE DO SOL;RS;Mata Atlântica
+VANINI;RS;Mata Atlântica
+VERA CRUZ;RS;Mata Atlântica
+VERANÓPOLIS;RS;Mata Atlântica
+VESPASIANO CORRÊA;RS;Mata Atlântica
+VIADUTOS;RS;Mata Atlântica
+VICENTE DUTRA;RS;Mata Atlântica
+VICTOR GRAEFF;RS;Mata Atlântica
+VILA FLORES;RS;Mata Atlântica
+VILA LÂNGARO;RS;Mata Atlântica
+VILA MARIA;RS;Mata Atlântica
+VISTA ALEGRE;RS;Mata Atlântica
+VISTA ALEGRE DO PRATA;RS;Mata Atlântica
+VISTA GAÚCHA;RS;Mata Atlântica
+VITÓRIA DAS MISSÕES;RS;Mata Atlântica
+WESTFÁLIA;RS;Mata Atlântica
+XANGRI-LÁ;RS;Mata Atlântica
+ÁGUA SANTA;RS;Mata Atlântica
+ÁUREA;RS;Mata Atlântica
+CANTAGALO;RJ;Mata Atlântica
+CARDOSO MOREIRA;RJ;Mata Atlântica
+ITAOCARA;RJ;Mata Atlântica
+LAJE DO MURIAÉ;RJ;Mata Atlântica
+MACUCO;RJ;Mata Atlântica
+SÃO SEBASTIÃO DO ALTO;RJ;Mata Atlântica
+ABDON BATISTA;SC;Mata Atlântica
+AGROLÂNDIA;SC;Mata Atlântica
+ALTO BELA VISTA;SC;Mata Atlântica
+ANCHIETA;SC;Mata Atlântica
+ANGELINA;SC;Mata Atlântica
+ANITA GARIBALDI;SC;Mata Atlântica
+ARABUTÃ;SC;Mata Atlântica
+ARAQUARI;SC;Mata Atlântica
+ARARANGUÁ;SC;Mata Atlântica
+ARMAZÉM;SC;Mata Atlântica
+ARROIO TRINTA;SC;Mata Atlântica
+ARVOREDO;SC;Mata Atlântica
+ATALANTA;SC;Mata Atlântica
+AURORA;SC;Mata Atlântica
+BALNEÁRIO BARRA DO SUL;SC;Mata Atlântica
+BALNEÁRIO GAIVOTA;SC;Mata Atlântica
+BALNEÁRIO RINCÃO;SC;Mata Atlântica
+BARRA BONITA;SC;Mata Atlântica
+BELMONTE;SC;Mata Atlântica
+BOM JESUS;SC;Mata Atlântica
+BOM JESUS DO OESTE;SC;Mata Atlântica
+BOMBINHAS;SC;Mata Atlântica
+BRAÇO DO NORTE;SC;Mata Atlântica
+BRAÇO DO TROMBUDO;SC;Mata Atlântica
+BRUNÓPOLIS;SC;Mata Atlântica
+CAIBI;SC;Mata Atlântica
+CALMON;SC;Mata Atlântica
+CAMBORIÚ;SC;Mata Atlântica
+CAMPO ERÊ;SC;Mata Atlântica
+CANELINHA;SC;Mata Atlântica
+CANOINHAS;SC;Mata Atlântica
+CAPINZAL;SC;Mata Atlântica
+CAPIVARI DE BAIXO;SC;Mata Atlântica
+CAPÃO ALTO;SC;Mata Atlântica
+CATANDUVAS;SC;Mata Atlântica
+CAXAMBU DO SUL;SC;Mata Atlântica
+CELSO RAMOS;SC;Mata Atlântica
+CERRO NEGRO;SC;Mata Atlântica
+CHAPADÃO DO LAGEADO;SC;Mata Atlântica
+COCAL DO SUL;SC;Mata Atlântica
+CORDILHEIRA ALTA;SC;Mata Atlântica
+CORONEL FREITAS;SC;Mata Atlântica
+CORONEL MARTINS;SC;Mata Atlântica
+CORREIA PINTO;SC;Mata Atlântica
+CUNHA PORÃ;SC;Mata Atlântica
+CUNHATAÍ;SC;Mata Atlântica
+DESCANSO;SC;Mata Atlântica
+DIONÍSIO CERQUEIRA;SC;Mata Atlântica
+DONA EMMA;SC;Mata Atlântica
+ENTRE RIOS;SC;Mata Atlântica
+ERMO;SC;Mata Atlântica
+ERVAL VELHO;SC;Mata Atlântica
+FAXINAL DOS GUEDES;SC;Mata Atlântica
+FLOR DO SERTÃO;SC;Mata Atlântica
+FORMOSA DO SUL;SC;Mata Atlântica
+FORQUILHINHA;SC;Mata Atlântica
+FRAIBURGO;SC;Mata Atlântica
+FREI ROGÉRIO;SC;Mata Atlântica
+GARUVA;SC;Mata Atlântica
+GRAVATAL;SC;Mata Atlântica
+GRÃO-PARÁ;SC;Mata Atlântica
+GUARACIABA;SC;Mata Atlântica
+HERVAL D'OESTE;SC;Mata Atlântica
+IBIAM;SC;Mata Atlântica
+IBICARÉ;SC;Mata Atlântica
+IMBITUBA;SC;Mata Atlântica
+IMBUIA;SC;Mata Atlântica
+IOMERÊ;SC;Mata Atlântica
+IPIRA;SC;Mata Atlântica
+IPORÃ DO OESTE;SC;Mata Atlântica
+IPUAÇU;SC;Mata Atlântica
+IPUMIRIM;SC;Mata Atlântica
+IRACEMINHA;SC;Mata Atlântica
+IRANI;SC;Mata Atlântica
+IRATI;SC;Mata Atlântica
+IRINEÓPOLIS;SC;Mata Atlântica
+ITAPIRANGA;SC;Mata Atlântica
+ITÁ;SC;Mata Atlântica
+IÇARA;SC;Mata Atlântica
+JABORÁ;SC;Mata Atlântica
+JAGUARUNA;SC;Mata Atlântica
+JARDINÓPOLIS;SC;Mata Atlântica
+JOAÇABA;SC;Mata Atlântica
+JOSÉ BOITEUX;SC;Mata Atlântica
+JUPIÁ;SC;Mata Atlântica
+LACERDÓPOLIS;SC;Mata Atlântica
+LAGUNA;SC;Mata Atlântica
+LAJEADO GRANDE;SC;Mata Atlântica
+LAURO MÜLLER;SC;Mata Atlântica
+LEBON RÉGIS;SC;Mata Atlântica
+LINDÓIA DO SUL;SC;Mata Atlântica
+LONTRAS;SC;Mata Atlântica
+LUIZ ALVES;SC;Mata Atlântica
+LUZERNA;SC;Mata Atlântica
+MACIEIRA;SC;Mata Atlântica
+MAJOR GERCINO;SC;Mata Atlântica
+MAJOR VIEIRA;SC;Mata Atlântica
+MARAVILHA;SC;Mata Atlântica
+MAREMA;SC;Mata Atlântica
+MASSARANDUBA;SC;Mata Atlântica
+MATOS COSTA;SC;Mata Atlântica
+MELEIRO;SC;Mata Atlântica
+MIRIM DOCE;SC;Mata Atlântica
+MODELO;SC;Mata Atlântica
+MONDAÍ;SC;Mata Atlântica
+MONTE CARLO;SC;Mata Atlântica
+MONTE CASTELO;SC;Mata Atlântica
+MORRO DA FUMAÇA;SC;Mata Atlântica
+NOVA ERECHIM;SC;Mata Atlântica
+NOVA ITABERABA;SC;Mata Atlântica
+NOVO HORIZONTE;SC;Mata Atlântica
+OTACÍLIO COSTA;SC;Mata Atlântica
+OURO;SC;Mata Atlântica
+OURO VERDE;SC;Mata Atlântica
+PALMA SOLA;SC;Mata Atlântica
+PALMEIRA;SC;Mata Atlântica
+PALMITOS;SC;Mata Atlântica
+PAPANDUVA;SC;Mata Atlântica
+PARAÍSO;SC;Mata Atlântica
+PASSO DE TORRES;SC;Mata Atlântica
+PEDRAS GRANDES;SC;Mata Atlântica
+PENHA;SC;Mata Atlântica
+PERITIBA;SC;Mata Atlântica
+PESCARIA BRAVA;SC;Mata Atlântica
+PETROLÂNDIA;SC;Mata Atlântica
+PINHALZINHO;SC;Mata Atlântica
+PINHEIRO PRETO;SC;Mata Atlântica
+PIRATUBA;SC;Mata Atlântica
+PLANALTO ALEGRE;SC;Mata Atlântica
+POMERODE;SC;Mata Atlântica
+PONTE ALTA;SC;Mata Atlântica
+PONTE ALTA DO NORTE;SC;Mata Atlântica
+POUSO REDONDO;SC;Mata Atlântica
+PRESIDENTE CASTELLO BRANCO;SC;Mata Atlântica
+PRESIDENTE GETÚLIO;SC;Mata Atlântica
+PRINCESA;SC;Mata Atlântica
+QUILOMBO;SC;Mata Atlântica
+RIO FORTUNA;SC;Mata Atlântica
+RIO DAS ANTAS;SC;Mata Atlântica
+RIO DO CAMPO;SC;Mata Atlântica
+RIO DO OESTE;SC;Mata Atlântica
+RIQUEZA;SC;Mata Atlântica
+RODEIO;SC;Mata Atlântica
+ROMELÂNDIA;SC;Mata Atlântica
+SALETE;SC;Mata Atlântica
+SALTINHO;SC;Mata Atlântica
+SALTO VELOSO;SC;Mata Atlântica
+SANGÃO;SC;Mata Atlântica
+SANTA CECÍLIA;SC;Mata Atlântica
+SANTA HELENA;SC;Mata Atlântica
+SANTA ROSA DO SUL;SC;Mata Atlântica
+SANTA TEREZINHA;SC;Mata Atlântica
+SANTA TEREZINHA DO PROGRESSO;SC;Mata Atlântica
+SANTIAGO DO SUL;SC;Mata Atlântica
+SAUDADES;SC;Mata Atlântica
+SEARA;SC;Mata Atlântica
+SERRA ALTA;SC;Mata Atlântica
+SOMBRIO;SC;Mata Atlântica
+SUL BRASIL;SC;Mata Atlântica
+SÃO BERNARDINO;SC;Mata Atlântica
+SÃO CARLOS;SC;Mata Atlântica
+SÃO CRISTÓVÃO DO SUL;SC;Mata Atlântica
+SÃO JOSÉ DO CERRITO;SC;Mata Atlântica
+SÃO JOÃO BATISTA;SC;Mata Atlântica
+SÃO JOÃO DO ITAPERIÚ;SC;Mata Atlântica
+SÃO JOÃO DO OESTE;SC;Mata Atlântica
+SÃO JOÃO DO SUL;SC;Mata Atlântica
+SÃO LOURENÇO DO OESTE;SC;Mata Atlântica
+SÃO LUDGERO;SC;Mata Atlântica
+SÃO MIGUEL DA BOA VISTA;SC;Mata Atlântica
+SÃO MIGUEL DO OESTE;SC;Mata Atlântica
+TAIÓ;SC;Mata Atlântica
+TANGARÁ;SC;Mata Atlântica
+TIGRINHOS;SC;Mata Atlântica
+TIJUCAS;SC;Mata Atlântica
+TIMBÉ DO SUL;SC;Mata Atlântica
+TIMBÓ GRANDE;SC;Mata Atlântica
+TREZE TÍLIAS;SC;Mata Atlântica
+TREZE DE MAIO;SC;Mata Atlântica
+TROMBUDO CENTRAL;SC;Mata Atlântica
+TUBARÃO;SC;Mata Atlântica
+TUNÁPOLIS;SC;Mata Atlântica
+TURVO;SC;Mata Atlântica
+UNIÃO DO OESTE;SC;Mata Atlântica
+URUSSANGA;SC;Mata Atlântica
+VARGEM;SC;Mata Atlântica
+VARGEÃO;SC;Mata Atlântica
+WITMARSUM;SC;Mata Atlântica
+XANXERÊ;SC;Mata Atlântica
+XAVANTINA;SC;Mata Atlântica
+XAXIM;SC;Mata Atlântica
+ZORTÉA;SC;Mata Atlântica
+ÁGUAS FRIAS;SC;Mata Atlântica
+ÁGUAS DE CHAPECÓ;SC;Mata Atlântica
+AQUIDABÃ;SE;Mata Atlântica
+ARAUÁ;SE;Mata Atlântica
+BOQUIM;SE;Mata Atlântica
+BREJO GRANDE;SE;Mata Atlântica
+CANHOBA;SE;Mata Atlântica
+CARMÓPOLIS;SE;Mata Atlântica
+CEDRO DE SÃO JOÃO;SE;Mata Atlântica
+CRISTINÁPOLIS;SE;Mata Atlântica
+CUMBE;SE;Mata Atlântica
+DIVINA PASTORA;SE;Mata Atlântica
+GENERAL MAYNARD;SE;Mata Atlântica
+GRACHO CARDOSO;SE;Mata Atlântica
+ILHA DAS FLORES;SE;Mata Atlântica
+ITABAIANINHA;SE;Mata Atlântica
+ITABI;SE;Mata Atlântica
+JAPARATUBA;SE;Mata Atlântica
+JAPOATÃ;SE;Mata Atlântica
+LAGARTO;SE;Mata Atlântica
+MACAMBIRA;SE;Mata Atlântica
+MALHADA DOS BOIS;SE;Mata Atlântica
+MARUIM;SE;Mata Atlântica
+MOITA BONITA;SE;Mata Atlântica
+MURIBECA;SE;Mata Atlântica
+NEÓPOLIS;SE;Mata Atlântica
+NOSSA SENHORA APARECIDA;SE;Mata Atlântica
+NOSSA SENHORA DAS DORES;SE;Mata Atlântica
+PEDRINHAS;SE;Mata Atlântica
+PROPRIÁ;SE;Mata Atlântica
+RIACHUELO;SE;Mata Atlântica
+RIACHÃO DO DANTAS;SE;Mata Atlântica
+RIBEIRÓPOLIS;SE;Mata Atlântica
+ROSÁRIO DO CATETE;SE;Mata Atlântica
+SALGADO;SE;Mata Atlântica
+SANTA ROSA DE LIMA;SE;Mata Atlântica
+SANTANA DO SÃO FRANCISCO;SE;Mata Atlântica
+SIRIRI;SE;Mata Atlântica
+SÃO CRISTÓVÃO;SE;Mata Atlântica
+SÃO DOMINGOS;SE;Mata Atlântica
+SÃO FRANCISCO;SE;Mata Atlântica
+SÃO MIGUEL DO ALEIXO;SE;Mata Atlântica
+TELHA;SE;Mata Atlântica
+TOMAR DO GERU;SE;Mata Atlântica
+UMBAÚBA;SE;Mata Atlântica
+ADAMANTINA;SP;Mata Atlântica
+ADOLFO;SP;Mata Atlântica
+AGUAÍ;SP;Mata Atlântica
+ALAMBARI;SP;Mata Atlântica
+ALFREDO MARCONDES;SP;Mata Atlântica
+ALTAIR;SP;Mata Atlântica
+ALTINÓPOLIS;SP;Mata Atlântica
+ALTO ALEGRE;SP;Mata Atlântica
+AMERICANA;SP;Mata Atlântica
+AMÉRICO BRASILIENSE;SP;Mata Atlântica
+AMÉRICO DE CAMPOS;SP;Mata Atlântica
+ANGATUBA;SP;Mata Atlântica
+ANHUMAS;SP;Mata Atlântica
+APARECIDA D'OESTE;SP;Mata Atlântica
+ARAMINA;SP;Mata Atlântica
+ARANDU;SP;Mata Atlântica
+ARAPEÍ;SP;Mata Atlântica
+ARARAQUARA;SP;Mata Atlântica
+ARARAS;SP;Mata Atlântica
+ARAÇATUBA;SP;Mata Atlântica
+ARCO-ÍRIS;SP;Mata Atlântica
+AREALVA;SP;Mata Atlântica
+AREIÓPOLIS;SP;Mata Atlântica
+ARIRANHA;SP;Mata Atlântica
+ASPÁSIA;SP;Mata Atlântica
+ASSIS;SP;Mata Atlântica
+AURIFLAMA;SP;Mata Atlântica
+AVANHANDAVA;SP;Mata Atlântica
+AVARÉ;SP;Mata Atlântica
+BADY BASSITT;SP;Mata Atlântica
+BARBOSA;SP;Mata Atlântica
+BARIRI;SP;Mata Atlântica
+BARRA DO CHAPÉU;SP;Mata Atlântica
+BARRINHA;SP;Mata Atlântica
+BASTOS;SP;Mata Atlântica
+BATATAIS;SP;Mata Atlântica
+BEBEDOURO;SP;Mata Atlântica
+BENTO DE ABREU;SP;Mata Atlântica
+BERNARDINO DE CAMPOS;SP;Mata Atlântica
+BILAC;SP;Mata Atlântica
+BIRIGUI;SP;Mata Atlântica
+BOA ESPERANÇA DO SUL;SP;Mata Atlântica
+BOCAINA;SP;Mata Atlântica
+BOFETE;SP;Mata Atlântica
+BOITUVA;SP;Mata Atlântica
+BOM SUCESSO DE ITARARÉ;SP;Mata Atlântica
+BORACÉIA;SP;Mata Atlântica
+BORBOREMA;SP;Mata Atlântica
+BOREBI;SP;Mata Atlântica
+BORÁ;SP;Mata Atlântica
+BRAÚNA;SP;Mata Atlântica
+BREJO ALEGRE;SP;Mata Atlântica
+BRODOWSKI;SP;Mata Atlântica
+BURI;SP;Mata Atlântica
+BURITAMA;SP;Mata Atlântica
+BURITIZAL;SP;Mata Atlântica
+BÁLSAMO;SP;Mata Atlântica
+CABRÁLIA PAULISTA;SP;Mata Atlântica
+CACHOEIRA PAULISTA;SP;Mata Atlântica
+CACONDE;SP;Mata Atlântica
+CAIABU;SP;Mata Atlântica
+CAIUÁ;SP;Mata Atlântica
+CAJOBI;SP;Mata Atlântica
+CAJURU;SP;Mata Atlântica
+CAMPINA DO MONTE ALEGRE;SP;Mata Atlântica
+CAMPOS NOVOS PAULISTA;SP;Mata Atlântica
+CANAS;SP;Mata Atlântica
+CANITAR;SP;Mata Atlântica
+CARDOSO;SP;Mata Atlântica
+CASA BRANCA;SP;Mata Atlântica
+CATANDUVA;SP;Mata Atlântica
+CATIGUÁ;SP;Mata Atlântica
+CEDRAL;SP;Mata Atlântica
+CERQUEIRA CÉSAR;SP;Mata Atlântica
+CERQUILHO;SP;Mata Atlântica
+CESÁRIO LANGE;SP;Mata Atlântica
+CHAVANTES;SP;Mata Atlântica
+CLEMENTINA;SP;Mata Atlântica
+COLINA;SP;Mata Atlântica
+COLÔMBIA;SP;Mata Atlântica
+CONCHAL;SP;Mata Atlântica
+CONCHAS;SP;Mata Atlântica
+CORDEIRÓPOLIS;SP;Mata Atlântica
+COROADOS;SP;Mata Atlântica
+COSMORAMA;SP;Mata Atlântica
+CRAVINHOS;SP;Mata Atlântica
+CRISTAIS PAULISTA;SP;Mata Atlântica
+CRUZÁLIA;SP;Mata Atlântica
+CÁSSIA DOS COQUEIROS;SP;Mata Atlântica
+CÂNDIDO MOTA;SP;Mata Atlântica
+CÂNDIDO RODRIGUES;SP;Mata Atlântica
+DESCALVADO;SP;Mata Atlântica
+DIADEMA;SP;Mata Atlântica
+DIRCE REIS;SP;Mata Atlântica
+DIVINOLÂNDIA;SP;Mata Atlântica
+DOBRADA;SP;Mata Atlântica
+DOLCINÓPOLIS;SP;Mata Atlântica
+DOURADO;SP;Mata Atlântica
+DUMONT;SP;Mata Atlântica
+ECHAPORÃ;SP;Mata Atlântica
+ELIAS FAUSTO;SP;Mata Atlântica
+ELISIÁRIO;SP;Mata Atlântica
+EMBAÚBA;SP;Mata Atlântica
+EMBU DAS ARTES;SP;Mata Atlântica
+EMBU-GUAÇU;SP;Mata Atlântica
+EMILIANÓPOLIS;SP;Mata Atlântica
+ENGENHEIRO COELHO;SP;Mata Atlântica
+ESPÍRITO SANTO DO PINHAL;SP;Mata Atlântica
+ESTIVA GERBI;SP;Mata Atlântica
+ESTRELA D'OESTE;SP;Mata Atlântica
+ESTRELA DO NORTE;SP;Mata Atlântica
+FERNANDO PRESTES;SP;Mata Atlântica
+FERNANDÓPOLIS;SP;Mata Atlântica
+FERNÃO;SP;Mata Atlântica
+FERRAZ DE VASCONCELOS;SP;Mata Atlântica
+FLORA RICA;SP;Mata Atlântica
+FLOREAL;SP;Mata Atlântica
+FLORÍNEA;SP;Mata Atlântica
+FLÓRIDA PAULISTA;SP;Mata Atlântica
+FRANCA;SP;Mata Atlântica
+FRANCISCO MORATO;SP;Mata Atlântica
+GABRIEL MONTEIRO;SP;Mata Atlântica
+GARÇA;SP;Mata Atlântica
+GASTÃO VIDIGAL;SP;Mata Atlântica
+GAVIÃO PEIXOTO;SP;Mata Atlântica
+GENERAL SALGADO;SP;Mata Atlântica
+GETULINA;SP;Mata Atlântica
+GLICÉRIO;SP;Mata Atlântica
+GUAIMBÊ;SP;Mata Atlântica
+GUAIÇARA;SP;Mata Atlântica
+GUAPIAÇU;SP;Mata Atlântica
+GUARACI;SP;Mata Atlântica
+GUARANI D'OESTE;SP;Mata Atlântica
+GUARANTÃ;SP;Mata Atlântica
+GUARARAPES;SP;Mata Atlântica
+GUAREÍ;SP;Mata Atlântica
+GUARIBA;SP;Mata Atlântica
+GUARÁ;SP;Mata Atlântica
+GUATAPARÁ;SP;Mata Atlântica
+GUAÍRA;SP;Mata Atlântica
+GUZOLÂNDIA;SP;Mata Atlântica
+HERCULÂNDIA;SP;Mata Atlântica
+HORTOLÂNDIA;SP;Mata Atlântica
+IACANGA;SP;Mata Atlântica
+IACRI;SP;Mata Atlântica
+IARAS;SP;Mata Atlântica
+IBATÉ;SP;Mata Atlântica
+IBIRAREMA;SP;Mata Atlântica
+IBIRÁ;SP;Mata Atlântica
+ICÉM;SP;Mata Atlântica
+IEPÊ;SP;Mata Atlântica
+IGARAPAVA;SP;Mata Atlântica
+IGARATÁ;SP;Mata Atlântica
+IGARAÇU DO TIETÊ;SP;Mata Atlântica
+ILHA SOLTEIRA;SP;Mata Atlântica
+INDIANA;SP;Mata Atlântica
+INDIAPORÃ;SP;Mata Atlântica
+INÚBIA PAULISTA;SP;Mata Atlântica
+IPAUSSU;SP;Mata Atlântica
+IPIGUÁ;SP;Mata Atlântica
+IPUÃ;SP;Mata Atlântica
+IRACEMÁPOLIS;SP;Mata Atlântica
+IRAPURU;SP;Mata Atlântica
+IRAPUÃ;SP;Mata Atlântica
+ITAJOBI;SP;Mata Atlântica
+ITAJU;SP;Mata Atlântica
+ITAOCA;SP;Mata Atlântica
+ITAPECERICA DA SERRA;SP;Mata Atlântica
+ITAPETININGA;SP;Mata Atlântica
+ITAPIRA;SP;Mata Atlântica
+ITAPIRAPUÃ PAULISTA;SP;Mata Atlântica
+ITAPURA;SP;Mata Atlântica
+ITAPUÍ;SP;Mata Atlântica
+ITARARÉ;SP;Mata Atlântica
+ITATIBA;SP;Mata Atlântica
+ITATINGA;SP;Mata Atlântica
+ITAÍ;SP;Mata Atlântica
+ITIRAPUÃ;SP;Mata Atlântica
+ITOBI;SP;Mata Atlântica
+ITUVERAVA;SP;Mata Atlântica
+ITÁPOLIS;SP;Mata Atlântica
+JABORANDI;SP;Mata Atlântica
+JABOTICABAL;SP;Mata Atlântica
+JACAREÍ;SP;Mata Atlântica
+JACI;SP;Mata Atlântica
+JALES;SP;Mata Atlântica
+JAMBEIRO;SP;Mata Atlântica
+JANDIRA;SP;Mata Atlântica
+JARDINÓPOLIS;SP;Mata Atlântica
+JERIQUARA;SP;Mata Atlântica
+JOSÉ BONIFÁCIO;SP;Mata Atlântica
+JOÃO RAMALHO;SP;Mata Atlântica
+JUMIRIM;SP;Mata Atlântica
+JÚLIO MESQUITA;SP;Mata Atlântica
+LAGOINHA;SP;Mata Atlântica
+LARANJAL PAULISTA;SP;Mata Atlântica
+LAVÍNIA;SP;Mata Atlântica
+LEME;SP;Mata Atlântica
+LENÇÓIS PAULISTA;SP;Mata Atlântica
+LIMEIRA;SP;Mata Atlântica
+LINDÓIA;SP;Mata Atlântica
+LINS;SP;Mata Atlântica
+LOURDES;SP;Mata Atlântica
+LOUVEIRA;SP;Mata Atlântica
+LUCIANÓPOLIS;SP;Mata Atlântica
+LUIZIÂNIA;SP;Mata Atlântica
+LUPÉRCIO;SP;Mata Atlântica
+LUTÉCIA;SP;Mata Atlântica
+LUÍS ANTÔNIO;SP;Mata Atlântica
+MACATUBA;SP;Mata Atlântica
+MACAUBAL;SP;Mata Atlântica
+MACEDÔNIA;SP;Mata Atlântica
+MAGDA;SP;Mata Atlântica
+MANDURI;SP;Mata Atlântica
+MARACAÍ;SP;Mata Atlântica
+MARAPOAMA;SP;Mata Atlântica
+MARINÓPOLIS;SP;Mata Atlântica
+MARIÁPOLIS;SP;Mata Atlântica
+MARTINÓPOLIS;SP;Mata Atlântica
+MATÃO;SP;Mata Atlântica
+MAUÁ;SP;Mata Atlântica
+MENDONÇA;SP;Mata Atlântica
+MERIDIANO;SP;Mata Atlântica
+MESÓPOLIS;SP;Mata Atlântica
+MIGUELÓPOLIS;SP;Mata Atlântica
+MIRA ESTRELA;SP;Mata Atlântica
+MIRANDÓPOLIS;SP;Mata Atlântica
+MIRANTE DO PARANAPANEMA;SP;Mata Atlântica
+MIRASSOLÂNDIA;SP;Mata Atlântica
+MOCOCA;SP;Mata Atlântica
+MOGI GUAÇU;SP;Mata Atlântica
+MOMBUCA;SP;Mata Atlântica
+MONTE APRAZÍVEL;SP;Mata Atlântica
+MONTE AZUL PAULISTA;SP;Mata Atlântica
+MONTE MOR;SP;Mata Atlântica
+MONÇÕES;SP;Mata Atlântica
+MORRO AGUDO;SP;Mata Atlântica
+MOTUCA;SP;Mata Atlântica
+MURUTINGA DO SUL;SP;Mata Atlântica
+NANTES;SP;Mata Atlântica
+NEVES PAULISTA;SP;Mata Atlântica
+NHANDEARA;SP;Mata Atlântica
+NIPOÃ;SP;Mata Atlântica
+NOVA ALIANÇA;SP;Mata Atlântica
+NOVA CANAÃ PAULISTA;SP;Mata Atlântica
+NOVA CASTILHO;SP;Mata Atlântica
+NOVA EUROPA;SP;Mata Atlântica
+NOVA GRANADA;SP;Mata Atlântica
+NOVA GUATAPORANGA;SP;Mata Atlântica
+NOVA LUZITÂNIA;SP;Mata Atlântica
+NOVA ODESSA;SP;Mata Atlântica
+NOVAIS;SP;Mata Atlântica
+NOVO HORIZONTE;SP;Mata Atlântica
+NUPORANGA;SP;Mata Atlântica
+OCAUÇU;SP;Mata Atlântica
+OLÍMPIA;SP;Mata Atlântica
+ONDA VERDE;SP;Mata Atlântica
+ORIENTE;SP;Mata Atlântica
+ORINDIÚVA;SP;Mata Atlântica
+ORLÂNDIA;SP;Mata Atlântica
+OSCAR BRESSANE;SP;Mata Atlântica
+OSVALDO CRUZ;SP;Mata Atlântica
+OURINHOS;SP;Mata Atlântica
+OUROESTE;SP;Mata Atlântica
+PACAEMBU;SP;Mata Atlântica
+PALESTINA;SP;Mata Atlântica
+PALMARES PAULISTA;SP;Mata Atlântica
+PALMEIRA D'OESTE;SP;Mata Atlântica
+PALMITAL;SP;Mata Atlântica
+PANORAMA;SP;Mata Atlântica
+PARAGUAÇU PAULISTA;SP;Mata Atlântica
+PARANAPANEMA;SP;Mata Atlântica
+PARANAPUÃ;SP;Mata Atlântica
+PARAPUÃ;SP;Mata Atlântica
+PARAÍSO;SP;Mata Atlântica
+PARDINHO;SP;Mata Atlântica
+PARISI;SP;Mata Atlântica
+PATROCÍNIO PAULISTA;SP;Mata Atlântica
+PAULICÉIA;SP;Mata Atlântica
+PEDERNEIRAS;SP;Mata Atlântica
+PEDRANÓPOLIS;SP;Mata Atlântica
+PEDRINHAS PAULISTA;SP;Mata Atlântica
+PENÁPOLIS;SP;Mata Atlântica
+PEREIRA BARRETO;SP;Mata Atlântica
+PEREIRAS;SP;Mata Atlântica
+PIACATU;SP;Mata Atlântica
+PILAR DO SUL;SP;Mata Atlântica
+PINDORAMA;SP;Mata Atlântica
+PIRANGI;SP;Mata Atlântica
+PIRAPOZINHO;SP;Mata Atlântica
+PITANGUEIRAS;SP;Mata Atlântica
+PLANALTO;SP;Mata Atlântica
+PLATINA;SP;Mata Atlântica
+POLONI;SP;Mata Atlântica
+POMPÉIA;SP;Mata Atlântica
+PONGAÍ;SP;Mata Atlântica
+PONTAL;SP;Mata Atlântica
+PONTALINDA;SP;Mata Atlântica
+PONTES GESTAL;SP;Mata Atlântica
+POPULINA;SP;Mata Atlântica
+PORANGABA;SP;Mata Atlântica
+POTIM;SP;Mata Atlântica
+POTIRENDABA;SP;Mata Atlântica
+PRACINHA;SP;Mata Atlântica
+PRADÓPOLIS;SP;Mata Atlântica
+PRESIDENTE BERNARDES;SP;Mata Atlântica
+PRESIDENTE PRUDENTE;SP;Mata Atlântica
+PROMISSÃO;SP;Mata Atlântica
+QUADRA;SP;Mata Atlântica
+QUATÁ;SP;Mata Atlântica
+QUEIROZ;SP;Mata Atlântica
+QUINTANA;SP;Mata Atlântica
+RAFARD;SP;Mata Atlântica
+RANCHARIA;SP;Mata Atlântica
+REDENÇÃO DA SERRA;SP;Mata Atlântica
+REGENTE FEIJÓ;SP;Mata Atlântica
+REGISTRO;SP;Mata Atlântica
+RESTINGA;SP;Mata Atlântica
+RIBEIRA;SP;Mata Atlântica
+RIBEIRÃO BONITO;SP;Mata Atlântica
+RIBEIRÃO BRANCO;SP;Mata Atlântica
+RIBEIRÃO CORRENTE;SP;Mata Atlântica
+RIBEIRÃO PIRES;SP;Mata Atlântica
+RIBEIRÃO DO SUL;SP;Mata Atlântica
+RIBEIRÃO DOS ÍNDIOS;SP;Mata Atlântica
+RIFAINA;SP;Mata Atlântica
+RINCÃO;SP;Mata Atlântica
+RINÓPOLIS;SP;Mata Atlântica
+RIO GRANDE DA SERRA;SP;Mata Atlântica
+RIO DAS PEDRAS;SP;Mata Atlântica
+RIOLÂNDIA;SP;Mata Atlântica
+RIVERSUL;SP;Mata Atlântica
+ROSEIRA;SP;Mata Atlântica
+RUBINÉIA;SP;Mata Atlântica
+RUBIÁCEA;SP;Mata Atlântica
+SABINO;SP;Mata Atlântica
+SAGRES;SP;Mata Atlântica
+SALES;SP;Mata Atlântica
+SALES OLIVEIRA;SP;Mata Atlântica
+SALMOURÃO;SP;Mata Atlântica
+SALTINHO;SP;Mata Atlântica
+SALTO GRANDE;SP;Mata Atlântica
+SANTA ADÉLIA;SP;Mata Atlântica
+SANTA ALBERTINA;SP;Mata Atlântica
+SANTA BRANCA;SP;Mata Atlântica
+SANTA BÁRBARA D'OESTE;SP;Mata Atlântica
+SANTA CLARA D'OESTE;SP;Mata Atlântica
+SANTA CRUZ DA CONCEIÇÃO;SP;Mata Atlântica
+SANTA CRUZ DA ESPERANÇA;SP;Mata Atlântica
+SANTA CRUZ DAS PALMEIRAS;SP;Mata Atlântica
+SANTA CRUZ DO RIO PARDO;SP;Mata Atlântica
+SANTA ERNESTINA;SP;Mata Atlântica
+SANTA FÉ DO SUL;SP;Mata Atlântica
+SANTA LÚCIA;SP;Mata Atlântica
+SANTA MERCEDES;SP;Mata Atlântica
+SANTA RITA D'OESTE;SP;Mata Atlântica
+SANTA ROSA DE VITERBO;SP;Mata Atlântica
+SANTA SALETE;SP;Mata Atlântica
+SANTANA DA PONTE PENSA;SP;Mata Atlântica
+SANTO ANASTÁCIO;SP;Mata Atlântica
+SANTO ANTÔNIO DA ALEGRIA;SP;Mata Atlântica
+SANTO ANTÔNIO DO ARACANGUÁ;SP;Mata Atlântica
+SANTO EXPEDITO;SP;Mata Atlântica
+SANTÓPOLIS DO AGUAPEÍ;SP;Mata Atlântica
+SARAPUÍ;SP;Mata Atlântica
+SEBASTIANÓPOLIS DO SUL;SP;Mata Atlântica
+SERRA AZUL;SP;Mata Atlântica
+SERRANA;SP;Mata Atlântica
+SERTÃOZINHO;SP;Mata Atlântica
+SEVERÍNIA;SP;Mata Atlântica
+SUD MENNUCCI;SP;Mata Atlântica
+SUMARÉ;SP;Mata Atlântica
+SUZANÁPOLIS;SP;Mata Atlântica
+SÃO CAETANO DO SUL;SP;Mata Atlântica
+SÃO FRANCISCO;SP;Mata Atlântica
+SÃO JOAQUIM DA BARRA;SP;Mata Atlântica
+SÃO JOSÉ DA BELA VISTA;SP;Mata Atlântica
+SÃO JOSÉ DO RIO PARDO;SP;Mata Atlântica
+SÃO JOÃO DAS DUAS PONTES;SP;Mata Atlântica
+SÃO JOÃO DE IRACEMA;SP;Mata Atlântica
+SÃO LOURENÇO DA SERRA;SP;Mata Atlântica
+SÃO PEDRO DO TURVO;SP;Mata Atlântica
+SÃO SEBASTIÃO DA GRAMA;SP;Mata Atlântica
+SÃO SIMÃO;SP;Mata Atlântica
+TABAPUÃ;SP;Mata Atlântica
+TABATINGA;SP;Mata Atlântica
+TABOÃO DA SERRA;SP;Mata Atlântica
+TACIBA;SP;Mata Atlântica
+TAIAÇU;SP;Mata Atlântica
+TAIÚVA;SP;Mata Atlântica
+TAMBAÚ;SP;Mata Atlântica
+TANABI;SP;Mata Atlântica
+TAPIRATIBA;SP;Mata Atlântica
+TAQUARAL;SP;Mata Atlântica
+TAQUARITINGA;SP;Mata Atlântica
+TAQUARIVAÍ;SP;Mata Atlântica
+TARABAI;SP;Mata Atlântica
+TARUMÃ;SP;Mata Atlântica
+TATUÍ;SP;Mata Atlântica
+TERRA ROXA;SP;Mata Atlântica
+TORRE DE PEDRA;SP;Mata Atlântica
+TRABIJU;SP;Mata Atlântica
+TRÊS FRONTEIRAS;SP;Mata Atlântica
+TUPI PAULISTA;SP;Mata Atlântica
+TUPÃ;SP;Mata Atlântica
+TURIÚBA;SP;Mata Atlântica
+TURMALINA;SP;Mata Atlântica
+UBIRAJARA;SP;Mata Atlântica
+UCHOA;SP;Mata Atlântica
+UNIÃO PAULISTA;SP;Mata Atlântica
+URUPÊS;SP;Mata Atlântica
+URÂNIA;SP;Mata Atlântica
+VALENTIM GENTIL;SP;Mata Atlântica
+VALPARAÍSO;SP;Mata Atlântica
+VARGEM GRANDE DO SUL;SP;Mata Atlântica
+VERA CRUZ;SP;Mata Atlântica
+VINHEDO;SP;Mata Atlântica
+VIRADOURO;SP;Mata Atlântica
+VISTA ALEGRE DO ALTO;SP;Mata Atlântica
+VITÓRIA BRASIL;SP;Mata Atlântica
+VOTUPORANGA;SP;Mata Atlântica
+VÁRZEA PAULISTA;SP;Mata Atlântica
+ZACARIAS;SP;Mata Atlântica
+ÁGUAS DE LINDÓIA;SP;Mata Atlântica
+ÁGUAS DE SANTA BÁRBARA;SP;Mata Atlântica
+ÁGUAS DE SÃO PEDRO;SP;Mata Atlântica
+ÁLVARES FLORENCE;SP;Mata Atlântica
+ÁLVARES MACHADO;SP;Mata Atlântica
+ÁLVARO DE CARVALHO;SP;Mata Atlântica
+ÓLEO;SP;Mata Atlântica
+CURVELÂNDIA;MT;Pantanal
+GLÓRIA D'OESTE;MT;Pantanal
+ITIQUIRA;MT;Pantanal
+JUSCIMEIRA;MT;Pantanal
+LAMBARI D'OESTE;MT;Pantanal
+MIRASSOL D'OESTE;MT;Pantanal
+NOSSA SENHORA DO LIVRAMENTO;MT;Pantanal
+PORTO ESPERIDIÃO;MT;Pantanal
+RONDONÓPOLIS;MT;Pantanal
+SANTO ANTÔNIO DO LEVERGER;MT;Pantanal
+BODOQUENA;MS;Pantanal
+COXIM;MS;Pantanal
+PORTO MURTINHO;MS;Pantanal
+RIO VERDE DE MATO GROSSO;MS;Pantanal
+SONORA;MS;Pantanal
+ACEGUÁ;RS;Pampa
+AJURICABA;RS;Pampa
+ALEGRIA;RS;Pampa
+ALMIRANTE TAMANDARÉ DO SUL;RS;Pampa
+ALVORADA;RS;Pampa
+AMARAL FERRADOR;RS;Pampa
+ARAMBARÉ;RS;Pampa
+ARROIO DO PADRE;RS;Pampa
+ARROIO DOS RATOS;RS;Pampa
+AUGUSTO PESTANA;RS;Pampa
+BALNEÁRIO PINHAL;RS;Pampa
+BARÃO DO TRIUNFO;RS;Pampa
+BOA VISTA DAS MISSÕES;RS;Pampa
+BOA VISTA DO CADEADO;RS;Pampa
+BOA VISTA DO INCRA;RS;Pampa
+BOSSOROCA;RS;Pampa
+BUTIÁ;RS;Pampa
+CACEQUI;RS;Pampa
+CACHOEIRA DO SUL;RS;Pampa
+CACHOEIRINHA;RS;Pampa
+CAIBATÉ;RS;Pampa
+CAMPINA DAS MISSÕES;RS;Pampa
+CAMPINAS DO SUL;RS;Pampa
+CAMPOS BORGES;RS;Pampa
+CANDELÁRIA;RS;Pampa
+CANGUÇU;RS;Pampa
+CAPELA DE SANTANA;RS;Pampa
+CAPIVARI DO SUL;RS;Pampa
+CAPÃO DO CIPÓ;RS;Pampa
+CAPÃO DO LEÃO;RS;Pampa
+CARAZINHO;RS;Pampa
+CATUÍPE;RS;Pampa
+CERRITO;RS;Pampa
+CERRO BRANCO;RS;Pampa
+CERRO GRANDE DO SUL;RS;Pampa
+CHAPADA;RS;Pampa
+CHIAPETTA;RS;Pampa
+CHUVISCA;RS;Pampa
+CHUÍ;RS;Pampa
+CIDREIRA;RS;Pampa
+COLORADO;RS;Pampa
+CONDOR;RS;Pampa
+COQUEIROS DO SUL;RS;Pampa
+CORONEL BARROS;RS;Pampa
+CORONEL BICACO;RS;Pampa
+COXILHA;RS;Pampa
+CRUZ ALTA;RS;Pampa
+CRUZALTENSE;RS;Pampa
+CÂNDIDO GODÓI;RS;Pampa
+DEZESSEIS DE NOVEMBRO;RS;Pampa
+DILERMANDO DE AGUIAR;RS;Pampa
+DOIS IRMÃOS DAS MISSÕES;RS;Pampa
+DOM FELICIANO;RS;Pampa
+ENGENHO VELHO;RS;Pampa
+ENTRE RIOS DO SUL;RS;Pampa
+ENTRE-IJUÍS;RS;Pampa
+EREBANGO;RS;Pampa
+ERECHIM;RS;Pampa
+ERNESTINA;RS;Pampa
+ERVAL SECO;RS;Pampa
+ESTAÇÃO;RS;Pampa
+ESTEIO;RS;Pampa
+ESTRELA VELHA;RS;Pampa
+EUGÊNIO DE CASTRO;RS;Pampa
+FORMIGUEIRO;RS;Pampa
+FORTALEZA DOS VALOS;RS;Pampa
+GARRUCHOS;RS;Pampa
+GENERAL CÂMARA;RS;Pampa
+GETÚLIO VARGAS;RS;Pampa
+GIRUÁ;RS;Pampa
+GRAMADO DOS LOUREIROS;RS;Pampa
+GUARANI DAS MISSÕES;RS;Pampa
+HERVAL;RS;Pampa
+HULHA NEGRA;RS;Pampa
+IBIRUBÁ;RS;Pampa
+IJUÍ;RS;Pampa
+IMBÉ;RS;Pampa
+INDEPENDÊNCIA;RS;Pampa
+INHACORÁ;RS;Pampa
+IPIRANGA DO SUL;RS;Pampa
+ITAARA;RS;Pampa
+ITACURUBI;RS;Pampa
+IVORÁ;RS;Pampa
+JABOTICABA;RS;Pampa
+JACUIZINHO;RS;Pampa
+JACUTINGA;RS;Pampa
+JAGUARI;RS;Pampa
+JAGUARÃO;RS;Pampa
+JARI;RS;Pampa
+JÓIA;RS;Pampa
+JÚLIO DE CASTILHOS;RS;Pampa
+LAVRAS DO SUL;RS;Pampa
+MANOEL VIANA;RS;Pampa
+MAQUINÉ;RS;Pampa
+MATA;RS;Pampa
+MATO CASTELHANO;RS;Pampa
+MATO QUEIMADO;RS;Pampa
+MINAS DO LEÃO;RS;Pampa
+MONTENEGRO;RS;Pampa
+MORRO REDONDO;RS;Pampa
+NONOAI;RS;Pampa
+NOVA BOA VISTA;RS;Pampa
+NOVA ESPERANÇA DO SUL;RS;Pampa
+NOVA PALMA;RS;Pampa
+NOVA RAMADA;RS;Pampa
+NOVO BARREIRO;RS;Pampa
+NOVO CABRAIS;RS;Pampa
+NÃO-ME-TOQUE;RS;Pampa
+OSÓRIO;RS;Pampa
+PALMARES DO SUL;RS;Pampa
+PALMEIRA DAS MISSÕES;RS;Pampa
+PANAMBI;RS;Pampa
+PANTANO GRANDE;RS;Pampa
+PARAÍSO DO SUL;RS;Pampa
+PASSO DO SOBRADO;RS;Pampa
+PAULO BENTO;RS;Pampa
+PEDRAS ALTAS;RS;Pampa
+PEJUÇARA;RS;Pampa
+PINHAL GRANDE;RS;Pampa
+PINHEIRO MACHADO;RS;Pampa
+PIRAPÓ;RS;Pampa
+PONTE PRETA;RS;Pampa
+PONTÃO;RS;Pampa
+PORTO XAVIER;RS;Pampa
+PORTÃO;RS;Pampa
+QUATRO IRMÃOS;RS;Pampa
+QUEVEDOS;RS;Pampa
+QUINZE DE NOVEMBRO;RS;Pampa
+REDENTORA;RS;Pampa
+RESTINGA SÊCA;RS;Pampa
+RIO PARDO;RS;Pampa
+ROLADOR;RS;Pampa
+RONDA ALTA;RS;Pampa
+RONDINHA;RS;Pampa
+ROQUE GONZALES;RS;Pampa
+SALDANHA MARINHO;RS;Pampa
+SALTO DO JACUÍ;RS;Pampa
+SANTA BÁRBARA DO SUL;RS;Pampa
+SANTA CRUZ DO SUL;RS;Pampa
+SANTA MARGARIDA DO SUL;RS;Pampa
+SANTA ROSA;RS;Pampa
+SANTIAGO;RS;Pampa
+SANTO ANTÔNIO DAS MISSÕES;RS;Pampa
+SANTO ANTÔNIO DO PLANALTO;RS;Pampa
+SANTO AUGUSTO;RS;Pampa
+SANTO ÂNGELO;RS;Pampa
+SAPUCAIA DO SUL;RS;Pampa
+SARANDI;RS;Pampa
+SEBERI;RS;Pampa
+SENADOR SALGADO FILHO;RS;Pampa
+SENTINELA DO SUL;RS;Pampa
+SERTÃO;RS;Pampa
+SERTÃO SANTANA;RS;Pampa
+SETE DE SETEMBRO;RS;Pampa
+SÃO GABRIEL;RS;Pampa
+SÃO JERÔNIMO;RS;Pampa
+SÃO JOSÉ DO INHACORÁ;RS;Pampa
+SÃO JOSÉ DO NORTE;RS;Pampa
+SÃO MARTINHO DA SERRA;RS;Pampa
+SÃO MIGUEL DAS MISSÕES;RS;Pampa
+SÃO NICOLAU;RS;Pampa
+SÃO PEDRO DAS MISSÕES;RS;Pampa
+SÃO PEDRO DO SUL;RS;Pampa
+SÃO SEPÉ;RS;Pampa
+SÃO VALENTIM;RS;Pampa
+SÃO VALÉRIO DO SUL;RS;Pampa
+SÃO VICENTE DO SUL;RS;Pampa
+TABAÍ;RS;Pampa
+TAPES;RS;Pampa
+TAQUARI;RS;Pampa
+TOROPI;RS;Pampa
+TRAMANDAÍ;RS;Pampa
+TRINDADE DO SUL;RS;Pampa
+TRÊS PALMEIRAS;RS;Pampa
+TRÊS DE MAIO;RS;Pampa
+TUCUNDUVA;RS;Pampa
+TUPANCIRETÃ;RS;Pampa
+TURUÇU;RS;Pampa
+UBIRETAMA;RS;Pampa
+UNISTALDA;RS;Pampa
+URUGUAIANA;RS;Pampa
+VALE VERDE;RS;Pampa
+VICTOR GRAEFF;RS;Pampa
+VILA LÂNGARO;RS;Pampa
+VILA NOVA DO SUL;RS;Pampa
+VITÓRIA DAS MISSÕES;RS;Pampa
+XANGRI-LÁ;RS;Pampa
+ÁGUA SANTA;RS;Pampa

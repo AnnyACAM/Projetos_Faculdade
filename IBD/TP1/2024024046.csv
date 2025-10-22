@@ -1,0 +1,93 @@
+Query Number,Query Size
+a0,"(3, 5)"
+SELECT * FROM filmes,"   id               titulo    genero  duracao  classificacao_indicativa
+0   1  Vingadores Ultimato      Ação      148                        14
+1   2            Toy Story  Animação       81                         0
+2   3    O Poderoso Chefão     Drama      175                        18"
+a1,"(1, 1)"
+SELECT titulo FROM filmes WHERE genero = 'Ação';,"                titulo
+0  Vingadores Ultimato"
+a2,"(0, 1)"
+SELECT nome FROM salas WHERE capacidade > 100;,"Empty DataFrame
+Columns: [nome]
+Index: []"
+a3,"(3, 2)"
+"SELECT titulo, preco_ingresso FROM filmes JOIN sessoes ON filmes.id = sessoes.filme_id;","                titulo  preco_ingresso
+0  Vingadores Ultimato            20.0
+1            Toy Story            15.5
+2    O Poderoso Chefão            25.0"
+a4,"(3, 1)"
+SELECT nome FROM clientes JOIN ingressos ON clientes.id = ingressos.cliente_id;,"    nome
+0  Alice
+1  Bruno
+2  Carla"
+a5,"(1, 1)"
+SELECT titulo AS nome FROM filmes WHERE classificacao_indicativa > 16;,"                nome
+0  O Poderoso Chefão"
+a6,"(3, 2)"
+"SELECT nome, data_compra FROM clientes JOIN ingressos ON clientes.id = ingressos.cliente_id JOIN sessoes ON ingressos.sessao_id = sessoes.id;","    nome data_compra
+0  Alice  2025-05-10
+1  Bruno  2025-05-11
+2  Carla  2025-05-12"
+a7,"(3, 1)"
+SELECT titulo AS nome FROM filmes JOIN sessoes ON filmes.id = sessoes.filme_id;,"                  nome
+0  Vingadores Ultimato
+1            Toy Story
+2    O Poderoso Chefão"
+a8,"(0, 1)"
+SELECT id FROM sessoes WHERE data_hora LIKE '2025-04-25%',"Empty DataFrame
+Columns: [id]
+Index: []"
+a9,"(3, 2)"
+"SELECT cliente_id,count(*) FROM ingressos GROUP BY cliente_id HAVING count(*)","   cliente_id  count(*)
+0           1         1
+1           2         1
+2           3         1"
+a10,"(3, 1)"
+SELECT titulo FROM filmes JOIN sessoes ON filmes.id = sessoes.filme_id JOIN ingressos ON ingressos.sessao_id = sessoes.id,"                titulo
+0  Vingadores Ultimato
+1            Toy Story
+2    O Poderoso Chefão"
+q1,"(0, 5)"
+SELECT * FROM filmes WHERE genero = 'Comédia',"Empty DataFrame
+Columns: [id, titulo, genero, duracao, classificacao_indicativa]
+Index: []"
+q2,"(0, 3)"
+SELECT * FROM salas WHERE capacidade > 150,"Empty DataFrame
+Columns: [id, nome, capacidade]
+Index: []"
+q4,"(3, 2)"
+"SELECT clientes.nome,count(*) FROM clientes JOIN ingressos ON clientes.id = ingressos.cliente_id GROUP BY clientes.id HAVING count(*)","    nome  count(*)
+0  Alice         1
+1  Bruno         1
+2  Carla         1"
+q5,"(3, 2)"
+"SELECT sessoes.id, avg(sessoes.preco_ingresso) FROM sessoes JOIN ingressos ON sessoes.id = ingressos.sessao_id GROUP BY sessoes.preco_ingresso HAVING avg(sessoes.preco_ingresso)","   id  avg(sessoes.preco_ingresso)
+0   2                         15.5
+1   1                         20.0
+2   3                         25.0"
+q6,"(0, 5)"
+"SELECT sessoes.* FROM sessoes,ingressos LEFT JOIN ingressos AS i ON sessoes.id = i.sessao_id WHERE i.sessao_id IS NULL","Empty DataFrame
+Columns: [id, filme_id, sala_id, data_hora, preco_ingresso]
+Index: []"
+q7,"(0, 5)"
+SELECT filmes.* FROM filmes JOIN sessoes ON filmes.id = sessoes.filme_id GROUP BY filmes.id HAVING count(*) AND count(*) > 3,"Empty DataFrame
+Columns: [id, titulo, genero, duracao, classificacao_indicativa]
+Index: []"
+q8,"(1, 4)"
+SELECT clientes.* FROM filmes JOIN sessoes ON filmes.id = sessoes.filme_id JOIN ingressos ON sessoes.id = ingressos.sessao_id JOIN clientes ON ingressos.cliente_id = clientes.id WHERE filmes.genero ='Drama',"   id   nome            email data_nascimento
+0   3  Carla  carla@email.com      2003-11-23"
+q9,"(1, 5)"
+SELECT sessoes.* FROM filmes JOIN sessoes ON sessoes.filme_id = filmes.id WHERE filmes.titulo LIKE 'Vingadores Ultimato' ,"   id  filme_id  sala_id         data_hora  preco_ingresso
+0   1         1        1  2025-05-12 19:30            20.0"
+q10,"(1, 2)"
+"SELECT data_sessoes.data, MAX(total) FROM(SELECT ingressos.data_compra AS data,count(*) AS total FROM ingressos GROUP BY TIME(ingressos.data_compra) HAVING count(*)) AS data_sessoes","         data  MAX(total)
+0  2025-05-10           3"
+pm1,"(3, 3)"
+"SELECT filme_trailer.titulo_trailer,filme_trailer.momento_sessao, filmes.titulo AS titulo_sessao FROM(SELECT filmes.titulo AS titulo_trailer, sessoes.data_hora AS momento_sessao, sessoes.filme_id AS filme_id_sessao FROM (trailer JOIN filmes ON trailer.trailer_filme_id = filmes.id JOIN sessoes ON trailer.sessao_id = sessoes.id)) AS filme_trailer JOIN filmes ON filme_trailer.filme_id_sessao = filmes.id","        titulo_trailer    momento_sessao        titulo_sessao
+0  Vingadores Ultimato  2025-05-13 14:00            Toy Story
+1            Toy Story  2025-05-12 19:30  Vingadores Ultimato
+2            Toy Story  2025-05-14 21:00    O Poderoso Chefão"
+pm2,"(1, 5)"
+SELECT filmes.* FROM trailer RIGHT JOIN filmes ON trailer.trailer_filme_id = filmes.id WHERE trailer.sessao_id IS NULL,"   id             titulo genero  duracao  classificacao_indicativa
+0   3  O Poderoso Chefão  Drama      175                        18"

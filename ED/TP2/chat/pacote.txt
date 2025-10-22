@@ -1,0 +1,333 @@
+########################### arquivo: pacote.hpp #####
+#ifndef PACOTES_HPP
+#define PACOTES_HPP
+
+#include <string>
+
+//Status Pacote
+#define REARMAZENADO 33
+#define REMOVIDO 12
+
+#define NAO_POSTADO 1
+#define PRONTO_TRANSPORTE 2 
+#define ARMAZENADO 3
+#define EM_TRANSITO 4  
+#define ENTREGUE 5
+
+/* ----------------- ROTA ------------------*/
+struct Rota{
+    int* caminho;           //Array com os armazés a serem seguidos
+    int tamanho = 0;        //Quantidade de armazén no caminho
+    int atual = 0;          //Indice atual no armazem
+    bool definida = false;  
+
+    //Defina a rota
+    void DefineRota(int* rota, int n) {
+        caminho = new int[n];   // aloca espaço para o caminho
+        tamanho = n;            // define o tamanho do caminho
+        definida = true;        // marca que a rota foi definida
+
+        for(int i = 0; i < n; i++){
+            caminho[i] = rota[i];  // copia os elementos da rota original
+        }
+    }
+
+    // Avança o índice atual da rota, se ainda não chegou ao final
+    void AvancaRota(){
+        if(atual < tamanho - 1){
+            atual += 1;
+        }
+    }
+
+    // Retorna o indice do armazém atual na rota
+    int getArmazemAtual(){
+        return caminho[atual];
+    }
+
+    // Retorna o indice do proximo armazém atual na rota
+    int getArmazemProx(){
+        //Se o próximo for o final
+        if(atual + 1 > tamanho - 1){
+            return caminho[atual];
+        }
+
+        return caminho[atual + 1];
+    }
+
+    //Destrutor
+    void deleteRota(){
+        delete[] caminho;
+    }
+
+};
+
+/* ------------------ PACOTE -------------------*/
+class Pacote{
+    private:
+        int id_pct;
+        int tempo = -1;
+        int origem;
+        int destino;
+        
+    public:
+        int id_sist;
+        int status;
+        Rota rota;
+
+        /*Construtores e Destrutor*/
+        Pacote();
+        ~Pacote();
+
+        /*Setter e Getter*/
+        std::string SetStatus(int s_, int tempo);
+        int getId();
+        int getTempo();
+        int getOrigem();
+        int getDestino();
+
+        void defineDados(int i, int valor);
+        
+};
+
+/* ------------------ PILHA DE PACOTES -------------------*/
+class Pilha{
+    private:
+        Pacote** pilha;
+        int tamanho;
+        int topo;
+        bool secao = false; //Se a pilha atual é uma seção
+
+    public:
+        int k_secao =-1; //Chave secao
+
+        /*Construtor e Destrutor*/
+        Pilha();
+        ~Pilha();
+
+        /*Ações na Pilha*/
+        void ConstroiPilha(int tamanho);
+        void push(Pacote* item); 
+        Pacote* pop();
+        bool vazia();
+        void reset();
+        void deletePilha();
+        bool pilhaExiste();
+
+        void defineSecao(int k_secao);
+        int removiveis();
+        
+};
+
+#endif
+
+########################### arquivo: pacote.cpp #####
+
+
+#include "pacote.hpp"
+#include <sstream>
+#include <iostream>
+#include <iomanip>
+
+/* ------------------- PACOTE ------------------------*/
+
+/*Construtor*/
+Pacote::Pacote(){}
+
+/*Destrutor*/
+Pacote::~Pacote() {
+    this->rota.deleteRota();
+}
+
+/*Define Status e retorna o texto com a alteração*/
+std::string Pacote::SetStatus(int s_, int tempo){
+    std::ostringstream oss;
+    std::ostringstream ini_oss;
+    std::string texto = "";
+
+    ini_oss <<  std::setw(7) << std::setfill('0') << tempo                      
+        << " pacote " << std::setw(3) << std::setfill('0') << this->id_sist;
+    
+    texto += ini_oss.str();
+
+    switch (s_){
+    case NAO_POSTADO:
+        this->status = NAO_POSTADO;
+        break;
+    
+    case PRONTO_TRANSPORTE:
+        this->status = PRONTO_TRANSPORTE;
+        break;
+
+    case ARMAZENADO:
+        oss << " armazenado em " << std::setw(3) << std::setfill('0') << this->rota.getArmazemAtual() 
+            << " na secao " << std::setw(3) << std::setfill('0') << this->rota.getArmazemProx()      
+            << "\n";
+        
+        texto += oss.str();
+        this->status = ARMAZENADO;
+        break;
+
+    case REARMAZENADO:
+        oss << " rearmazenado em " << std::setw(3) << std::setfill('0') << this->rota.getArmazemAtual() 
+            << " na secao " << std::setw(3) << std::setfill('0') << this->rota.getArmazemProx()      
+            << "\n";
+        
+        texto += oss.str();
+        this->status = ARMAZENADO;
+        break;
+
+    case EM_TRANSITO:
+        //Incrementa e desincrementa o atual pois o transporte é feito antes de mudar o status
+        if(rota.atual == 0){
+            break;
+        }
+        rota.atual -= 1;
+        oss << " em transito de " << std::setw(3) << std::setfill('0') << this->rota.getArmazemAtual()  
+            << " para " << std::setw(3) << std::setfill('0') << this->rota.getArmazemProx()      
+            << "\n";
+        
+        texto += oss.str();
+        rota.atual += 1;
+        this->status = EM_TRANSITO;
+        break;
+
+    case REMOVIDO:
+        oss << " removido de " << std::setw(3) << std::setfill('0') << this->rota.getArmazemAtual() 
+            << " na secao " << std::setw(3) << std::setfill('0') << this->rota.getArmazemProx()      
+            << "\n";
+        
+        texto += oss.str();
+        this->status = PRONTO_TRANSPORTE;
+        break;
+    
+    case ENTREGUE:
+        oss << " entregue em " << std::setw(3) << std::setfill('0') << this->rota.getArmazemAtual()  
+            << "\n";
+        
+        texto += oss.str();
+        this->status = ENTREGUE;
+        break;
+    
+    default:
+        break;
+    }
+
+    /*if(this->status == EM_TRANSITO || this->status == PRONTO_TRANSPORTE){*/
+        return texto;
+    /*}
+    return "";*/
+}
+
+/*Getter*/
+int Pacote::getId()     {   return this->id_pct;  }
+int Pacote::getTempo()  {   return this->tempo;   }
+int Pacote::getOrigem() {   return this->origem;  }
+int Pacote::getDestino(){   return this->destino; }
+
+/*Define dados a partir da leitura do arquivo*/
+void Pacote::defineDados(int i, int valor){
+    switch (i){
+        case 0:
+            this->tempo = valor;
+            break;
+
+        case 2:
+            this->id_pct = valor;
+            break;
+
+        case 4:
+            this->origem = valor;
+            break;
+
+        case 6:
+            this->destino= valor;
+            break;
+    
+        default:
+            break;
+    }
+}
+
+
+
+/* ------------------- PILHA DE PACOTES ------------------------*/
+
+/*Construtor*/
+Pilha::Pilha(){}
+
+/*Destrutor*/
+Pilha::~Pilha(){
+    //Se a pilha não for nula deleta
+    if(pilha){
+        deletePilha();
+    }
+}
+
+/*Aloca pilha*/
+void Pilha::ConstroiPilha(int tamanho){
+    this->topo = -1;
+    this->tamanho = tamanho;
+    this->pilha = new Pacote*[tamanho];
+}
+
+/*Empilha pacote*/
+void Pilha::push(Pacote* item){
+    if(item != nullptr && topo < tamanho -1){
+        this->topo += 1;
+        this->pilha[topo] = item;
+    }
+} 
+
+/*Desempilha pacote*/
+Pacote* Pilha::pop(){
+    if(topo >= 0){
+        this->topo -= 1;
+        return this->pilha[topo + 1];
+    }
+    this->topo -= 1;
+    return nullptr;
+}
+
+/*Verifica se a pilha esta vazia*/
+bool Pilha::vazia(){
+    if(topo < 0){
+        return true;
+    }
+    
+    return false;
+}
+
+/*Libera memória pilha*/
+void Pilha::deletePilha(){
+    delete[] pilha;
+}
+
+/*Define a pilha como uma secao*/
+void Pilha::defineSecao(int k_secao){
+    this->k_secao = k_secao;
+    this->secao = true;
+}
+
+/*Reinicia o topo da pilha*/
+void Pilha::reset(){
+    if(vazia()){
+        this->topo = -1;
+    }
+}
+
+/* Retorna a quantidade de pacotes que podem ser removidos em uma seçaõ*/
+int Pilha::removiveis() {
+    int count = 0;
+    //Verifica todos os pacotes
+    for (int i = 0; i <= topo; i++) {
+        //Adiciona ao contador se o pacote não for nulo, não for entregue e estiver na secao certa
+        if (pilha[i] != nullptr && pilha[i]->status != ENTREGUE &&
+            pilha[i]->rota.getArmazemAtual() != pilha[i]->rota.getArmazemProx()) {
+            count++;
+            if(secao && pilha[i]->rota.getArmazemProx() != k_secao){
+                count--;
+            }
+        }
+    }
+    return count;
+}
