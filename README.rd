@@ -2,7 +2,7 @@
 Descrição:
 Este repositório reúne os trabalhos de conclusão de diversas disciplinas desenvolvidos ao longo da minha graduação, abrangendo atividades de desenvolvimento de software e ciência de dados.
 
-📂 Projetos
+📂 Disciplinas
  ┣ 📁 Programação e Desenvolvimento de Software 1                   PDS I
  ┣ 📁 Fundamentos de Ciência de Dados                               FCD
  ┣ 📁 Programação e Desenvolvimento de Software 2                   PDS II
