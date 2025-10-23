@@ -1,6 +1,4 @@
-🧩 Projetos Acadêmicos
-Descrição:
-Este repositório reúne os trabalhos de conclusão de diversas disciplinas desenvolvidos ao longo da minha graduação, abrangendo atividades de desenvolvimento de software e ciência de dados.
+- Este repositório reúne os trabalhos de conclusão de diversas disciplinas desenvolvidos ao longo da minha graduação, abrangendo atividades de desenvolvimento de software e ciência de dados.
 
 📂 Disciplinas
  ┣ 📁 Programação e Desenvolvimento de Software 1                   PDS I
